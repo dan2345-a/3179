@@ -1,0 +1,602 @@
+species,lat,lon,count,share
+Koala,-38.5,146.5,435,0.0019
+Koala,-34.5,146.5,6263,0.0275
+Koala,-29.5,152.5,2881,0.0127
+Koala,-31.5,152.5,24621,0.1081
+Koala,-29.5,153.5,4337,0.019
+Koala,-33.5,151.5,1984,0.0087
+Koala,-36.5,146.5,100,0.0004
+Koala,-27.5,153.5,14469,0.0635
+Koala,-28.5,153.5,19663,0.0863
+Koala,-35.5,137.5,226,0.001
+Koala,-37.5,147.5,270,0.0012
+Koala,-36.5,149.5,12808,0.0562
+Koala,-35.5,148.5,11,0.0
+Koala,-30.5,151.5,15158,0.0666
+Koala,-35.5,145.5,396,0.0017
+Koala,-19.5,146.5,304,0.0013
+Koala,-32.5,152.5,15761,0.0692
+Koala,-35.5,149.5,1418,0.0062
+Koala,-36.5,150.5,134,0.0006
+Koala,-38.5,141.5,252,0.0011
+Koala,-38.5,145.5,602,0.0026
+Koala,-33.5,150.5,12414,0.0545
+Koala,-30.5,152.5,5386,0.0236
+Koala,-34.5,150.5,42335,0.1859
+Koala,-37.5,149.5,117,0.0005
+Koala,-35.5,144.5,80,0.0004
+Koala,-36.5,140.5,9,0.0
+Koala,-26.5,152.5,287,0.0013
+Koala,-37.5,144.5,547,0.0024
+Koala,-38.5,144.5,68,0.0003
+Koala,-38.5,143.5,687,0.003
+Koala,-30.5,153.5,2263,0.0099
+Koala,-34.5,138.5,1950,0.0086
+Koala,-35.5,138.5,904,0.004
+Koala,-27.5,152.5,2044,0.009
+Koala,-20.5,147.5,1,0.0
+Koala,-28.5,152.5,7691,0.0338
+Koala,-38.5,142.5,427,0.0019
+Koala,-15.5,145.5,1,0.0
+Koala,-27.5,151.5,827,0.0036
+Koala,-34.5,135.5,150,0.0007
+Koala,-21.5,148.5,35,0.0002
+Koala,-33.5,149.5,1080,0.0047
+Koala,-22.5,149.5,10,0.0
+Koala,-17.5,145.5,7,0.0
+Koala,-34.5,139.5,6,0.0
+Koala,-35.5,136.5,112,0.0005
+Koala,-32.5,148.5,8,0.0
+Koala,-31.5,115.5,1,0.0
+Koala,-28.5,151.5,58,0.0003
+Koala,-16.5,145.5,1,0.0
+Koala,-26.5,153.5,28,0.0001
+Koala,-25.5,152.5,12,0.0001
+Koala,-21.5,149.5,6,0.0
+Koala,-26.5,151.5,670,0.0029
+Koala,-34.5,140.5,11,0.0
+Koala,-36.5,137.5,9,0.0
+Koala,-38.5,140.5,14,0.0001
+Koala,-33.5,138.5,2,0.0
+Koala,-37.5,140.5,22,0.0001
+Koala,-18.5,143.5,7,0.0
+Koala,-30.5,150.5,314,0.0014
+Koala,-24.5,135.5,5,0.0
+Koala,-37.5,145.5,189,0.0008
+Koala,-29.5,150.5,679,0.003
+Koala,-29.5,149.5,21,0.0001
+Koala,-37.5,141.5,40,0.0002
+Koala,-32.5,151.5,8458,0.0371
+Koala,-28.5,150.5,3,0.0
+Koala,-31.5,150.5,3605,0.0158
+Koala,-34.5,151.5,216,0.0009
+Koala,-32.5,149.5,1336,0.0059
+Koala,-31.5,151.5,7158,0.0314
+Koala,-32.5,150.5,533,0.0023
+Koala,-35.5,150.5,1107,0.0049
+Koala,-34.5,149.5,136,0.0006
+Koala,-30.5,149.5,79,0.0003
+Koala,-28.5,149.5,7,0.0
+Koala,-31.5,149.5,209,0.0009
+Koala,-29.5,151.5,541,0.0024
+Koala,-34.5,148.5,6,0.0
+Koala,-35.5,146.5,1,0.0
+Koala,-34.5,145.5,2,0.0
+Koala,-31.5,148.5,18,0.0001
+Koala,-37.5,143.5,322,0.0014
+Koala,-37.5,148.5,90,0.0004
+Koala,-36.5,148.5,37,0.0002
+Koala,-32.5,147.5,2,0.0
+Koala,-30.5,148.5,1,0.0
+Koala,-33.5,152.5,1,0.0
+Koala,-35.5,147.5,1,0.0
+Koala,-36.5,145.5,111,0.0005
+Koala,-36.5,136.5,3,0.0
+Koala,-37.5,142.5,54,0.0002
+Koala,-20.5,149.5,1,0.0
+Koala,-25.5,151.5,19,0.0001
+Koala,-37.5,146.5,2,0.0
+Koala,-31.5,146.5,1,0.0
+Koala,-24.5,150.5,3,0.0
+Koala,-26.5,150.5,5,0.0
+Koala,-18.5,145.5,2,0.0
+Koala,-24.5,151.5,1,0.0
+Koala,-38.5,147.5,20,0.0001
+Koala,-26.5,148.5,2,0.0
+Koala,-25.5,147.5,3,0.0
+Koala,-35.5,139.5,3,0.0
+Koala,-26.5,149.5,2,0.0
+Koala,-22.5,147.5,2,0.0
+Koala,-25.5,150.5,2,0.0
+Koala,-18.5,144.5,1,0.0
+Koala,-27.5,149.5,2,0.0
+Koala,-23.5,148.5,1,0.0
+Koala,-39.5,146.5,1,0.0
+Koala,-25.5,149.5,1,0.0
+Koala,-18.5,146.5,1,0.0
+Koala,-36.5,144.5,1,0.0
+Koala,-20.5,148.5,1,0.0
+Koala,-22.5,148.5,1,0.0
+Eastern grey kangaroo,-27.5,153.5,1084,0.0142
+Eastern grey kangaroo,-27.5,152.5,496,0.0065
+Eastern grey kangaroo,-35.5,149.5,6020,0.0791
+Eastern grey kangaroo,-36.5,146.5,1198,0.0157
+Eastern grey kangaroo,-36.5,150.5,570,0.0075
+Eastern grey kangaroo,-32.5,142.5,3,0.0
+Eastern grey kangaroo,-34.5,148.5,1153,0.0151
+Eastern grey kangaroo,-31.5,152.5,1309,0.0172
+Eastern grey kangaroo,-33.5,150.5,10379,0.1364
+Eastern grey kangaroo,-35.5,148.5,781,0.0103
+Eastern grey kangaroo,-29.5,153.5,1098,0.0144
+Eastern grey kangaroo,-36.5,149.5,1954,0.0257
+Eastern grey kangaroo,-34.5,150.5,3676,0.0483
+Eastern grey kangaroo,-34.5,149.5,2213,0.0291
+Eastern grey kangaroo,-29.5,152.5,642,0.0084
+Eastern grey kangaroo,-34.5,146.5,258,0.0034
+Eastern grey kangaroo,-35.5,150.5,5103,0.067
+Eastern grey kangaroo,-32.5,148.5,461,0.0061
+Eastern grey kangaroo,-35.5,147.5,970,0.0127
+Eastern grey kangaroo,-35.5,146.5,200,0.0026
+Eastern grey kangaroo,-36.5,147.5,98,0.0013
+Eastern grey kangaroo,-38.5,141.5,55,0.0007
+Eastern grey kangaroo,-33.5,151.5,615,0.0081
+Eastern grey kangaroo,-37.5,150.5,24,0.0003
+Eastern grey kangaroo,-24.5,152.5,74,0.001
+Eastern grey kangaroo,-25.5,148.5,88,0.0012
+Eastern grey kangaroo,-34.5,138.5,2,0.0
+Eastern grey kangaroo,-31.5,142.5,2,0.0
+Eastern grey kangaroo,-25.5,152.5,295,0.0039
+Eastern grey kangaroo,-37.5,149.5,233,0.0031
+Eastern grey kangaroo,-29.5,147.5,16,0.0002
+Eastern grey kangaroo,-37.5,145.5,2492,0.0327
+Eastern grey kangaroo,-30.5,147.5,10,0.0001
+Eastern grey kangaroo,-36.5,148.5,969,0.0127
+Eastern grey kangaroo,-34.5,145.5,42,0.0006
+Eastern grey kangaroo,-31.5,148.5,130,0.0017
+Eastern grey kangaroo,-35.5,144.5,113,0.0015
+Eastern grey kangaroo,-20.5,148.5,16,0.0002
+Eastern grey kangaroo,-29.5,148.5,5,0.0001
+Eastern grey kangaroo,-38.5,144.5,909,0.0119
+Eastern grey kangaroo,-30.5,145.5,9,0.0001
+Eastern grey kangaroo,-24.5,151.5,51,0.0007
+Eastern grey kangaroo,-25.5,142.5,2,0.0
+Eastern grey kangaroo,-19.5,146.5,28,0.0004
+Eastern grey kangaroo,-27.5,145.5,4,0.0001
+Eastern grey kangaroo,-13.5,142.5,2,0.0
+Eastern grey kangaroo,-37.5,144.5,1786,0.0235
+Eastern grey kangaroo,-38.5,143.5,166,0.0022
+Eastern grey kangaroo,-28.5,152.5,136,0.0018
+Eastern grey kangaroo,-30.5,153.5,1494,0.0196
+Eastern grey kangaroo,-36.5,144.5,277,0.0036
+Eastern grey kangaroo,-33.5,149.5,1711,0.0225
+Eastern grey kangaroo,-30.5,152.5,410,0.0054
+Eastern grey kangaroo,-32.5,151.5,2201,0.0289
+Eastern grey kangaroo,-36.5,145.5,93,0.0012
+Eastern grey kangaroo,-18.5,142.5,1,0.0
+Eastern grey kangaroo,-26.5,152.5,195,0.0026
+Eastern grey kangaroo,-30.5,151.5,1136,0.0149
+Eastern grey kangaroo,-26.5,153.5,266,0.0035
+Eastern grey kangaroo,-23.5,151.5,28,0.0004
+Eastern grey kangaroo,-20.5,149.5,33,0.0004
+Eastern grey kangaroo,-37.5,142.5,308,0.004
+Eastern grey kangaroo,-35.5,138.5,6,0.0001
+Eastern grey kangaroo,-31.5,149.5,138,0.0018
+Eastern grey kangaroo,-32.5,149.5,919,0.0121
+Eastern grey kangaroo,-26.5,151.5,7,0.0001
+Eastern grey kangaroo,-30.5,150.5,8938,0.1174
+Eastern grey kangaroo,-30.5,149.5,4069,0.0535
+Eastern grey kangaroo,-27.5,151.5,87,0.0011
+Eastern grey kangaroo,-24.5,148.5,20,0.0003
+Eastern grey kangaroo,-32.5,150.5,430,0.0056
+Eastern grey kangaroo,-25.5,150.5,3,0.0
+Eastern grey kangaroo,-28.5,151.5,210,0.0028
+Eastern grey kangaroo,-37.5,146.5,12,0.0002
+Eastern grey kangaroo,-33.5,148.5,408,0.0054
+Eastern grey kangaroo,-27.5,147.5,2,0.0
+Eastern grey kangaroo,-29.5,151.5,363,0.0048
+Eastern grey kangaroo,-42.5,148.5,98,0.0013
+Eastern grey kangaroo,-37.5,143.5,208,0.0027
+Eastern grey kangaroo,-33.5,138.5,4,0.0001
+Eastern grey kangaroo,-34.5,140.5,19,0.0002
+Eastern grey kangaroo,-31.5,153.5,71,0.0009
+Eastern grey kangaroo,-23.5,150.5,106,0.0014
+Eastern grey kangaroo,-38.5,145.5,530,0.007
+Eastern grey kangaroo,-27.5,146.5,1,0.0
+Eastern grey kangaroo,-35.5,145.5,111,0.0015
+Eastern grey kangaroo,-18.5,144.5,27,0.0004
+Eastern grey kangaroo,-23.5,148.5,8,0.0001
+Eastern grey kangaroo,-24.5,147.5,3,0.0
+Eastern grey kangaroo,-32.5,152.5,258,0.0034
+Eastern grey kangaroo,-18.5,146.5,1,0.0
+Eastern grey kangaroo,-37.5,140.5,35,0.0005
+Eastern grey kangaroo,-37.5,139.5,3,0.0
+Eastern grey kangaroo,-35.5,137.5,2,0.0
+Eastern grey kangaroo,-38.5,140.5,14,0.0002
+Eastern grey kangaroo,-35.5,140.5,2,0.0
+Eastern grey kangaroo,-36.5,140.5,3,0.0
+Eastern grey kangaroo,-33.5,139.5,1,0.0
+Eastern grey kangaroo,-31.5,147.5,46,0.0006
+Eastern grey kangaroo,-31.5,150.5,922,0.0121
+Eastern grey kangaroo,-32.5,147.5,12,0.0002
+Eastern grey kangaroo,-34.5,142.5,53,0.0007
+Eastern grey kangaroo,-29.5,150.5,214,0.0028
+Eastern grey kangaroo,-29.5,149.5,27,0.0004
+Eastern grey kangaroo,-31.5,151.5,79,0.001
+Eastern grey kangaroo,-30.5,148.5,37,0.0005
+Eastern grey kangaroo,-28.5,153.5,197,0.0026
+Eastern grey kangaroo,-34.5,147.5,83,0.0011
+Eastern grey kangaroo,-32.5,144.5,3,0.0
+Eastern grey kangaroo,-33.5,147.5,49,0.0006
+Eastern grey kangaroo,-33.5,145.5,9,0.0001
+Eastern grey kangaroo,-33.5,146.5,11,0.0001
+Eastern grey kangaroo,-28.5,150.5,19,0.0002
+Eastern grey kangaroo,-34.5,151.5,11,0.0001
+Eastern grey kangaroo,-34.5,144.5,20,0.0003
+Eastern grey kangaroo,-32.5,141.5,2,0.0
+Eastern grey kangaroo,-29.5,146.5,3,0.0
+Eastern grey kangaroo,-31.5,145.5,4,0.0001
+Eastern grey kangaroo,-31.5,146.5,3,0.0
+Eastern grey kangaroo,-34.5,141.5,10,0.0001
+Eastern grey kangaroo,-35.5,143.5,6,0.0001
+Eastern grey kangaroo,-33.5,144.5,2,0.0
+Eastern grey kangaroo,-30.5,146.5,6,0.0001
+Eastern grey kangaroo,-29.5,143.5,1,0.0
+Eastern grey kangaroo,-31.5,141.5,15,0.0002
+Eastern grey kangaroo,-33.5,141.5,3,0.0
+Eastern grey kangaroo,-34.5,143.5,24,0.0003
+Eastern grey kangaroo,-28.5,148.5,4,0.0001
+Eastern grey kangaroo,-33.5,143.5,1,0.0
+Eastern grey kangaroo,-31.5,143.5,4,0.0001
+Eastern grey kangaroo,-32.5,145.5,4,0.0001
+Eastern grey kangaroo,-37.5,148.5,58,0.0008
+Eastern grey kangaroo,-31.5,144.5,6,0.0001
+Eastern grey kangaroo,-29.5,145.5,1,0.0
+Eastern grey kangaroo,-30.5,142.5,1,0.0
+Eastern grey kangaroo,-38.5,147.5,11,0.0001
+Eastern grey kangaroo,-37.5,147.5,106,0.0014
+Eastern grey kangaroo,-22.5,149.5,17,0.0002
+Eastern grey kangaroo,-36.5,142.5,14,0.0002
+Eastern grey kangaroo,-27.5,149.5,28,0.0004
+Eastern grey kangaroo,-22.5,148.5,8,0.0001
+Eastern grey kangaroo,-38.5,146.5,241,0.0032
+Eastern grey kangaroo,-24.5,145.5,1,0.0
+Eastern grey kangaroo,-21.5,146.5,2,0.0
+Eastern grey kangaroo,-21.5,148.5,7,0.0001
+Eastern grey kangaroo,-36.5,143.5,34,0.0004
+Eastern grey kangaroo,-26.5,149.5,14,0.0002
+Eastern grey kangaroo,-16.5,145.5,50,0.0007
+Eastern grey kangaroo,-24.5,150.5,11,0.0001
+Eastern grey kangaroo,-23.5,147.5,5,0.0001
+Eastern grey kangaroo,-41.5,146.5,80,0.0011
+Eastern grey kangaroo,-40.5,148.5,3,0.0
+Eastern grey kangaroo,-27.5,148.5,10,0.0001
+Eastern grey kangaroo,-38.5,142.5,66,0.0009
+Eastern grey kangaroo,-26.5,148.5,14,0.0002
+Eastern grey kangaroo,-25.5,151.5,1,0.0
+Eastern grey kangaroo,-20.5,146.5,4,0.0001
+Eastern grey kangaroo,-24.5,146.5,4,0.0001
+Eastern grey kangaroo,-23.5,149.5,12,0.0002
+Eastern grey kangaroo,-34.5,139.5,9,0.0001
+Eastern grey kangaroo,-37.5,141.5,25,0.0003
+Eastern grey kangaroo,-27.5,150.5,10,0.0001
+Eastern grey kangaroo,-19.5,145.5,6,0.0001
+Eastern grey kangaroo,-21.5,149.5,5,0.0001
+Eastern grey kangaroo,-25.5,146.5,4,0.0001
+Eastern grey kangaroo,-25.5,149.5,7,0.0001
+Eastern grey kangaroo,-17.5,145.5,9,0.0001
+Eastern grey kangaroo,-20.5,145.5,2,0.0
+Eastern grey kangaroo,-22.5,145.5,1,0.0
+Eastern grey kangaroo,-19.5,147.5,6,0.0001
+Eastern grey kangaroo,-25.5,147.5,3,0.0
+Eastern grey kangaroo,-28.5,145.5,10,0.0001
+Eastern grey kangaroo,-21.5,147.5,2,0.0
+Eastern grey kangaroo,-33.5,137.5,1,0.0
+Eastern grey kangaroo,-32.5,138.5,6,0.0001
+Eastern grey kangaroo,-20.5,147.5,3,0.0
+Eastern grey kangaroo,-27.5,143.5,3,0.0
+Eastern grey kangaroo,-26.5,146.5,8,0.0001
+Eastern grey kangaroo,-39.5,146.5,4,0.0001
+Eastern grey kangaroo,-26.5,150.5,9,0.0001
+Eastern grey kangaroo,-26.5,147.5,3,0.0
+Eastern grey kangaroo,-22.5,143.5,5,0.0001
+Eastern grey kangaroo,-36.5,141.5,9,0.0001
+Eastern grey kangaroo,-23.5,146.5,5,0.0001
+Eastern grey kangaroo,-41.5,147.5,2,0.0
+Eastern grey kangaroo,-23.5,144.5,10,0.0001
+Eastern grey kangaroo,-31.5,138.5,3,0.0
+Eastern grey kangaroo,-24.5,149.5,1,0.0
+Eastern grey kangaroo,-22.5,147.5,6,0.0001
+Eastern grey kangaroo,-19.5,148.5,1,0.0
+Eastern grey kangaroo,-19.5,144.5,2,0.0
+Eastern grey kangaroo,-23.5,145.5,3,0.0
+Eastern grey kangaroo,-22.5,146.5,2,0.0
+Eastern grey kangaroo,-17.5,144.5,2,0.0
+Eastern grey kangaroo,-20.5,143.5,2,0.0
+Eastern grey kangaroo,-42.5,147.5,2,0.0
+Eastern grey kangaroo,-32.5,137.5,1,0.0
+Eastern grey kangaroo,-20.5,144.5,2,0.0
+Eastern grey kangaroo,-22.5,144.5,1,0.0
+Eastern grey kangaroo,-18.5,145.5,2,0.0
+Eastern grey kangaroo,-18.5,143.5,1,0.0
+Eastern grey kangaroo,-40.5,144.5,1,0.0
+Eastern grey kangaroo,-43.5,147.5,1,0.0
+Eastern grey kangaroo,-35.5,139.5,2,0.0
+Eastern grey kangaroo,-27.5,142.5,1,0.0
+Eastern grey kangaroo,-21.5,150.5,1,0.0
+Eastern grey kangaroo,-21.5,144.5,1,0.0
+Eastern grey kangaroo,-23.5,141.5,1,0.0
+Saltwater crocodile,-12.5,142.5,7,0.0007
+Saltwater crocodile,-12.5,141.5,23,0.0023
+Saltwater crocodile,-12.5,131.5,4975,0.497
+Saltwater crocodile,-16.5,145.5,1173,0.1172
+Saltwater crocodile,-12.5,132.5,504,0.0503
+Saltwater crocodile,-12.5,130.5,570,0.0569
+Saltwater crocodile,-14.5,125.5,26,0.0026
+Saltwater crocodile,-20.5,148.5,72,0.0072
+Saltwater crocodile,-16.5,137.5,18,0.0018
+Saltwater crocodile,-15.5,129.5,9,0.0009
+Saltwater crocodile,-14.5,134.5,11,0.0011
+Saltwater crocodile,-15.5,141.5,1,0.0001
+Saltwater crocodile,-28.5,153.5,1,0.0001
+Saltwater crocodile,-17.5,145.5,20,0.002
+Saltwater crocodile,-16.5,146.5,2,0.0002
+Saltwater crocodile,-15.5,128.5,16,0.0016
+Saltwater crocodile,-12.5,143.5,17,0.0017
+Saltwater crocodile,-17.5,146.5,14,0.0014
+Saltwater crocodile,-13.5,136.5,10,0.001
+Saltwater crocodile,-13.5,131.5,49,0.0049
+Saltwater crocodile,-14.5,135.5,1,0.0001
+Saltwater crocodile,-17.5,122.5,5,0.0005
+Saltwater crocodile,-14.5,132.5,19,0.0019
+Saltwater crocodile,-16.5,124.5,4,0.0004
+Saltwater crocodile,-18.5,146.5,23,0.0023
+Saltwater crocodile,-14.5,144.5,7,0.0007
+Saltwater crocodile,-14.5,131.5,38,0.0038
+Saltwater crocodile,-17.5,140.5,9,0.0009
+Saltwater crocodile,-11.5,142.5,3,0.0003
+Saltwater crocodile,-22.5,149.5,1,0.0001
+Saltwater crocodile,-16.5,123.5,8,0.0008
+Saltwater crocodile,-19.5,146.5,16,0.0016
+Saltwater crocodile,-13.5,130.5,683,0.0682
+Saltwater crocodile,-13.5,132.5,11,0.0011
+Saltwater crocodile,-15.5,125.5,33,0.0033
+Saltwater crocodile,-16.5,122.5,8,0.0008
+Saltwater crocodile,-15.5,130.5,6,0.0006
+Saltwater crocodile,-15.5,145.5,14,0.0014
+Saltwater crocodile,-14.5,127.5,4,0.0004
+Saltwater crocodile,-15.5,124.5,5,0.0005
+Saltwater crocodile,-17.5,141.5,1,0.0001
+Saltwater crocodile,-12.5,133.5,2,0.0002
+Saltwater crocodile,-11.5,130.5,3,0.0003
+Saltwater crocodile,-16.5,136.5,6,0.0006
+Saltwater crocodile,-11.5,132.5,64,0.0064
+Saltwater crocodile,-14.5,128.5,4,0.0004
+Saltwater crocodile,-10.5,142.5,9,0.0009
+Saltwater crocodile,-9.5,142.5,1,0.0001
+Saltwater crocodile,-13.5,127.5,8,0.0008
+Saltwater crocodile,-15.5,123.5,1,0.0001
+Saltwater crocodile,-11.5,141.5,2,0.0002
+Saltwater crocodile,-14.5,141.5,1,0.0001
+Saltwater crocodile,-16.5,141.5,1,0.0001
+Saltwater crocodile,-14.5,126.5,3,0.0003
+Saltwater crocodile,-15.5,136.5,7,0.0007
+Saltwater crocodile,-15.5,131.5,2,0.0002
+Saltwater crocodile,-12.5,136.5,45,0.0045
+Saltwater crocodile,-14.5,143.5,1,0.0001
+Saltwater crocodile,-17.5,139.5,2,0.0002
+Saltwater crocodile,-14.5,145.5,2,0.0002
+Saltwater crocodile,-15.5,144.5,2,0.0002
+Saltwater crocodile,-17.5,131.5,1,0.0001
+Saltwater crocodile,-14.5,129.5,1,0.0001
+Saltwater crocodile,-17.5,123.5,2,0.0002
+Saltwater crocodile,-12.5,134.5,1142,0.1141
+Saltwater crocodile,-19.5,134.5,1,0.0001
+Saltwater crocodile,-12.5,135.5,280,0.028
+Platypus,-27.5,153.5,29,0.0049
+Platypus,-35.5,149.5,350,0.0592
+Platypus,-21.5,148.5,191,0.0323
+Platypus,-36.5,149.5,265,0.0448
+Platypus,-34.5,150.5,179,0.0303
+Platypus,-35.5,148.5,232,0.0392
+Platypus,-16.5,145.5,19,0.0032
+Platypus,-33.5,149.5,112,0.0189
+Platypus,-36.5,148.5,157,0.0265
+Platypus,-34.5,149.5,35,0.0059
+Platypus,-36.5,146.5,77,0.013
+Platypus,-17.5,145.5,490,0.0828
+Platypus,-25.5,148.5,36,0.0061
+Platypus,-41.5,145.5,95,0.0161
+Platypus,-35.5,147.5,7,0.0012
+Platypus,-34.5,148.5,14,0.0024
+Platypus,-36.5,145.5,41,0.0069
+Platypus,-38.5,144.5,74,0.0125
+Platypus,-37.5,144.5,80,0.0135
+Platypus,-42.5,147.5,198,0.0335
+Platypus,-26.5,152.5,465,0.0786
+Platypus,-41.5,146.5,294,0.0497
+Platypus,-38.5,146.5,45,0.0076
+Platypus,-19.5,135.5,1,0.0002
+Platypus,-27.5,152.5,227,0.0384
+Platypus,-37.5,145.5,358,0.0605
+Platypus,-20.5,148.5,2,0.0003
+Platypus,-35.5,136.5,18,0.003
+Platypus,-42.5,146.5,89,0.015
+Platypus,-42.5,145.5,9,0.0015
+Platypus,-38.5,143.5,91,0.0154
+Platypus,-29.5,152.5,31,0.0052
+Platypus,-28.5,152.5,140,0.0237
+Platypus,-35.5,144.5,4,0.0007
+Platypus,-33.5,150.5,208,0.0352
+Platypus,-33.5,151.5,35,0.0059
+Platypus,-32.5,151.5,52,0.0088
+Platypus,-28.5,153.5,291,0.0492
+Platypus,-31.5,151.5,60,0.0101
+Platypus,-31.5,152.5,60,0.0101
+Platypus,-30.5,151.5,30,0.0051
+Platypus,-35.5,150.5,7,0.0012
+Platypus,-29.5,150.5,19,0.0032
+Platypus,-34.5,151.5,7,0.0012
+Platypus,-32.5,150.5,10,0.0017
+Platypus,-29.5,151.5,46,0.0078
+Platypus,-33.5,148.5,15,0.0025
+Platypus,-30.5,152.5,63,0.0106
+Platypus,-28.5,151.5,7,0.0012
+Platypus,-32.5,149.5,26,0.0044
+Platypus,-30.5,147.5,1,0.0002
+Platypus,-30.5,150.5,4,0.0007
+Platypus,-32.5,148.5,6,0.001
+Platypus,-37.5,149.5,3,0.0005
+Platypus,-32.5,152.5,3,0.0005
+Platypus,-34.5,146.5,5,0.0008
+Platypus,-30.5,153.5,28,0.0047
+Platypus,-36.5,147.5,22,0.0037
+Platypus,-23.5,150.5,2,0.0003
+Platypus,-24.5,152.5,34,0.0057
+Platypus,-37.5,143.5,16,0.0027
+Platypus,-36.5,144.5,13,0.0022
+Platypus,-18.5,145.5,16,0.0027
+Platypus,-37.5,146.5,12,0.002
+Platypus,-40.5,145.5,30,0.0051
+Platypus,-43.5,147.5,61,0.0103
+Platypus,-24.5,150.5,5,0.0008
+Platypus,-25.5,149.5,2,0.0003
+Platypus,-43.5,146.5,33,0.0056
+Platypus,-36.5,143.5,11,0.0019
+Platypus,-41.5,147.5,75,0.0127
+Platypus,-26.5,151.5,3,0.0005
+Platypus,-37.5,142.5,21,0.0035
+Platypus,-37.5,141.5,9,0.0015
+Platypus,-37.5,147.5,9,0.0015
+Platypus,-38.5,145.5,5,0.0008
+Platypus,-25.5,152.5,4,0.0007
+Platypus,-35.5,138.5,1,0.0002
+Platypus,-37.5,148.5,14,0.0024
+Platypus,-26.5,153.5,12,0.002
+Platypus,-21.5,149.5,7,0.0012
+Platypus,-38.5,142.5,19,0.0032
+Platypus,-27.5,151.5,1,0.0002
+Platypus,-25.5,151.5,6,0.001
+Platypus,-23.5,148.5,1,0.0002
+Platypus,-24.5,151.5,2,0.0003
+Platypus,-41.5,148.5,9,0.0015
+Platypus,-39.5,144.5,1,0.0002
+Platypus,-40.5,147.5,2,0.0003
+Platypus,-35.5,143.5,1,0.0002
+Platypus,-35.5,146.5,1,0.0002
+Platypus,-39.5,143.5,2,0.0003
+Platypus,-23.5,149.5,1,0.0002
+Platypus,-35.5,145.5,1,0.0002
+Platypus,-18.5,146.5,3,0.0005
+Platypus,-25.5,150.5,1,0.0002
+Platypus,-28.5,148.5,1,0.0002
+Platypus,-34.5,138.5,1,0.0002
+Platypus,-19.5,146.5,1,0.0002
+Platypus,-25.5,147.5,1,0.0002
+Platypus,-24.5,148.5,1,0.0002
+Platypus,-40.5,144.5,1,0.0002
+Platypus,-38.5,141.5,1,0.0002
+Platypus,-24.5,147.5,1,0.0002
+Quokka,-31.5,115.5,625,0.6288
+Quokka,-31.5,116.5,2,0.002
+Quokka,-32.5,115.5,137,0.1378
+Quokka,-34.5,116.5,149,0.1499
+Quokka,-35.5,116.5,46,0.0463
+Quokka,-34.5,115.5,14,0.0141
+Quokka,-34.5,118.5,18,0.0181
+Quokka,-34.5,117.5,1,0.001
+Quokka,-32.5,116.5,2,0.002
+Tasmanian devil,-41.5,148.5,9,0.0185
+Tasmanian devil,-41.5,145.5,100,0.2053
+Tasmanian devil,-41.5,147.5,23,0.0472
+Tasmanian devil,-42.5,146.5,30,0.0616
+Tasmanian devil,-43.5,147.5,43,0.0883
+Tasmanian devil,-31.5,151.5,1,0.0021
+Tasmanian devil,-42.5,147.5,96,0.1971
+Tasmanian devil,-43.5,146.5,15,0.0308
+Tasmanian devil,-42.5,148.5,43,0.0883
+Tasmanian devil,-41.5,146.5,92,0.1889
+Tasmanian devil,-42.5,145.5,13,0.0267
+Tasmanian devil,-40.5,147.5,3,0.0062
+Tasmanian devil,-41.5,144.5,6,0.0123
+Tasmanian devil,-40.5,148.5,2,0.0041
+Tasmanian devil,-40.5,144.5,8,0.0164
+Tasmanian devil,-40.5,145.5,2,0.0041
+Tasmanian devil,-43.5,145.5,1,0.0021
+Little penguin,-38.5,145.5,1576,0.1959
+Little penguin,-35.5,137.5,2674,0.3323
+Little penguin,-41.5,148.5,170,0.0211
+Little penguin,-41.5,146.5,318,0.0395
+Little penguin,-42.5,147.5,51,0.0063
+Little penguin,-27.5,153.5,1,0.0001
+Little penguin,-43.5,147.5,355,0.0441
+Little penguin,-35.5,150.5,122,0.0152
+Little penguin,-40.5,145.5,172,0.0214
+Little penguin,-35.5,138.5,333,0.0414
+Little penguin,-34.5,136.5,32,0.004
+Little penguin,-34.5,135.5,32,0.004
+Little penguin,-33.5,134.5,7,0.0009
+Little penguin,-35.5,136.5,16,0.002
+Little penguin,-31.5,131.5,2,0.0002
+Little penguin,-32.5,115.5,106,0.0132
+Little penguin,-31.5,115.5,1,0.0001
+Little penguin,-32.5,152.5,97,0.0121
+Little penguin,-42.5,148.5,26,0.0032
+Little penguin,-43.5,146.5,6,0.0007
+Little penguin,-41.5,145.5,194,0.0241
+Little penguin,-38.5,144.5,221,0.0275
+Little penguin,-40.5,148.5,28,0.0035
+Little penguin,-38.5,142.5,104,0.0129
+Little penguin,-37.5,149.5,50,0.0062
+Little penguin,-40.5,147.5,29,0.0036
+Little penguin,-39.5,147.5,21,0.0026
+Little penguin,-32.5,126.5,4,0.0005
+Little penguin,-40.5,144.5,34,0.0042
+Little penguin,-34.5,119.5,96,0.0119
+Little penguin,-40.5,143.5,15,0.0019
+Little penguin,-38.5,146.5,18,0.0022
+Little penguin,-37.5,145.5,4,0.0005
+Little penguin,-43.5,148.5,144,0.0179
+Little penguin,-37.5,144.5,319,0.0396
+Little penguin,-33.5,151.5,220,0.0273
+Little penguin,-32.5,151.5,13,0.0016
+Little penguin,-36.5,150.5,125,0.0155
+Little penguin,-34.5,150.5,44,0.0055
+Little penguin,-34.5,151.5,18,0.0022
+Little penguin,-37.5,139.5,1,0.0001
+Little penguin,-38.5,143.5,56,0.007
+Little penguin,-42.5,145.5,2,0.0002
+Little penguin,-39.5,143.5,4,0.0005
+Little penguin,-36.5,136.5,1,0.0001
+Little penguin,-31.5,152.5,9,0.0011
+Little penguin,-36.5,149.5,12,0.0015
+Little penguin,-30.5,153.5,1,0.0001
+Little penguin,-37.5,148.5,2,0.0002
+Little penguin,-39.5,146.5,27,0.0034
+Little penguin,-33.5,121.5,1,0.0001
+Little penguin,-32.5,133.5,8,0.001
+Little penguin,-38.5,141.5,11,0.0014
+Little penguin,-34.5,138.5,37,0.0046
+Little penguin,-34.5,137.5,5,0.0006
+Little penguin,-36.5,139.5,2,0.0002
+Little penguin,-34.5,118.5,1,0.0001
+Little penguin,-35.5,117.5,1,0.0001
+Little penguin,-33.5,122.5,6,0.0007
+Little penguin,-33.5,119.5,1,0.0001
+Little penguin,-41.5,149.5,1,0.0001
+Little penguin,-42.5,146.5,1,0.0001
+Little penguin,-37.5,140.5,1,0.0001
+Little penguin,-35.5,139.5,1,0.0001
+Little penguin,-41.5,147.5,1,0.0001
+Little penguin,-32.5,137.5,1,0.0001
+Little penguin,-37.5,150.5,25,0.0031
+Little penguin,-38.5,148.5,6,0.0007
+Little penguin,-37.5,147.5,4,0.0005
+Little penguin,-39.5,145.5,4,0.0005
+Little penguin,-31.5,130.5,3,0.0004
+Little penguin,-34.5,123.5,2,0.0002
+Little penguin,-33.5,135.5,1,0.0001
+Little penguin,-31.5,129.5,2,0.0002
+Little penguin,-40.5,146.5,2,0.0002
+Little penguin,-33.5,115.5,3,0.0004
+Little penguin,-34.5,115.5,1,0.0001
+Little penguin,-39.5,144.5,1,0.0001

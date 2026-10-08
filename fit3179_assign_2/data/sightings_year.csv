@@ -1,0 +1,89 @@
+species,year,count
+Koala,2015,6143
+Koala,2016,6381
+Koala,2017,7247
+Koala,2018,7271
+Koala,2019,11348
+Koala,2020,12662
+Koala,2021,24733
+Koala,2022,19220
+Koala,2023,80126
+Koala,2024,85122
+Koala,2025,18543
+Eastern grey kangaroo,2015,5541
+Eastern grey kangaroo,2016,6008
+Eastern grey kangaroo,2017,7064
+Eastern grey kangaroo,2018,9745
+Eastern grey kangaroo,2019,21199
+Eastern grey kangaroo,2020,15532
+Eastern grey kangaroo,2021,11977
+Eastern grey kangaroo,2022,13288
+Eastern grey kangaroo,2023,15569
+Eastern grey kangaroo,2024,18947
+Eastern grey kangaroo,2025,16328
+Saltwater crocodile,2015,1398
+Saltwater crocodile,2016,2693
+Saltwater crocodile,2017,2205
+Saltwater crocodile,2018,2374
+Saltwater crocodile,2019,1908
+Saltwater crocodile,2020,1033
+Saltwater crocodile,2021,2194
+Saltwater crocodile,2022,2317
+Saltwater crocodile,2023,1921
+Saltwater crocodile,2024,2540
+Saltwater crocodile,2025,1038
+Platypus,2015,106
+Platypus,2016,276
+Platypus,2017,314
+Platypus,2018,290
+Platypus,2019,341
+Platypus,2020,297
+Platypus,2021,482
+Platypus,2022,1110
+Platypus,2023,1517
+Platypus,2024,1426
+Platypus,2025,1382
+Quokka,2015,20
+Quokka,2016,28
+Quokka,2017,40
+Quokka,2018,85
+Quokka,2019,153
+Quokka,2020,42
+Quokka,2021,32
+Quokka,2022,164
+Quokka,2023,198
+Quokka,2024,260
+Quokka,2025,340
+Tasmanian devil,2015,13
+Tasmanian devil,2016,27
+Tasmanian devil,2017,13
+Tasmanian devil,2018,18
+Tasmanian devil,2019,190
+Tasmanian devil,2020,47
+Tasmanian devil,2021,56
+Tasmanian devil,2022,55
+Tasmanian devil,2023,74
+Tasmanian devil,2024,139
+Tasmanian devil,2025,163
+Little penguin,2015,583
+Little penguin,2016,574
+Little penguin,2017,614
+Little penguin,2018,707
+Little penguin,2019,870
+Little penguin,2020,654
+Little penguin,2021,663
+Little penguin,2022,999
+Little penguin,2023,2057
+Little penguin,2024,2720
+Little penguin,2025,1610
+Humpback whale,2015,569
+Humpback whale,2016,829
+Humpback whale,2017,1186
+Humpback whale,2018,927
+Humpback whale,2019,1359
+Humpback whale,2020,1884
+Humpback whale,2021,1412
+Humpback whale,2022,2526
+Humpback whale,2023,4610
+Humpback whale,2024,4448
+Humpback whale,2025,4495
