@@ -1,0 +1,201 @@
+/* 
+elements for the whole page 
+*/
+
+*{
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    background-color:  #F4F9F9 ;
+}
+
+body {
+    color: #10262C;
+    font-family: 'Nunito Sans',  'Times New Roman', Arial, Helvetica, sans-serif sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4{
+    font-family: 'DM Serif Display', 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 70px;
+    line-height: 1;
+    margin: 0 0 16px;
+}
+
+h2 {
+    font-size: 35px;
+    line-height: 1.15;
+    margin: 0 0 8px;
+}
+
+h3 {
+    font-size: 23px;
+    line-height: 1.25;
+    margin: 0 0 4px;
+}
+
+h4 {
+    font-size: 21px;
+    margin: 0 0 8px;
+}
+
+a {
+    color: #0B7480;
+}
+
+figcaption {
+    max-width: 100ch;   
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px solid #DCE8E9;
+    color: #557079;
+    font-size: 12.5px;
+    line-height: 1.4;
+}
+
+/*
+Header
+*/
+
+.hero {
+    background-color: #0B3C49;
+    color: #F4F9F9;
+    padding: 56px 0 36px;
+}
+
+.kicker {
+    margin: 0 0 8px;
+    color: #FFB4A6;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.dek {
+    max-width: 46ch;          /* this would make 10 words per line */
+    margin: 0 0 32px;
+    color: #D7ECEE;
+    font-size: 20px;
+}
+
+.dek strong {
+    color: #FFFFFF;
+}
+
+.kpis {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 28px;
+}
+
+.kpi {
+    flex: 1 1 200px;          /* grow to fill the row, but never narrower than 200px */
+    padding: 16px 18px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.07);
+}
+
+.kpi-num {
+    display: block;
+    color: #FFFFFF;
+    font-family: 'DM Serif Display', Georgia, serif;
+    font-size: 38px;
+    line-height: 1.1;
+}
+
+.kpi-lab {
+    display: block;
+    margin-top: 6px;
+    color: #CBE3E6;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+.kpi-src {
+    display: block;
+    color: #A9CDD2;
+    font-size: 14px;
+}
+
+.toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 18px;
+    font-size: 15px;
+}
+
+.toc a {
+    color: #D7ECEE;
+    text-decoration: none;
+}
+
+.toc a:hover {
+    color: #9f0e3a;
+}
+
+.toc b {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    margin-right: 4px;
+    border-radius: 50%;
+    background-color: #5b9979;
+    color: #FFFFFF;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+}
+
+/*
+keeping the website in the containers
+
+*/
+
+.wrap {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 24px;
+}
+
+
+.row {
+    margin: 0 -12px;
+}
+
+
+.pure-g .col {
+    margin-bottom: 24px;
+    padding: 0 12px;
+    font-family: 'Nunito Sans', 'Segoe UI', Arial, sans-serif;   
+}
+
+.row .card {
+    height: 100%;
+    margin-bottom: 0;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.align-center .card {
+    height: auto;
+}
+
+/*
+The sections , text and card of the visualisation
+*/
