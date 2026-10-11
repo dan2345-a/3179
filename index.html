@@ -86,7 +86,7 @@
 
     <div class="pure-u-1 pure-u-md-1-2 col"><figure class="card">
     <h3>Where do visitors come from?</h3>
-    <p class=""how>The top 10 countries of 2025, ranked each year, plus <b class="ocean">Malaysia</b>. <span class="tip">Hover a line</span> to follow another country.</p>
+    <p class="how">The top 10 countries of 2025, ranked each year, plus <b class="ocean">Malaysia</b>. <span class="tip">Hover a line</span> to follow another country.</p>
     <div class="vis" id="vis02"></div>
     <figcaption>Source: ABS, Overseas Arrivals and Departures , short-term visitors by country of residence (Table 5), yearly totals. Ranks are among the countries the ABS lists separately. 2020 and 2021 are left out because the border was closed.</figcaption>
     </figure></div>
@@ -119,7 +119,7 @@
     <div class ="pure-g row align-center">
     <div class="pure-u-1 pure-u-md-7-12 col"><figure class="card">
     <h3>Who looks after the land?</h3>
-    <p class=""how>Each tree is 4 million hectares of protected land. Longer rows cover more land.</p>
+    <p class="how">Each tree is 4 million hectares of protected land. Longer rows cover more land.</p>
     <div class="vis" id="vis05"></div>
     <figcaption>Source: CAPAD 2024. The smaller types are combined into "Other types". "New reserves (in progress)" = land being added to the National Reserve System.</figcaption>
     </figure></div>
@@ -137,7 +137,246 @@
     <!--    Finished Section 2 here -->
     <!--    Started Section 3  here -->
 
+    <section class="section" id="s3">
+    <div class = "section-head">
+        <span class="num">3</span>
+        <div>
+            <h2>Where to find them</h2>
+            <p class="lede">Five of our eight animals (marked <span class="star">★</span>) live in the wild only in Australia.
+          Each has its own home range. Pick one to see where people spotted it in the last five years.
+            </p>
+        </div>
+    </div>
+
+    <div class ="pure-g row">
+    <div class="pure-u-1 pure-u-md-13-24 col"><figure class="card">
+    <h3>Every dot is a real sighting</h3>
+    <p class="how">Use the <span class="tip">Animal</span> menu below the map. Use <span class="tip">Zoom</span> and <span class="tip">Map centre</span> to look closer. Black dots are major cities.</p>
+    <div class="vis" id="vis06"></div>
+    <figcaption>Source: GBIF.org occurrence data, including records shared by the Atlas of Living Australia; human observations 2021-2025, randomly sampled to 1,500 dots per animal.</figcaption>
+    </figure></div>
+
+    <div class="pure-u-1 pure-u-md-11-24 col"><div class="story-col">
+    <div class="fact"><span aria-hidden="true" class="emoji">🐨</span><p><b>Koalas</b> live only in eastern and south-eastern Australia, among the eucalyptus forests of Queensland, New South Wales, Victoria and South Australia.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">🦘</span><p><b>Quokkas</b> are mostly found on Rottnest Island, a short ferry ride from Perth.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">😈</span><p><b>Tasmanian devils</b> now live in the wild only on the island of Tasmania.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">🐊</span><p><b>Saltwater crocodiles</b> also live in Malaysia, in Sarawak's rivers. In Australia they live in the tropical north. River cruises in Kakadu are a safe way to see them.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">🐧</span><p><b>Little penguins</b> nest along the southern coast. Several colonies can be watched as they come ashore at dusk.</p></div>
+    <p class="note">Sightings show where <em>people</em> saw the animals. Places near cities appear more often than remote ones.</p>
+    </div></div>
+    
+    <figure class="card">
+    <h3>Hotspots at a glance</h3>    
+    <p class="how">Each square is about 100 km wide. Darker squares hold more of that animal's sightings. The ring marks each animal's top hotspot.</p>
+        <div class="vis vis-wide" id="vis07"></div>
+    <figcaption>Source: GBIF.org / Atlas of Living Australia, 2021-2025. Squares are 1° latitude x 1° longitude.</figcaption>
+    
+    </figure>
+    </section>
+
+    <!--    Finished Section 3 here -->
+    <!--    Started Section 4  here -->
+
+    <section class="section" id="s4">
+    <div class = "section-head">
+        <span class="num">4</span>
+        <div>
+            <h2>When to go</h2>
+            <p class="lede"> Australia's seasons are the opposite of the northern hemisphere's. Many animals are easier to see at certain times of year. Does the best time to see them match the busiest tourist season?
+            </p>
+        </div>
+    </div>
+
+    <figure class="card">
+    <h3>The wildlife calender</h3>    
+    <p class="how">Each row adds up to 100% of an animal's sightings in a year. The outlined square is its busiest month. <span class="star">★</span> = found only in Australia.</p>
+        <div class="vis" id="vis08"></div>
+    <figcaption>Source: GBIF.org / Atlas of Living Australia, human observations 2015-2025. Most koala records come from NSW government surveys, which are timed for the spring breeding season.</figcaption>
+    
+    </figure>
+
+    <div class ="pure-g row align-center">
+    <div class="pure-u-1 pure-u-md-7-12 col"><figure class="card">
+    <h3>Plan your trip</h3>
+    <p class="how">
+          <span class="key key-coral"></span> Best months for each animal
+          <span class="key key-diamond"></span> peak month
+          <span class="key key-blue"></span> busy tourist months</p>
+    <div class="vis" id="vis09"></div>
+    <figcaption>Sources: GBIF.org / Atlas of Living Australia (best months = above-average sightings); ABS Overseas Arrivals and Departures, 2023-2025 average (blue bands).</figcaption>
+    </figure></div>
+
+    <div class="pure-u-1 pure-u-md-5-12 col"><aside class="callout takeaway">
+    <h3>What the data says</h3>
+    <p><strong>Spring (October-December)</strong>is the peak for koalas, little penguins and Tasmanian devils. It overlaps the busiest tourist months.</p>
+    <p><strong>Wintwe (June-September)</strong>is best for whales and saltwater crocodiles,  and it is quieter for visitors. Fewer crowds, more wildlife.</p>
+    
+
+    </aside></div>
+    </div>
+    </section>
+
+    <!--    Finished Section 4 here -->
+    <!--    Started Section 5  here -->
+
+    <section class="section" id="s5">
+    <div class = "section-head">
+        <span class="num">5</span>
+        <div>
+            <h2>Follow the whales</h2>
+            <p class="lede">Every year, tens of thousands of humpback whales swim north from Antarctica to breed in warm waters, then return south with their calves. Both coasts become some of the best whale-watching spots in the world.
+            </p>
+        </div>
+    </div>
+
+    <div class ="pure-g row">
+    <div class="pure-u-1 pure-u-md-13-24 col"><figure class="card">
+    <h3>The humpback highway</h3>
+    <p class="how">Drag the <span class="tip">Month</span> slider below the chart to move through the year. Bigger circles mean more sightings in that area.</p>
+    <div class="vis" id="vis10"></div>
+    <figcaption>Source: GBIF.org / Atlas of Living Australia, humpback whale (<i>Megaptera novaeangliae</i>) sightings 2015-2025, grouped into 1° squares.</figcaption>
+    </figure></div>
+
+    <div class="pure-u-1 pure-u-md-11-24 col"><div class="story-col">
+    <div class="fact"><span aria-hidden="true" class="emoji">⬆️</span><p><b>Heading north (around May-August).</b> Whales travel up the east and west coasts towards the warm waters of Queensland and the Kimberley.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">⬇️</span><p><b>Heading south (around September-November).</b> Mothers and calves swim slowly back, often resting in sheltered bays such as Hervey Bay.</p></div>
+    <div class="fact"><span aria-hidden="true" class="emoji">🐋</span><p><b>Travel tip:</b> whale season (June-October) falls in the quieter months for international visitors. Compare it with the blue bands in section 4.</p></div>
+    </div></div>
+    
+    </div>
+    </section>
+    
+    <!--    Finished Section 5 here -->
+    <!--    Started Section 6  here -->
+
+    <section class="section" id="s6">
+    <div class = "section-head">
+        <span class="num">6</span>
+        <div>
+            <h2>More eyes in the wild</h2>
+            <p class="lede"> Every sighting on this page was recorded by a person: a ranger, a scientist or a visitor with a phone. For the rarest animals, most records now come from the public.
+            </p>
+        </div>
+    </div>
+
+    <figure class="card">
+    <h3>Who recorded the sightings?</h3>    
+    <p class="how">Each grid is 100 sightings of one animal. <span class="key key-coral-dark"></span> Red squares came from the public using phone apps. Animals are sorted from most to least public records. <span class="star">★</span> = found only in Australia.</p>
+        <div class="vis" id="vis11"></div>
+    <figcaption>Source: GBIF.org occurrence downloads, human observations 2015-2025, grouped by the dataset each record came from. Public apps = iNaturalist, eBird, Happywhale and naturgucker. NSW BioNet = the NSW government's wildlife database. Other = state agencies, 
+        councils, researchers and community groups.</figcaption>
+    
+    </figure>
+
+    <div class ="pure-g row align-center">
+    <div class="pure-u-1 pure-u-md-1-2 col"><figure class="card">
+    <h3>Sightings in 2015 vs 2024</h3>
+    <p class="how">Each line is one animal. A steeper line means faster growth. <span class="tip">Hover a dot</span> to highlight an animal.</p>
+    <div class="vis" id="vis12"></div>
+    <figcaption>Source: GBIF.org / Atlas of Living Australia. 2024 is used because some providers are still uploading 2025 records. Log scale: equal slopes mean equal growth rates.</figcaption>
+    </figure></div>
+
+    <div class="pure-u-1 pure-u-md-1-2 col"><aside class="callout callout-big">
+    <h4>Your turn</h4>
+    <p>More records do not always mean more animals. They often mean more people are watching and sharing.</p>
+    <p>When you visit, you can add to this data too. Photograph wildlife from a safe distance and upload it to <strong>iNaturalist</strong> or the <strong>Atlas of Living Australia</strong>.</p>
+    <p>Keep your distance, never feed wild animals, and follow park rules.</p>
+
+    </aside></div>
+    </div>
+    </section>
+    
+    <!--    Finished Section 6 here -->
+    <!--    Started Section 7  here -->
+
+    <section class="section" id="s7">
+    <div class = "section-head">
+        <span class="num">7</span>
+        <div>
+            <h2>Putting it together</h2>
+            <p class="lede">Back to our three questions: where to go,  when to go, and what you are likely to see.
+            </p>
+        </div>
+    </div>
+
+
+    <div class="pure-g row">
+    <div class="pure-u-1 pure-u-md-1-3 col"><div class="fact"><span aria-hidden="true" class="emoji">📍</span><p><b>Where.</b> Each animal has its own hotspot, in a different part of the country,
+        koalas in New South Wales, crocodiles around Darwin, quokkas in Western Australia and devils in Tasmania.
+        Plan around two or three regions, not the whole map. Only 22.6% of the land is protected, so national parks are the best places to start.</p></div></div>
+    <div class="pure-u-1 pure-u-md-1-3 col"><div class="fact"><span aria-hidden="true" class="emoji">📅</span><p><b>When.</b> Spring (October-November) is the best season for koalas, kangaroos, little penguins and Tasmanian devils.
+        It overlaps with the busy holiday months. Winter is quieter and is the time for whales and saltwater crocodiles.</p></div></div>
+    <div class="pure-u-1 pure-u-md-1-3 col"><div class="fact"><span aria-hidden="true" class="emoji">🦘</span><p><b>What.</b> Five of the eight animals live in the wild only in Australia.
+        The rarer the animal, the more its sightings come from visitors with phones. That is why your own photos matter.</p></div></div>
+    </div>
+
+    <aside class="callout takeaway">
+
+    <h4>If you are travelling from Malaysia</h4>
+    <p>Malaysia ranked <strong>number 11</strong> among the countries the ABS lists for visitors to Australia in 2025,
+        with about <strong>213,680</strong> visitors.
+        That is still only about 56% of the 2019 number, so there is room to grow.
+        Choose your animals first, check their months in section 4, then pick the region and the park.</p>
+    <p class="note">One limit to remember: sightings show where people looked not everywhere an animal lives.</p>
+
+    
+    </aside>
+    </section>
     </main>
+
+    <!--    Finished Section 7 here -->
+    <!--    Started Footer  here -->
+
+    <footer class="site-foot">
+    <div class="wrap pure-g foot-grid">
+    <div class="pure-u-1 pure-u-md-5-12 col"><div>
+    <h4>About</h4>
+    <p>By Ahmad Danial Bin Ahmad Hady, FIT3179 Data Visualisation 2</p>
+    <strong>Published: </strong> 25 October 2026.
+    Built with <a href="https://vega.github.io/vega-lite/">Vega-Lite</a>
+
+    <div class="pure-u-1 pure-u-md-7-12 col"><div>
+<h4>Data sources</h4>
+<ul class="sources">
+<li>GBIF.org GBIF Occurrence Downloads(eight featured animals, including records from the Atlas of Living Australia). <a href="https://www.gbif.org">gbif.org</a> · <a href="https://www.ala.org.au">ala.org.au</a> </li>
+<li>Department of Climate Change, Energy, the Environment and Water (DCCEEW) (2025). Collaborative Australian Protected Areas Database (CAPAD) 2024. <a href="https://www.dcceew.gov.au/environment/land/nrs/science/capad/2024">dcceew.gov.au</a></li>
+<li>Australian Bureau of Statistics Overseas Arrivals and Departures, Australia, July 2026 (cat. 3401.0) <a href="https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release">abs.gov.au</a> </li>
+<li>Geoscience Australia. Area of Australia - States and Territories. <a href="https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories">ga.gov.au</a></li>
+<li>State boundaries: ABS ASGS via <a href="https://github.com/rowanhogan/australian-states">rowanhogan/australian-states</a></li>
+</ul>
+</div></div>
+
+    </footer>
+
+<script type="text/javascript">
+  
+  var spec01 = "js/01_arrivals_heatmap.vg.json";
+  var spec02 = "js/02_country_bump.vg.json";
+  var spec03 = "js/03_protected_map_parks.vg.json";
+  var spec05 = "js/05_protected_types.vg.json";
+  var spec06 = "js/06_dot_map.vg.json";
+  var spec07 = "js/07_density_grid.vg.json";
+  var spec08 = "js/08_month_heatmap.vg.json";
+  var spec09 = "js/09_season_ranges.vg.json";
+  var spec10 = "js/10_whale_migration.vg.json";
+  var spec11 = "js/11_record_sources.vg.json";
+  var spec12 = "js/12_slope_growth.vg.json";
+
+ 
+  vegaEmbed('#vis01', spec01, {"actions": false});
+  vegaEmbed('#vis02', spec02, {"actions": false});
+  vegaEmbed('#vis03', spec03, {"actions": false});
+  vegaEmbed('#vis05', spec05, {"actions": false});
+  vegaEmbed('#vis06', spec06, {"actions": false});
+  vegaEmbed('#vis07', spec07, {"actions": false});
+  vegaEmbed('#vis08', spec08, {"actions": false});
+  vegaEmbed('#vis09', spec09, {"actions": false});
+  vegaEmbed('#vis10', spec10, {"actions": false});
+  vegaEmbed('#vis11', spec11, {"actions": false});
+  vegaEmbed('#vis12', spec12, {"actions": false});
+</script>
+
+
 </body>
 
 </html>
