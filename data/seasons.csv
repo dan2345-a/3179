@@ -1,10 +1,10 @@
-species,start,end,peak_month
-Koala,9,13,10
-Eastern grey kangaroo,6,11,10
-Saltwater crocodile,6,9,7
-Platypus,8,11,9
-Quokka,8,13,8
-Tasmanian devil,1,2,11
-Tasmanian devil,11,13,11
-Little penguin,10,13,10
-Humpback whale,6,11,9
+species,name,start,end,months_txt,peak_month,peak_x,peak_txt,only_au
+Koala,Koala ★,9,13,Sep to Dec,10,10.5,October,Yes
+Eastern grey kangaroo,Eastern grey kangaroo ★,6,11,Jun to Oct,10,10.5,October,Yes
+Saltwater crocodile,Saltwater crocodile,6,9,Jun to Aug,7,7.5,July,No
+Platypus,Platypus ★,8,11,Aug to Oct,9,9.5,September,Yes
+Quokka,Quokka ★,8,13,Aug to Dec,8,8.5,August,Yes
+Tasmanian devil,Tasmanian devil ★,1,2,January,11,11.5,November,Yes
+Tasmanian devil,Tasmanian devil ★,11,13,Nov to Dec,11,11.5,November,Yes
+Little penguin,Little penguin,10,13,Oct to Dec,10,10.5,October,No
+Humpback whale,Humpback whale,6,11,Jun to Oct,9,9.5,September,No

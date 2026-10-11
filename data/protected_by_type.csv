@@ -1,9 +1,9 @@
-type,area_mha,n
-Indigenous Protected Area,85.95,85
-National Park,36.96,715
-Nature Reserve,11.38,1817
-Conservation Park,6.68,594
-Regional Reserve,6.63,154
-Nature Refuge,4.89,573
-NRS Addition - Gazettal in Progress,3.93,58
-Other types,20.45,11392
+type,label,area_mha,area_txt,share,n,trees
+Indigenous Protected Area,Indigenous Protected Area,85.95,86.0 million ha,0.486,85,21
+National Park,National Park,36.96,37.0 million ha,0.209,715,9
+Nature Reserve,Nature Reserve,11.38,11.4 million ha,0.064,1817,3
+Conservation Park,Conservation Park,6.68,6.7 million ha,0.038,594,2
+Regional Reserve,Regional Reserve,6.63,6.6 million ha,0.037,154,2
+Nature Refuge,Nature Refuge,4.89,4.9 million ha,0.028,573,1
+NRS Addition - Gazettal in Progress,New reserves (in progress),3.93,3.9 million ha,0.022,58,1
+Other types,Other types,20.45,20.4 million ha,0.116,11392,5

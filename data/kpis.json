@@ -4,5 +4,19 @@
   "pct_protected": 22.6,
   "n_national_parks": 795,
   "visitor_arrivals_12m": 9068890,
-  "arrivals_to": "2026-07-01"
+  "arrivals_to": "2026-07-01",
+  "app_share": {
+    "Koala": 0.1,
+    "Eastern grey kangaroo": 0.151,
+    "Saltwater crocodile": 0.154,
+    "Platypus": 0.375,
+    "Quokka": 0.921,
+    "Tasmanian devil": 0.946,
+    "Little penguin": 0.586,
+    "Humpback whale": 0.903
+  },
+  "holiday_share_12m": 0.454,
+  "malaysia_rank": 11,
+  "malaysia_visitors": 213680,
+  "malaysia_vs_2019": 0.555
 }

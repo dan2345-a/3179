@@ -1,0 +1,801 @@
+species,label,cell,col,row,source,pct,pct_txt,records,app_pct
+Koala,Koala ★:  10% public,0,0,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,1,1,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,2,2,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,3,3,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,4,4,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,5,5,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,6,6,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,7,7,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,8,8,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,9,9,0,"Public, via apps",10.0,10.0%,27897,10.0
+Koala,Koala ★:  10% public,10,0,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,11,1,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,12,2,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,13,3,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,14,4,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,15,5,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,16,6,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,17,7,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,18,8,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,19,9,1,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,20,0,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,21,1,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,22,2,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,23,3,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,24,4,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,25,5,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,26,6,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,27,7,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,28,8,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,29,9,2,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,30,0,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,31,1,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,32,2,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,33,3,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,34,4,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,35,5,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,36,6,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,37,7,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,38,8,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,39,9,3,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,40,0,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,41,1,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,42,2,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,43,3,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,44,4,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,45,5,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,46,6,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,47,7,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,48,8,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,49,9,4,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,50,0,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,51,1,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,52,2,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,53,3,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,54,4,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,55,5,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,56,6,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,57,7,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,58,8,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,59,9,5,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,60,0,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,61,1,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,62,2,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,63,3,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,64,4,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,65,5,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,66,6,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,67,7,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,68,8,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,69,9,6,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,70,0,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,71,1,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,72,2,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,73,3,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,74,4,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,75,5,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,76,6,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,77,7,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,78,8,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,79,9,7,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,80,0,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,81,1,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,82,2,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,83,3,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,84,4,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,85,5,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,86,6,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,87,7,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,88,8,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,89,9,8,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,90,0,9,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,91,1,9,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,92,2,9,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,93,3,9,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,94,4,9,NSW government (BioNet),84.5,84.5%,235618,10.0
+Koala,Koala ★:  10% public,95,5,9,Other agencies & groups,5.5,5.5%,15281,10.0
+Koala,Koala ★:  10% public,96,6,9,Other agencies & groups,5.5,5.5%,15281,10.0
+Koala,Koala ★:  10% public,97,7,9,Other agencies & groups,5.5,5.5%,15281,10.0
+Koala,Koala ★:  10% public,98,8,9,Other agencies & groups,5.5,5.5%,15281,10.0
+Koala,Koala ★:  10% public,99,9,9,Other agencies & groups,5.5,5.5%,15281,10.0
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,0,0,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,1,1,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,2,2,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,3,3,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,4,4,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,5,5,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,6,6,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,7,7,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,8,8,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,9,9,0,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,10,0,1,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,11,1,1,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,12,2,1,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,13,3,1,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,14,4,1,"Public, via apps",15.1,15.1%,21286,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,15,5,1,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,16,6,1,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,17,7,1,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,18,8,1,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,19,9,1,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,20,0,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,21,1,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,22,2,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,23,3,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,24,4,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,25,5,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,26,6,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,27,7,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,28,8,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,29,9,2,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,30,0,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,31,1,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,32,2,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,33,3,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,34,4,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,35,5,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,36,6,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,37,7,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,38,8,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,39,9,3,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,40,0,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,41,1,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,42,2,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,43,3,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,44,4,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,45,5,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,46,6,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,47,7,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,48,8,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,49,9,4,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,50,0,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,51,1,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,52,2,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,53,3,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,54,4,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,55,5,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,56,6,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,57,7,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,58,8,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,59,9,5,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,60,0,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,61,1,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,62,2,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,63,3,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,64,4,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,65,5,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,66,6,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,67,7,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,68,8,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,69,9,6,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,70,0,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,71,1,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,72,2,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,73,3,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,74,4,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,75,5,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,76,6,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,77,7,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,78,8,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,79,9,7,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,80,0,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,81,1,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,82,2,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,83,3,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,84,4,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,85,5,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,86,6,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,87,7,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,88,8,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,89,9,8,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,90,0,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,91,1,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,92,2,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,93,3,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,94,4,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,95,5,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,96,6,9,NSW government (BioNet),82.1,82.1%,115928,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,97,7,9,Other agencies & groups,2.8,2.8%,3984,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,98,8,9,Other agencies & groups,2.8,2.8%,3984,15.1
+Eastern grey kangaroo,Eastern grey kangaroo ★:  15% public,99,9,9,Other agencies & groups,2.8,2.8%,3984,15.1
+Saltwater crocodile,Saltwater crocodile:  15% public,0,0,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,1,1,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,2,2,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,3,3,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,4,4,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,5,5,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,6,6,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,7,7,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,8,8,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,9,9,0,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,10,0,1,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,11,1,1,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,12,2,1,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,13,3,1,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,14,4,1,"Public, via apps",15.4,15.4%,3322,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,15,5,1,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,16,6,1,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,17,7,1,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,18,8,1,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,19,9,1,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,20,0,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,21,1,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,22,2,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,23,3,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,24,4,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,25,5,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,26,6,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,27,7,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,28,8,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,29,9,2,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,30,0,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,31,1,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,32,2,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,33,3,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,34,4,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,35,5,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,36,6,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,37,7,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,38,8,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,39,9,3,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,40,0,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,41,1,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,42,2,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,43,3,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,44,4,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,45,5,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,46,6,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,47,7,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,48,8,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,49,9,4,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,50,0,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,51,1,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,52,2,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,53,3,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,54,4,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,55,5,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,56,6,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,57,7,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,58,8,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,59,9,5,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,60,0,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,61,1,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,62,2,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,63,3,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,64,4,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,65,5,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,66,6,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,67,7,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,68,8,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,69,9,6,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,70,0,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,71,1,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,72,2,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,73,3,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,74,4,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,75,5,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,76,6,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,77,7,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,78,8,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,79,9,7,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,80,0,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,81,1,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,82,2,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,83,3,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,84,4,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,85,5,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,86,6,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,87,7,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,88,8,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,89,9,8,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,90,0,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,91,1,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,92,2,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,93,3,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,94,4,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,95,5,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,96,6,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,97,7,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,98,8,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Saltwater crocodile,Saltwater crocodile:  15% public,99,9,9,Other agencies & groups,84.6,84.6%,18299,15.4
+Platypus,Platypus ★:  38% public,0,0,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,1,1,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,2,2,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,3,3,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,4,4,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,5,5,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,6,6,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,7,7,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,8,8,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,9,9,0,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,10,0,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,11,1,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,12,2,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,13,3,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,14,4,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,15,5,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,16,6,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,17,7,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,18,8,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,19,9,1,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,20,0,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,21,1,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,22,2,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,23,3,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,24,4,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,25,5,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,26,6,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,27,7,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,28,8,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,29,9,2,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,30,0,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,31,1,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,32,2,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,33,3,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,34,4,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,35,5,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,36,6,3,"Public, via apps",37.5,37.5%,2826,37.5
+Platypus,Platypus ★:  38% public,37,7,3,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,38,8,3,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,39,9,3,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,40,0,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,41,1,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,42,2,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,43,3,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,44,4,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,45,5,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,46,6,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,47,7,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,48,8,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,49,9,4,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,50,0,5,NSW government (BioNet),14.0,14.0%,1059,37.5
+Platypus,Platypus ★:  38% public,51,1,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,52,2,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,53,3,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,54,4,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,55,5,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,56,6,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,57,7,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,58,8,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,59,9,5,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,60,0,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,61,1,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,62,2,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,63,3,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,64,4,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,65,5,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,66,6,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,67,7,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,68,8,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,69,9,6,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,70,0,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,71,1,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,72,2,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,73,3,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,74,4,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,75,5,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,76,6,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,77,7,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,78,8,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,79,9,7,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,80,0,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,81,1,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,82,2,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,83,3,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,84,4,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,85,5,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,86,6,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,87,7,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,88,8,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,89,9,8,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,90,0,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,91,1,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,92,2,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,93,3,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,94,4,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,95,5,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,96,6,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,97,7,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,98,8,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Platypus,Platypus ★:  38% public,99,9,9,Other agencies & groups,48.5,48.5%,3656,37.5
+Quokka,Quokka ★:  92% public,0,0,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,1,1,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,2,2,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,3,3,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,4,4,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,5,5,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,6,6,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,7,7,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,8,8,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,9,9,0,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,10,0,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,11,1,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,12,2,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,13,3,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,14,4,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,15,5,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,16,6,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,17,7,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,18,8,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,19,9,1,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,20,0,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,21,1,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,22,2,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,23,3,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,24,4,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,25,5,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,26,6,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,27,7,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,28,8,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,29,9,2,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,30,0,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,31,1,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,32,2,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,33,3,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,34,4,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,35,5,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,36,6,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,37,7,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,38,8,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,39,9,3,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,40,0,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,41,1,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,42,2,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,43,3,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,44,4,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,45,5,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,46,6,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,47,7,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,48,8,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,49,9,4,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,50,0,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,51,1,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,52,2,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,53,3,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,54,4,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,55,5,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,56,6,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,57,7,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,58,8,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,59,9,5,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,60,0,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,61,1,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,62,2,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,63,3,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,64,4,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,65,5,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,66,6,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,67,7,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,68,8,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,69,9,6,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,70,0,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,71,1,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,72,2,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,73,3,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,74,4,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,75,5,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,76,6,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,77,7,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,78,8,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,79,9,7,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,80,0,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,81,1,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,82,2,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,83,3,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,84,4,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,85,5,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,86,6,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,87,7,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,88,8,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,89,9,8,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,90,0,9,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,91,1,9,"Public, via apps",92.1,92.1%,1254,92.1
+Quokka,Quokka ★:  92% public,92,2,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,93,3,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,94,4,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,95,5,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,96,6,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,97,7,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,98,8,9,Other agencies & groups,7.9,7.9%,108,92.1
+Quokka,Quokka ★:  92% public,99,9,9,Other agencies & groups,7.9,7.9%,108,92.1
+Tasmanian devil,Tasmanian devil ★:  95% public,0,0,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,1,1,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,2,2,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,3,3,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,4,4,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,5,5,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,6,6,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,7,7,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,8,8,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,9,9,0,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,10,0,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,11,1,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,12,2,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,13,3,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,14,4,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,15,5,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,16,6,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,17,7,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,18,8,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,19,9,1,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,20,0,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,21,1,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,22,2,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,23,3,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,24,4,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,25,5,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,26,6,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,27,7,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,28,8,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,29,9,2,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,30,0,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,31,1,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,32,2,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,33,3,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,34,4,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,35,5,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,36,6,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,37,7,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,38,8,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,39,9,3,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,40,0,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,41,1,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,42,2,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,43,3,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,44,4,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,45,5,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,46,6,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,47,7,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,48,8,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,49,9,4,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,50,0,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,51,1,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,52,2,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,53,3,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,54,4,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,55,5,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,56,6,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,57,7,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,58,8,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,59,9,5,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,60,0,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,61,1,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,62,2,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,63,3,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,64,4,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,65,5,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,66,6,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,67,7,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,68,8,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,69,9,6,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,70,0,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,71,1,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,72,2,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,73,3,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,74,4,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,75,5,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,76,6,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,77,7,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,78,8,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,79,9,7,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,80,0,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,81,1,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,82,2,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,83,3,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,84,4,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,85,5,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,86,6,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,87,7,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,88,8,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,89,9,8,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,90,0,9,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,91,1,9,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,92,2,9,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,93,3,9,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,94,4,9,"Public, via apps",94.6,94.6%,752,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,95,5,9,Other agencies & groups,5.3,5.3%,42,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,96,6,9,Other agencies & groups,5.3,5.3%,42,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,97,7,9,Other agencies & groups,5.3,5.3%,42,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,98,8,9,Other agencies & groups,5.3,5.3%,42,94.6
+Tasmanian devil,Tasmanian devil ★:  95% public,99,9,9,Other agencies & groups,5.3,5.3%,42,94.6
+Little penguin,Little penguin:  59% public,0,0,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,1,1,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,2,2,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,3,3,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,4,4,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,5,5,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,6,6,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,7,7,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,8,8,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,9,9,0,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,10,0,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,11,1,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,12,2,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,13,3,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,14,4,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,15,5,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,16,6,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,17,7,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,18,8,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,19,9,1,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,20,0,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,21,1,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,22,2,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,23,3,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,24,4,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,25,5,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,26,6,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,27,7,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,28,8,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,29,9,2,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,30,0,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,31,1,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,32,2,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,33,3,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,34,4,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,35,5,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,36,6,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,37,7,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,38,8,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,39,9,3,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,40,0,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,41,1,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,42,2,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,43,3,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,44,4,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,45,5,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,46,6,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,47,7,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,48,8,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,49,9,4,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,50,0,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,51,1,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,52,2,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,53,3,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,54,4,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,55,5,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,56,6,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,57,7,5,"Public, via apps",58.6,58.6%,7057,58.6
+Little penguin,Little penguin:  59% public,58,8,5,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,59,9,5,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,60,0,6,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,61,1,6,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,62,2,6,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,63,3,6,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,64,4,6,NSW government (BioNet),6.8,6.8%,815,58.6
+Little penguin,Little penguin:  59% public,65,5,6,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,66,6,6,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,67,7,6,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,68,8,6,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,69,9,6,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,70,0,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,71,1,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,72,2,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,73,3,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,74,4,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,75,5,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,76,6,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,77,7,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,78,8,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,79,9,7,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,80,0,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,81,1,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,82,2,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,83,3,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,84,4,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,85,5,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,86,6,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,87,7,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,88,8,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,89,9,8,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,90,0,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,91,1,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,92,2,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,93,3,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,94,4,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,95,5,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,96,6,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,97,7,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,98,8,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Little penguin,Little penguin:  59% public,99,9,9,Other agencies & groups,34.7,34.7%,4179,58.6
+Humpback whale,Humpback whale:  90% public,0,0,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,1,1,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,2,2,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,3,3,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,4,4,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,5,5,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,6,6,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,7,7,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,8,8,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,9,9,0,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,10,0,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,11,1,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,12,2,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,13,3,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,14,4,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,15,5,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,16,6,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,17,7,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,18,8,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,19,9,1,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,20,0,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,21,1,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,22,2,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,23,3,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,24,4,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,25,5,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,26,6,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,27,7,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,28,8,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,29,9,2,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,30,0,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,31,1,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,32,2,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,33,3,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,34,4,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,35,5,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,36,6,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,37,7,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,38,8,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,39,9,3,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,40,0,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,41,1,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,42,2,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,43,3,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,44,4,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,45,5,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,46,6,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,47,7,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,48,8,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,49,9,4,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,50,0,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,51,1,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,52,2,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,53,3,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,54,4,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,55,5,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,56,6,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,57,7,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,58,8,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,59,9,5,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,60,0,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,61,1,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,62,2,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,63,3,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,64,4,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,65,5,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,66,6,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,67,7,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,68,8,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,69,9,6,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,70,0,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,71,1,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,72,2,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,73,3,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,74,4,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,75,5,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,76,6,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,77,7,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,78,8,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,79,9,7,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,80,0,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,81,1,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,82,2,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,83,3,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,84,4,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,85,5,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,86,6,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,87,7,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,88,8,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,89,9,8,"Public, via apps",90.3,90.3%,21888,90.3
+Humpback whale,Humpback whale:  90% public,90,0,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,91,1,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,92,2,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,93,3,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,94,4,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,95,5,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,96,6,9,NSW government (BioNet),6.6,6.6%,1608,90.3
+Humpback whale,Humpback whale:  90% public,97,7,9,Other agencies & groups,3.1,3.1%,749,90.3
+Humpback whale,Humpback whale:  90% public,98,8,9,Other agencies & groups,3.1,3.1%,749,90.3
+Humpback whale,Humpback whale:  90% public,99,9,9,Other agencies & groups,3.1,3.1%,749,90.3

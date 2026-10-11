@@ -1,97 +1,97 @@
-species,month,count,share
-Koala,1,10211,0.0367
-Koala,2,6647,0.0239
-Koala,3,7193,0.0258
-Koala,4,10125,0.0364
-Koala,5,11933,0.0429
-Koala,6,10519,0.0378
-Koala,7,10515,0.0378
-Koala,8,11498,0.0413
-Koala,9,25588,0.0919
-Koala,10,77567,0.2786
-Koala,11,67705,0.2432
-Koala,12,28884,0.1038
-Eastern grey kangaroo,1,7914,0.0563
-Eastern grey kangaroo,2,8278,0.0589
-Eastern grey kangaroo,3,12152,0.0865
-Eastern grey kangaroo,4,11680,0.0832
-Eastern grey kangaroo,5,12334,0.0878
-Eastern grey kangaroo,6,13131,0.0935
-Eastern grey kangaroo,7,12992,0.0925
-Eastern grey kangaroo,8,14075,0.1002
-Eastern grey kangaroo,9,13891,0.0989
-Eastern grey kangaroo,10,14320,0.102
-Eastern grey kangaroo,11,10724,0.0764
-Eastern grey kangaroo,12,8963,0.0638
-Saltwater crocodile,1,296,0.0137
-Saltwater crocodile,2,345,0.016
-Saltwater crocodile,3,459,0.0212
-Saltwater crocodile,4,559,0.0259
-Saltwater crocodile,5,580,0.0268
-Saltwater crocodile,6,3048,0.1411
-Saltwater crocodile,7,7111,0.3291
-Saltwater crocodile,8,6222,0.288
-Saltwater crocodile,9,1686,0.078
-Saltwater crocodile,10,532,0.0246
-Saltwater crocodile,11,431,0.0199
-Saltwater crocodile,12,338,0.0156
-Platypus,1,357,0.0474
-Platypus,2,379,0.0503
-Platypus,3,458,0.0608
-Platypus,4,426,0.0565
-Platypus,5,360,0.0478
-Platypus,6,404,0.0536
-Platypus,7,562,0.0745
-Platypus,8,989,0.1312
-Platypus,9,1685,0.2235
-Platypus,10,881,0.1169
-Platypus,11,553,0.0734
-Platypus,12,485,0.0643
-Quokka,1,101,0.0742
-Quokka,2,80,0.0587
-Quokka,3,75,0.0551
-Quokka,4,80,0.0587
-Quokka,5,69,0.0507
-Quokka,6,63,0.0463
-Quokka,7,122,0.0896
-Quokka,8,165,0.1211
-Quokka,9,163,0.1197
-Quokka,10,146,0.1072
-Quokka,11,152,0.1116
-Quokka,12,146,0.1072
-Tasmanian devil,1,124,0.156
-Tasmanian devil,2,71,0.0893
-Tasmanian devil,3,46,0.0579
-Tasmanian devil,4,36,0.0453
-Tasmanian devil,5,20,0.0252
-Tasmanian devil,6,24,0.0302
-Tasmanian devil,7,39,0.0491
-Tasmanian devil,8,37,0.0465
-Tasmanian devil,9,35,0.044
-Tasmanian devil,10,51,0.0642
-Tasmanian devil,11,219,0.2755
-Tasmanian devil,12,93,0.117
-Little penguin,1,1042,0.087
-Little penguin,2,989,0.0825
-Little penguin,3,823,0.0687
-Little penguin,4,634,0.0529
-Little penguin,5,1030,0.086
-Little penguin,6,540,0.0451
-Little penguin,7,462,0.0386
-Little penguin,8,412,0.0344
-Little penguin,9,618,0.0516
-Little penguin,10,2427,0.2026
-Little penguin,11,1817,0.1517
-Little penguin,12,1187,0.0991
-Humpback whale,1,16,0.0007
-Humpback whale,2,9,0.0004
-Humpback whale,3,18,0.0007
-Humpback whale,4,23,0.001
-Humpback whale,5,265,0.011
-Humpback whale,6,2539,0.1053
-Humpback whale,7,3899,0.1617
-Humpback whale,8,6379,0.2645
-Humpback whale,9,6427,0.2665
-Humpback whale,10,3990,0.1655
-Humpback whale,11,529,0.0219
-Humpback whale,12,20,0.0008
+species,name,month,mon,month_name,count,share,peak
+Koala,Koala ★,1,Jan,January,10211,0.0367,No
+Koala,Koala ★,2,Feb,February,6647,0.0239,No
+Koala,Koala ★,3,Mar,March,7193,0.0258,No
+Koala,Koala ★,4,Apr,April,10125,0.0364,No
+Koala,Koala ★,5,May,May,11933,0.0429,No
+Koala,Koala ★,6,Jun,June,10519,0.0378,No
+Koala,Koala ★,7,Jul,July,10515,0.0378,No
+Koala,Koala ★,8,Aug,August,11498,0.0413,No
+Koala,Koala ★,9,Sep,September,25588,0.0919,No
+Koala,Koala ★,10,Oct,October,77567,0.2786,Yes
+Koala,Koala ★,11,Nov,November,67705,0.2432,No
+Koala,Koala ★,12,Dec,December,28884,0.1038,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,1,Jan,January,7914,0.0563,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,2,Feb,February,8278,0.0589,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,3,Mar,March,12152,0.0865,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,4,Apr,April,11680,0.0832,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,5,May,May,12334,0.0878,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,6,Jun,June,13131,0.0935,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,7,Jul,July,12992,0.0925,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,8,Aug,August,14075,0.1002,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,9,Sep,September,13891,0.0989,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,10,Oct,October,14320,0.102,Yes
+Eastern grey kangaroo,Eastern grey kangaroo ★,11,Nov,November,10724,0.0764,No
+Eastern grey kangaroo,Eastern grey kangaroo ★,12,Dec,December,8963,0.0638,No
+Saltwater crocodile,Saltwater crocodile,1,Jan,January,296,0.0137,No
+Saltwater crocodile,Saltwater crocodile,2,Feb,February,345,0.016,No
+Saltwater crocodile,Saltwater crocodile,3,Mar,March,459,0.0212,No
+Saltwater crocodile,Saltwater crocodile,4,Apr,April,559,0.0259,No
+Saltwater crocodile,Saltwater crocodile,5,May,May,580,0.0268,No
+Saltwater crocodile,Saltwater crocodile,6,Jun,June,3048,0.1411,No
+Saltwater crocodile,Saltwater crocodile,7,Jul,July,7111,0.3291,Yes
+Saltwater crocodile,Saltwater crocodile,8,Aug,August,6222,0.288,No
+Saltwater crocodile,Saltwater crocodile,9,Sep,September,1686,0.078,No
+Saltwater crocodile,Saltwater crocodile,10,Oct,October,532,0.0246,No
+Saltwater crocodile,Saltwater crocodile,11,Nov,November,431,0.0199,No
+Saltwater crocodile,Saltwater crocodile,12,Dec,December,338,0.0156,No
+Platypus,Platypus ★,1,Jan,January,357,0.0474,No
+Platypus,Platypus ★,2,Feb,February,379,0.0503,No
+Platypus,Platypus ★,3,Mar,March,458,0.0608,No
+Platypus,Platypus ★,4,Apr,April,426,0.0565,No
+Platypus,Platypus ★,5,May,May,360,0.0478,No
+Platypus,Platypus ★,6,Jun,June,404,0.0536,No
+Platypus,Platypus ★,7,Jul,July,562,0.0745,No
+Platypus,Platypus ★,8,Aug,August,989,0.1312,No
+Platypus,Platypus ★,9,Sep,September,1685,0.2235,Yes
+Platypus,Platypus ★,10,Oct,October,881,0.1169,No
+Platypus,Platypus ★,11,Nov,November,553,0.0734,No
+Platypus,Platypus ★,12,Dec,December,485,0.0643,No
+Quokka,Quokka ★,1,Jan,January,101,0.0742,No
+Quokka,Quokka ★,2,Feb,February,80,0.0587,No
+Quokka,Quokka ★,3,Mar,March,75,0.0551,No
+Quokka,Quokka ★,4,Apr,April,80,0.0587,No
+Quokka,Quokka ★,5,May,May,69,0.0507,No
+Quokka,Quokka ★,6,Jun,June,63,0.0463,No
+Quokka,Quokka ★,7,Jul,July,122,0.0896,No
+Quokka,Quokka ★,8,Aug,August,165,0.1211,Yes
+Quokka,Quokka ★,9,Sep,September,163,0.1197,No
+Quokka,Quokka ★,10,Oct,October,146,0.1072,No
+Quokka,Quokka ★,11,Nov,November,152,0.1116,No
+Quokka,Quokka ★,12,Dec,December,146,0.1072,No
+Tasmanian devil,Tasmanian devil ★,1,Jan,January,124,0.156,No
+Tasmanian devil,Tasmanian devil ★,2,Feb,February,71,0.0893,No
+Tasmanian devil,Tasmanian devil ★,3,Mar,March,46,0.0579,No
+Tasmanian devil,Tasmanian devil ★,4,Apr,April,36,0.0453,No
+Tasmanian devil,Tasmanian devil ★,5,May,May,20,0.0252,No
+Tasmanian devil,Tasmanian devil ★,6,Jun,June,24,0.0302,No
+Tasmanian devil,Tasmanian devil ★,7,Jul,July,39,0.0491,No
+Tasmanian devil,Tasmanian devil ★,8,Aug,August,37,0.0465,No
+Tasmanian devil,Tasmanian devil ★,9,Sep,September,35,0.044,No
+Tasmanian devil,Tasmanian devil ★,10,Oct,October,51,0.0642,No
+Tasmanian devil,Tasmanian devil ★,11,Nov,November,219,0.2755,Yes
+Tasmanian devil,Tasmanian devil ★,12,Dec,December,93,0.117,No
+Little penguin,Little penguin,1,Jan,January,1042,0.087,No
+Little penguin,Little penguin,2,Feb,February,989,0.0825,No
+Little penguin,Little penguin,3,Mar,March,823,0.0687,No
+Little penguin,Little penguin,4,Apr,April,634,0.0529,No
+Little penguin,Little penguin,5,May,May,1030,0.086,No
+Little penguin,Little penguin,6,Jun,June,540,0.0451,No
+Little penguin,Little penguin,7,Jul,July,462,0.0386,No
+Little penguin,Little penguin,8,Aug,August,412,0.0344,No
+Little penguin,Little penguin,9,Sep,September,618,0.0516,No
+Little penguin,Little penguin,10,Oct,October,2427,0.2026,Yes
+Little penguin,Little penguin,11,Nov,November,1817,0.1517,No
+Little penguin,Little penguin,12,Dec,December,1187,0.0991,No
+Humpback whale,Humpback whale,1,Jan,January,16,0.0007,No
+Humpback whale,Humpback whale,2,Feb,February,9,0.0004,No
+Humpback whale,Humpback whale,3,Mar,March,18,0.0007,No
+Humpback whale,Humpback whale,4,Apr,April,23,0.001,No
+Humpback whale,Humpback whale,5,May,May,265,0.011,No
+Humpback whale,Humpback whale,6,Jun,June,2539,0.1053,No
+Humpback whale,Humpback whale,7,Jul,July,3899,0.1617,No
+Humpback whale,Humpback whale,8,Aug,August,6379,0.2645,No
+Humpback whale,Humpback whale,9,Sep,September,6427,0.2665,Yes
+Humpback whale,Humpback whale,10,Oct,October,3990,0.1655,No
+Humpback whale,Humpback whale,11,Nov,November,529,0.0219,No
+Humpback whale,Humpback whale,12,Dec,December,20,0.0008,No

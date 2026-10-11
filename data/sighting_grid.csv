@@ -1,602 +1,602 @@
-species,lat,lon,count,share
-Koala,-38.5,146.5,435,0.0019
-Koala,-34.5,146.5,6263,0.0275
-Koala,-29.5,152.5,2881,0.0127
-Koala,-31.5,152.5,24621,0.1081
-Koala,-29.5,153.5,4337,0.019
-Koala,-33.5,151.5,1984,0.0087
-Koala,-36.5,146.5,100,0.0004
-Koala,-27.5,153.5,14469,0.0635
-Koala,-28.5,153.5,19663,0.0863
-Koala,-35.5,137.5,226,0.001
-Koala,-37.5,147.5,270,0.0012
-Koala,-36.5,149.5,12808,0.0562
-Koala,-35.5,148.5,11,0.0
-Koala,-30.5,151.5,15158,0.0666
-Koala,-35.5,145.5,396,0.0017
-Koala,-19.5,146.5,304,0.0013
-Koala,-32.5,152.5,15761,0.0692
-Koala,-35.5,149.5,1418,0.0062
-Koala,-36.5,150.5,134,0.0006
-Koala,-38.5,141.5,252,0.0011
-Koala,-38.5,145.5,602,0.0026
-Koala,-33.5,150.5,12414,0.0545
-Koala,-30.5,152.5,5386,0.0236
-Koala,-34.5,150.5,42335,0.1859
-Koala,-37.5,149.5,117,0.0005
-Koala,-35.5,144.5,80,0.0004
-Koala,-36.5,140.5,9,0.0
-Koala,-26.5,152.5,287,0.0013
-Koala,-37.5,144.5,547,0.0024
-Koala,-38.5,144.5,68,0.0003
-Koala,-38.5,143.5,687,0.003
-Koala,-30.5,153.5,2263,0.0099
-Koala,-34.5,138.5,1950,0.0086
-Koala,-35.5,138.5,904,0.004
-Koala,-27.5,152.5,2044,0.009
-Koala,-20.5,147.5,1,0.0
-Koala,-28.5,152.5,7691,0.0338
-Koala,-38.5,142.5,427,0.0019
-Koala,-15.5,145.5,1,0.0
-Koala,-27.5,151.5,827,0.0036
-Koala,-34.5,135.5,150,0.0007
-Koala,-21.5,148.5,35,0.0002
-Koala,-33.5,149.5,1080,0.0047
-Koala,-22.5,149.5,10,0.0
-Koala,-17.5,145.5,7,0.0
-Koala,-34.5,139.5,6,0.0
-Koala,-35.5,136.5,112,0.0005
-Koala,-32.5,148.5,8,0.0
-Koala,-31.5,115.5,1,0.0
-Koala,-28.5,151.5,58,0.0003
-Koala,-16.5,145.5,1,0.0
-Koala,-26.5,153.5,28,0.0001
-Koala,-25.5,152.5,12,0.0001
-Koala,-21.5,149.5,6,0.0
-Koala,-26.5,151.5,670,0.0029
-Koala,-34.5,140.5,11,0.0
-Koala,-36.5,137.5,9,0.0
-Koala,-38.5,140.5,14,0.0001
-Koala,-33.5,138.5,2,0.0
-Koala,-37.5,140.5,22,0.0001
-Koala,-18.5,143.5,7,0.0
-Koala,-30.5,150.5,314,0.0014
-Koala,-24.5,135.5,5,0.0
-Koala,-37.5,145.5,189,0.0008
-Koala,-29.5,150.5,679,0.003
-Koala,-29.5,149.5,21,0.0001
-Koala,-37.5,141.5,40,0.0002
-Koala,-32.5,151.5,8458,0.0371
-Koala,-28.5,150.5,3,0.0
-Koala,-31.5,150.5,3605,0.0158
-Koala,-34.5,151.5,216,0.0009
-Koala,-32.5,149.5,1336,0.0059
-Koala,-31.5,151.5,7158,0.0314
-Koala,-32.5,150.5,533,0.0023
-Koala,-35.5,150.5,1107,0.0049
-Koala,-34.5,149.5,136,0.0006
-Koala,-30.5,149.5,79,0.0003
-Koala,-28.5,149.5,7,0.0
-Koala,-31.5,149.5,209,0.0009
-Koala,-29.5,151.5,541,0.0024
-Koala,-34.5,148.5,6,0.0
-Koala,-35.5,146.5,1,0.0
-Koala,-34.5,145.5,2,0.0
-Koala,-31.5,148.5,18,0.0001
-Koala,-37.5,143.5,322,0.0014
-Koala,-37.5,148.5,90,0.0004
-Koala,-36.5,148.5,37,0.0002
-Koala,-32.5,147.5,2,0.0
-Koala,-30.5,148.5,1,0.0
-Koala,-33.5,152.5,1,0.0
-Koala,-35.5,147.5,1,0.0
-Koala,-36.5,145.5,111,0.0005
-Koala,-36.5,136.5,3,0.0
-Koala,-37.5,142.5,54,0.0002
-Koala,-20.5,149.5,1,0.0
-Koala,-25.5,151.5,19,0.0001
-Koala,-37.5,146.5,2,0.0
-Koala,-31.5,146.5,1,0.0
-Koala,-24.5,150.5,3,0.0
-Koala,-26.5,150.5,5,0.0
-Koala,-18.5,145.5,2,0.0
-Koala,-24.5,151.5,1,0.0
-Koala,-38.5,147.5,20,0.0001
-Koala,-26.5,148.5,2,0.0
-Koala,-25.5,147.5,3,0.0
-Koala,-35.5,139.5,3,0.0
-Koala,-26.5,149.5,2,0.0
-Koala,-22.5,147.5,2,0.0
-Koala,-25.5,150.5,2,0.0
-Koala,-18.5,144.5,1,0.0
-Koala,-27.5,149.5,2,0.0
-Koala,-23.5,148.5,1,0.0
-Koala,-39.5,146.5,1,0.0
-Koala,-25.5,149.5,1,0.0
-Koala,-18.5,146.5,1,0.0
-Koala,-36.5,144.5,1,0.0
-Koala,-20.5,148.5,1,0.0
-Koala,-22.5,148.5,1,0.0
-Eastern grey kangaroo,-27.5,153.5,1084,0.0142
-Eastern grey kangaroo,-27.5,152.5,496,0.0065
-Eastern grey kangaroo,-35.5,149.5,6020,0.0791
-Eastern grey kangaroo,-36.5,146.5,1198,0.0157
-Eastern grey kangaroo,-36.5,150.5,570,0.0075
-Eastern grey kangaroo,-32.5,142.5,3,0.0
-Eastern grey kangaroo,-34.5,148.5,1153,0.0151
-Eastern grey kangaroo,-31.5,152.5,1309,0.0172
-Eastern grey kangaroo,-33.5,150.5,10379,0.1364
-Eastern grey kangaroo,-35.5,148.5,781,0.0103
-Eastern grey kangaroo,-29.5,153.5,1098,0.0144
-Eastern grey kangaroo,-36.5,149.5,1954,0.0257
-Eastern grey kangaroo,-34.5,150.5,3676,0.0483
-Eastern grey kangaroo,-34.5,149.5,2213,0.0291
-Eastern grey kangaroo,-29.5,152.5,642,0.0084
-Eastern grey kangaroo,-34.5,146.5,258,0.0034
-Eastern grey kangaroo,-35.5,150.5,5103,0.067
-Eastern grey kangaroo,-32.5,148.5,461,0.0061
-Eastern grey kangaroo,-35.5,147.5,970,0.0127
-Eastern grey kangaroo,-35.5,146.5,200,0.0026
-Eastern grey kangaroo,-36.5,147.5,98,0.0013
-Eastern grey kangaroo,-38.5,141.5,55,0.0007
-Eastern grey kangaroo,-33.5,151.5,615,0.0081
-Eastern grey kangaroo,-37.5,150.5,24,0.0003
-Eastern grey kangaroo,-24.5,152.5,74,0.001
-Eastern grey kangaroo,-25.5,148.5,88,0.0012
-Eastern grey kangaroo,-34.5,138.5,2,0.0
-Eastern grey kangaroo,-31.5,142.5,2,0.0
-Eastern grey kangaroo,-25.5,152.5,295,0.0039
-Eastern grey kangaroo,-37.5,149.5,233,0.0031
-Eastern grey kangaroo,-29.5,147.5,16,0.0002
-Eastern grey kangaroo,-37.5,145.5,2492,0.0327
-Eastern grey kangaroo,-30.5,147.5,10,0.0001
-Eastern grey kangaroo,-36.5,148.5,969,0.0127
-Eastern grey kangaroo,-34.5,145.5,42,0.0006
-Eastern grey kangaroo,-31.5,148.5,130,0.0017
-Eastern grey kangaroo,-35.5,144.5,113,0.0015
-Eastern grey kangaroo,-20.5,148.5,16,0.0002
-Eastern grey kangaroo,-29.5,148.5,5,0.0001
-Eastern grey kangaroo,-38.5,144.5,909,0.0119
-Eastern grey kangaroo,-30.5,145.5,9,0.0001
-Eastern grey kangaroo,-24.5,151.5,51,0.0007
-Eastern grey kangaroo,-25.5,142.5,2,0.0
-Eastern grey kangaroo,-19.5,146.5,28,0.0004
-Eastern grey kangaroo,-27.5,145.5,4,0.0001
-Eastern grey kangaroo,-13.5,142.5,2,0.0
-Eastern grey kangaroo,-37.5,144.5,1786,0.0235
-Eastern grey kangaroo,-38.5,143.5,166,0.0022
-Eastern grey kangaroo,-28.5,152.5,136,0.0018
-Eastern grey kangaroo,-30.5,153.5,1494,0.0196
-Eastern grey kangaroo,-36.5,144.5,277,0.0036
-Eastern grey kangaroo,-33.5,149.5,1711,0.0225
-Eastern grey kangaroo,-30.5,152.5,410,0.0054
-Eastern grey kangaroo,-32.5,151.5,2201,0.0289
-Eastern grey kangaroo,-36.5,145.5,93,0.0012
-Eastern grey kangaroo,-18.5,142.5,1,0.0
-Eastern grey kangaroo,-26.5,152.5,195,0.0026
-Eastern grey kangaroo,-30.5,151.5,1136,0.0149
-Eastern grey kangaroo,-26.5,153.5,266,0.0035
-Eastern grey kangaroo,-23.5,151.5,28,0.0004
-Eastern grey kangaroo,-20.5,149.5,33,0.0004
-Eastern grey kangaroo,-37.5,142.5,308,0.004
-Eastern grey kangaroo,-35.5,138.5,6,0.0001
-Eastern grey kangaroo,-31.5,149.5,138,0.0018
-Eastern grey kangaroo,-32.5,149.5,919,0.0121
-Eastern grey kangaroo,-26.5,151.5,7,0.0001
-Eastern grey kangaroo,-30.5,150.5,8938,0.1174
-Eastern grey kangaroo,-30.5,149.5,4069,0.0535
-Eastern grey kangaroo,-27.5,151.5,87,0.0011
-Eastern grey kangaroo,-24.5,148.5,20,0.0003
-Eastern grey kangaroo,-32.5,150.5,430,0.0056
-Eastern grey kangaroo,-25.5,150.5,3,0.0
-Eastern grey kangaroo,-28.5,151.5,210,0.0028
-Eastern grey kangaroo,-37.5,146.5,12,0.0002
-Eastern grey kangaroo,-33.5,148.5,408,0.0054
-Eastern grey kangaroo,-27.5,147.5,2,0.0
-Eastern grey kangaroo,-29.5,151.5,363,0.0048
-Eastern grey kangaroo,-42.5,148.5,98,0.0013
-Eastern grey kangaroo,-37.5,143.5,208,0.0027
-Eastern grey kangaroo,-33.5,138.5,4,0.0001
-Eastern grey kangaroo,-34.5,140.5,19,0.0002
-Eastern grey kangaroo,-31.5,153.5,71,0.0009
-Eastern grey kangaroo,-23.5,150.5,106,0.0014
-Eastern grey kangaroo,-38.5,145.5,530,0.007
-Eastern grey kangaroo,-27.5,146.5,1,0.0
-Eastern grey kangaroo,-35.5,145.5,111,0.0015
-Eastern grey kangaroo,-18.5,144.5,27,0.0004
-Eastern grey kangaroo,-23.5,148.5,8,0.0001
-Eastern grey kangaroo,-24.5,147.5,3,0.0
-Eastern grey kangaroo,-32.5,152.5,258,0.0034
-Eastern grey kangaroo,-18.5,146.5,1,0.0
-Eastern grey kangaroo,-37.5,140.5,35,0.0005
-Eastern grey kangaroo,-37.5,139.5,3,0.0
-Eastern grey kangaroo,-35.5,137.5,2,0.0
-Eastern grey kangaroo,-38.5,140.5,14,0.0002
-Eastern grey kangaroo,-35.5,140.5,2,0.0
-Eastern grey kangaroo,-36.5,140.5,3,0.0
-Eastern grey kangaroo,-33.5,139.5,1,0.0
-Eastern grey kangaroo,-31.5,147.5,46,0.0006
-Eastern grey kangaroo,-31.5,150.5,922,0.0121
-Eastern grey kangaroo,-32.5,147.5,12,0.0002
-Eastern grey kangaroo,-34.5,142.5,53,0.0007
-Eastern grey kangaroo,-29.5,150.5,214,0.0028
-Eastern grey kangaroo,-29.5,149.5,27,0.0004
-Eastern grey kangaroo,-31.5,151.5,79,0.001
-Eastern grey kangaroo,-30.5,148.5,37,0.0005
-Eastern grey kangaroo,-28.5,153.5,197,0.0026
-Eastern grey kangaroo,-34.5,147.5,83,0.0011
-Eastern grey kangaroo,-32.5,144.5,3,0.0
-Eastern grey kangaroo,-33.5,147.5,49,0.0006
-Eastern grey kangaroo,-33.5,145.5,9,0.0001
-Eastern grey kangaroo,-33.5,146.5,11,0.0001
-Eastern grey kangaroo,-28.5,150.5,19,0.0002
-Eastern grey kangaroo,-34.5,151.5,11,0.0001
-Eastern grey kangaroo,-34.5,144.5,20,0.0003
-Eastern grey kangaroo,-32.5,141.5,2,0.0
-Eastern grey kangaroo,-29.5,146.5,3,0.0
-Eastern grey kangaroo,-31.5,145.5,4,0.0001
-Eastern grey kangaroo,-31.5,146.5,3,0.0
-Eastern grey kangaroo,-34.5,141.5,10,0.0001
-Eastern grey kangaroo,-35.5,143.5,6,0.0001
-Eastern grey kangaroo,-33.5,144.5,2,0.0
-Eastern grey kangaroo,-30.5,146.5,6,0.0001
-Eastern grey kangaroo,-29.5,143.5,1,0.0
-Eastern grey kangaroo,-31.5,141.5,15,0.0002
-Eastern grey kangaroo,-33.5,141.5,3,0.0
-Eastern grey kangaroo,-34.5,143.5,24,0.0003
-Eastern grey kangaroo,-28.5,148.5,4,0.0001
-Eastern grey kangaroo,-33.5,143.5,1,0.0
-Eastern grey kangaroo,-31.5,143.5,4,0.0001
-Eastern grey kangaroo,-32.5,145.5,4,0.0001
-Eastern grey kangaroo,-37.5,148.5,58,0.0008
-Eastern grey kangaroo,-31.5,144.5,6,0.0001
-Eastern grey kangaroo,-29.5,145.5,1,0.0
-Eastern grey kangaroo,-30.5,142.5,1,0.0
-Eastern grey kangaroo,-38.5,147.5,11,0.0001
-Eastern grey kangaroo,-37.5,147.5,106,0.0014
-Eastern grey kangaroo,-22.5,149.5,17,0.0002
-Eastern grey kangaroo,-36.5,142.5,14,0.0002
-Eastern grey kangaroo,-27.5,149.5,28,0.0004
-Eastern grey kangaroo,-22.5,148.5,8,0.0001
-Eastern grey kangaroo,-38.5,146.5,241,0.0032
-Eastern grey kangaroo,-24.5,145.5,1,0.0
-Eastern grey kangaroo,-21.5,146.5,2,0.0
-Eastern grey kangaroo,-21.5,148.5,7,0.0001
-Eastern grey kangaroo,-36.5,143.5,34,0.0004
-Eastern grey kangaroo,-26.5,149.5,14,0.0002
-Eastern grey kangaroo,-16.5,145.5,50,0.0007
-Eastern grey kangaroo,-24.5,150.5,11,0.0001
-Eastern grey kangaroo,-23.5,147.5,5,0.0001
-Eastern grey kangaroo,-41.5,146.5,80,0.0011
-Eastern grey kangaroo,-40.5,148.5,3,0.0
-Eastern grey kangaroo,-27.5,148.5,10,0.0001
-Eastern grey kangaroo,-38.5,142.5,66,0.0009
-Eastern grey kangaroo,-26.5,148.5,14,0.0002
-Eastern grey kangaroo,-25.5,151.5,1,0.0
-Eastern grey kangaroo,-20.5,146.5,4,0.0001
-Eastern grey kangaroo,-24.5,146.5,4,0.0001
-Eastern grey kangaroo,-23.5,149.5,12,0.0002
-Eastern grey kangaroo,-34.5,139.5,9,0.0001
-Eastern grey kangaroo,-37.5,141.5,25,0.0003
-Eastern grey kangaroo,-27.5,150.5,10,0.0001
-Eastern grey kangaroo,-19.5,145.5,6,0.0001
-Eastern grey kangaroo,-21.5,149.5,5,0.0001
-Eastern grey kangaroo,-25.5,146.5,4,0.0001
-Eastern grey kangaroo,-25.5,149.5,7,0.0001
-Eastern grey kangaroo,-17.5,145.5,9,0.0001
-Eastern grey kangaroo,-20.5,145.5,2,0.0
-Eastern grey kangaroo,-22.5,145.5,1,0.0
-Eastern grey kangaroo,-19.5,147.5,6,0.0001
-Eastern grey kangaroo,-25.5,147.5,3,0.0
-Eastern grey kangaroo,-28.5,145.5,10,0.0001
-Eastern grey kangaroo,-21.5,147.5,2,0.0
-Eastern grey kangaroo,-33.5,137.5,1,0.0
-Eastern grey kangaroo,-32.5,138.5,6,0.0001
-Eastern grey kangaroo,-20.5,147.5,3,0.0
-Eastern grey kangaroo,-27.5,143.5,3,0.0
-Eastern grey kangaroo,-26.5,146.5,8,0.0001
-Eastern grey kangaroo,-39.5,146.5,4,0.0001
-Eastern grey kangaroo,-26.5,150.5,9,0.0001
-Eastern grey kangaroo,-26.5,147.5,3,0.0
-Eastern grey kangaroo,-22.5,143.5,5,0.0001
-Eastern grey kangaroo,-36.5,141.5,9,0.0001
-Eastern grey kangaroo,-23.5,146.5,5,0.0001
-Eastern grey kangaroo,-41.5,147.5,2,0.0
-Eastern grey kangaroo,-23.5,144.5,10,0.0001
-Eastern grey kangaroo,-31.5,138.5,3,0.0
-Eastern grey kangaroo,-24.5,149.5,1,0.0
-Eastern grey kangaroo,-22.5,147.5,6,0.0001
-Eastern grey kangaroo,-19.5,148.5,1,0.0
-Eastern grey kangaroo,-19.5,144.5,2,0.0
-Eastern grey kangaroo,-23.5,145.5,3,0.0
-Eastern grey kangaroo,-22.5,146.5,2,0.0
-Eastern grey kangaroo,-17.5,144.5,2,0.0
-Eastern grey kangaroo,-20.5,143.5,2,0.0
-Eastern grey kangaroo,-42.5,147.5,2,0.0
-Eastern grey kangaroo,-32.5,137.5,1,0.0
-Eastern grey kangaroo,-20.5,144.5,2,0.0
-Eastern grey kangaroo,-22.5,144.5,1,0.0
-Eastern grey kangaroo,-18.5,145.5,2,0.0
-Eastern grey kangaroo,-18.5,143.5,1,0.0
-Eastern grey kangaroo,-40.5,144.5,1,0.0
-Eastern grey kangaroo,-43.5,147.5,1,0.0
-Eastern grey kangaroo,-35.5,139.5,2,0.0
-Eastern grey kangaroo,-27.5,142.5,1,0.0
-Eastern grey kangaroo,-21.5,150.5,1,0.0
-Eastern grey kangaroo,-21.5,144.5,1,0.0
-Eastern grey kangaroo,-23.5,141.5,1,0.0
-Saltwater crocodile,-12.5,142.5,7,0.0007
-Saltwater crocodile,-12.5,141.5,23,0.0023
-Saltwater crocodile,-12.5,131.5,4975,0.497
-Saltwater crocodile,-16.5,145.5,1173,0.1172
-Saltwater crocodile,-12.5,132.5,504,0.0503
-Saltwater crocodile,-12.5,130.5,570,0.0569
-Saltwater crocodile,-14.5,125.5,26,0.0026
-Saltwater crocodile,-20.5,148.5,72,0.0072
-Saltwater crocodile,-16.5,137.5,18,0.0018
-Saltwater crocodile,-15.5,129.5,9,0.0009
-Saltwater crocodile,-14.5,134.5,11,0.0011
-Saltwater crocodile,-15.5,141.5,1,0.0001
-Saltwater crocodile,-28.5,153.5,1,0.0001
-Saltwater crocodile,-17.5,145.5,20,0.002
-Saltwater crocodile,-16.5,146.5,2,0.0002
-Saltwater crocodile,-15.5,128.5,16,0.0016
-Saltwater crocodile,-12.5,143.5,17,0.0017
-Saltwater crocodile,-17.5,146.5,14,0.0014
-Saltwater crocodile,-13.5,136.5,10,0.001
-Saltwater crocodile,-13.5,131.5,49,0.0049
-Saltwater crocodile,-14.5,135.5,1,0.0001
-Saltwater crocodile,-17.5,122.5,5,0.0005
-Saltwater crocodile,-14.5,132.5,19,0.0019
-Saltwater crocodile,-16.5,124.5,4,0.0004
-Saltwater crocodile,-18.5,146.5,23,0.0023
-Saltwater crocodile,-14.5,144.5,7,0.0007
-Saltwater crocodile,-14.5,131.5,38,0.0038
-Saltwater crocodile,-17.5,140.5,9,0.0009
-Saltwater crocodile,-11.5,142.5,3,0.0003
-Saltwater crocodile,-22.5,149.5,1,0.0001
-Saltwater crocodile,-16.5,123.5,8,0.0008
-Saltwater crocodile,-19.5,146.5,16,0.0016
-Saltwater crocodile,-13.5,130.5,683,0.0682
-Saltwater crocodile,-13.5,132.5,11,0.0011
-Saltwater crocodile,-15.5,125.5,33,0.0033
-Saltwater crocodile,-16.5,122.5,8,0.0008
-Saltwater crocodile,-15.5,130.5,6,0.0006
-Saltwater crocodile,-15.5,145.5,14,0.0014
-Saltwater crocodile,-14.5,127.5,4,0.0004
-Saltwater crocodile,-15.5,124.5,5,0.0005
-Saltwater crocodile,-17.5,141.5,1,0.0001
-Saltwater crocodile,-12.5,133.5,2,0.0002
-Saltwater crocodile,-11.5,130.5,3,0.0003
-Saltwater crocodile,-16.5,136.5,6,0.0006
-Saltwater crocodile,-11.5,132.5,64,0.0064
-Saltwater crocodile,-14.5,128.5,4,0.0004
-Saltwater crocodile,-10.5,142.5,9,0.0009
-Saltwater crocodile,-9.5,142.5,1,0.0001
-Saltwater crocodile,-13.5,127.5,8,0.0008
-Saltwater crocodile,-15.5,123.5,1,0.0001
-Saltwater crocodile,-11.5,141.5,2,0.0002
-Saltwater crocodile,-14.5,141.5,1,0.0001
-Saltwater crocodile,-16.5,141.5,1,0.0001
-Saltwater crocodile,-14.5,126.5,3,0.0003
-Saltwater crocodile,-15.5,136.5,7,0.0007
-Saltwater crocodile,-15.5,131.5,2,0.0002
-Saltwater crocodile,-12.5,136.5,45,0.0045
-Saltwater crocodile,-14.5,143.5,1,0.0001
-Saltwater crocodile,-17.5,139.5,2,0.0002
-Saltwater crocodile,-14.5,145.5,2,0.0002
-Saltwater crocodile,-15.5,144.5,2,0.0002
-Saltwater crocodile,-17.5,131.5,1,0.0001
-Saltwater crocodile,-14.5,129.5,1,0.0001
-Saltwater crocodile,-17.5,123.5,2,0.0002
-Saltwater crocodile,-12.5,134.5,1142,0.1141
-Saltwater crocodile,-19.5,134.5,1,0.0001
-Saltwater crocodile,-12.5,135.5,280,0.028
-Platypus,-27.5,153.5,29,0.0049
-Platypus,-35.5,149.5,350,0.0592
-Platypus,-21.5,148.5,191,0.0323
-Platypus,-36.5,149.5,265,0.0448
-Platypus,-34.5,150.5,179,0.0303
-Platypus,-35.5,148.5,232,0.0392
-Platypus,-16.5,145.5,19,0.0032
-Platypus,-33.5,149.5,112,0.0189
-Platypus,-36.5,148.5,157,0.0265
-Platypus,-34.5,149.5,35,0.0059
-Platypus,-36.5,146.5,77,0.013
-Platypus,-17.5,145.5,490,0.0828
-Platypus,-25.5,148.5,36,0.0061
-Platypus,-41.5,145.5,95,0.0161
-Platypus,-35.5,147.5,7,0.0012
-Platypus,-34.5,148.5,14,0.0024
-Platypus,-36.5,145.5,41,0.0069
-Platypus,-38.5,144.5,74,0.0125
-Platypus,-37.5,144.5,80,0.0135
-Platypus,-42.5,147.5,198,0.0335
-Platypus,-26.5,152.5,465,0.0786
-Platypus,-41.5,146.5,294,0.0497
-Platypus,-38.5,146.5,45,0.0076
-Platypus,-19.5,135.5,1,0.0002
-Platypus,-27.5,152.5,227,0.0384
-Platypus,-37.5,145.5,358,0.0605
-Platypus,-20.5,148.5,2,0.0003
-Platypus,-35.5,136.5,18,0.003
-Platypus,-42.5,146.5,89,0.015
-Platypus,-42.5,145.5,9,0.0015
-Platypus,-38.5,143.5,91,0.0154
-Platypus,-29.5,152.5,31,0.0052
-Platypus,-28.5,152.5,140,0.0237
-Platypus,-35.5,144.5,4,0.0007
-Platypus,-33.5,150.5,208,0.0352
-Platypus,-33.5,151.5,35,0.0059
-Platypus,-32.5,151.5,52,0.0088
-Platypus,-28.5,153.5,291,0.0492
-Platypus,-31.5,151.5,60,0.0101
-Platypus,-31.5,152.5,60,0.0101
-Platypus,-30.5,151.5,30,0.0051
-Platypus,-35.5,150.5,7,0.0012
-Platypus,-29.5,150.5,19,0.0032
-Platypus,-34.5,151.5,7,0.0012
-Platypus,-32.5,150.5,10,0.0017
-Platypus,-29.5,151.5,46,0.0078
-Platypus,-33.5,148.5,15,0.0025
-Platypus,-30.5,152.5,63,0.0106
-Platypus,-28.5,151.5,7,0.0012
-Platypus,-32.5,149.5,26,0.0044
-Platypus,-30.5,147.5,1,0.0002
-Platypus,-30.5,150.5,4,0.0007
-Platypus,-32.5,148.5,6,0.001
-Platypus,-37.5,149.5,3,0.0005
-Platypus,-32.5,152.5,3,0.0005
-Platypus,-34.5,146.5,5,0.0008
-Platypus,-30.5,153.5,28,0.0047
-Platypus,-36.5,147.5,22,0.0037
-Platypus,-23.5,150.5,2,0.0003
-Platypus,-24.5,152.5,34,0.0057
-Platypus,-37.5,143.5,16,0.0027
-Platypus,-36.5,144.5,13,0.0022
-Platypus,-18.5,145.5,16,0.0027
-Platypus,-37.5,146.5,12,0.002
-Platypus,-40.5,145.5,30,0.0051
-Platypus,-43.5,147.5,61,0.0103
-Platypus,-24.5,150.5,5,0.0008
-Platypus,-25.5,149.5,2,0.0003
-Platypus,-43.5,146.5,33,0.0056
-Platypus,-36.5,143.5,11,0.0019
-Platypus,-41.5,147.5,75,0.0127
-Platypus,-26.5,151.5,3,0.0005
-Platypus,-37.5,142.5,21,0.0035
-Platypus,-37.5,141.5,9,0.0015
-Platypus,-37.5,147.5,9,0.0015
-Platypus,-38.5,145.5,5,0.0008
-Platypus,-25.5,152.5,4,0.0007
-Platypus,-35.5,138.5,1,0.0002
-Platypus,-37.5,148.5,14,0.0024
-Platypus,-26.5,153.5,12,0.002
-Platypus,-21.5,149.5,7,0.0012
-Platypus,-38.5,142.5,19,0.0032
-Platypus,-27.5,151.5,1,0.0002
-Platypus,-25.5,151.5,6,0.001
-Platypus,-23.5,148.5,1,0.0002
-Platypus,-24.5,151.5,2,0.0003
-Platypus,-41.5,148.5,9,0.0015
-Platypus,-39.5,144.5,1,0.0002
-Platypus,-40.5,147.5,2,0.0003
-Platypus,-35.5,143.5,1,0.0002
-Platypus,-35.5,146.5,1,0.0002
-Platypus,-39.5,143.5,2,0.0003
-Platypus,-23.5,149.5,1,0.0002
-Platypus,-35.5,145.5,1,0.0002
-Platypus,-18.5,146.5,3,0.0005
-Platypus,-25.5,150.5,1,0.0002
-Platypus,-28.5,148.5,1,0.0002
-Platypus,-34.5,138.5,1,0.0002
-Platypus,-19.5,146.5,1,0.0002
-Platypus,-25.5,147.5,1,0.0002
-Platypus,-24.5,148.5,1,0.0002
-Platypus,-40.5,144.5,1,0.0002
-Platypus,-38.5,141.5,1,0.0002
-Platypus,-24.5,147.5,1,0.0002
-Quokka,-31.5,115.5,625,0.6288
-Quokka,-31.5,116.5,2,0.002
-Quokka,-32.5,115.5,137,0.1378
-Quokka,-34.5,116.5,149,0.1499
-Quokka,-35.5,116.5,46,0.0463
-Quokka,-34.5,115.5,14,0.0141
-Quokka,-34.5,118.5,18,0.0181
-Quokka,-34.5,117.5,1,0.001
-Quokka,-32.5,116.5,2,0.002
-Tasmanian devil,-41.5,148.5,9,0.0185
-Tasmanian devil,-41.5,145.5,100,0.2053
-Tasmanian devil,-41.5,147.5,23,0.0472
-Tasmanian devil,-42.5,146.5,30,0.0616
-Tasmanian devil,-43.5,147.5,43,0.0883
-Tasmanian devil,-31.5,151.5,1,0.0021
-Tasmanian devil,-42.5,147.5,96,0.1971
-Tasmanian devil,-43.5,146.5,15,0.0308
-Tasmanian devil,-42.5,148.5,43,0.0883
-Tasmanian devil,-41.5,146.5,92,0.1889
-Tasmanian devil,-42.5,145.5,13,0.0267
-Tasmanian devil,-40.5,147.5,3,0.0062
-Tasmanian devil,-41.5,144.5,6,0.0123
-Tasmanian devil,-40.5,148.5,2,0.0041
-Tasmanian devil,-40.5,144.5,8,0.0164
-Tasmanian devil,-40.5,145.5,2,0.0041
-Tasmanian devil,-43.5,145.5,1,0.0021
-Little penguin,-38.5,145.5,1576,0.1959
-Little penguin,-35.5,137.5,2674,0.3323
-Little penguin,-41.5,148.5,170,0.0211
-Little penguin,-41.5,146.5,318,0.0395
-Little penguin,-42.5,147.5,51,0.0063
-Little penguin,-27.5,153.5,1,0.0001
-Little penguin,-43.5,147.5,355,0.0441
-Little penguin,-35.5,150.5,122,0.0152
-Little penguin,-40.5,145.5,172,0.0214
-Little penguin,-35.5,138.5,333,0.0414
-Little penguin,-34.5,136.5,32,0.004
-Little penguin,-34.5,135.5,32,0.004
-Little penguin,-33.5,134.5,7,0.0009
-Little penguin,-35.5,136.5,16,0.002
-Little penguin,-31.5,131.5,2,0.0002
-Little penguin,-32.5,115.5,106,0.0132
-Little penguin,-31.5,115.5,1,0.0001
-Little penguin,-32.5,152.5,97,0.0121
-Little penguin,-42.5,148.5,26,0.0032
-Little penguin,-43.5,146.5,6,0.0007
-Little penguin,-41.5,145.5,194,0.0241
-Little penguin,-38.5,144.5,221,0.0275
-Little penguin,-40.5,148.5,28,0.0035
-Little penguin,-38.5,142.5,104,0.0129
-Little penguin,-37.5,149.5,50,0.0062
-Little penguin,-40.5,147.5,29,0.0036
-Little penguin,-39.5,147.5,21,0.0026
-Little penguin,-32.5,126.5,4,0.0005
-Little penguin,-40.5,144.5,34,0.0042
-Little penguin,-34.5,119.5,96,0.0119
-Little penguin,-40.5,143.5,15,0.0019
-Little penguin,-38.5,146.5,18,0.0022
-Little penguin,-37.5,145.5,4,0.0005
-Little penguin,-43.5,148.5,144,0.0179
-Little penguin,-37.5,144.5,319,0.0396
-Little penguin,-33.5,151.5,220,0.0273
-Little penguin,-32.5,151.5,13,0.0016
-Little penguin,-36.5,150.5,125,0.0155
-Little penguin,-34.5,150.5,44,0.0055
-Little penguin,-34.5,151.5,18,0.0022
-Little penguin,-37.5,139.5,1,0.0001
-Little penguin,-38.5,143.5,56,0.007
-Little penguin,-42.5,145.5,2,0.0002
-Little penguin,-39.5,143.5,4,0.0005
-Little penguin,-36.5,136.5,1,0.0001
-Little penguin,-31.5,152.5,9,0.0011
-Little penguin,-36.5,149.5,12,0.0015
-Little penguin,-30.5,153.5,1,0.0001
-Little penguin,-37.5,148.5,2,0.0002
-Little penguin,-39.5,146.5,27,0.0034
-Little penguin,-33.5,121.5,1,0.0001
-Little penguin,-32.5,133.5,8,0.001
-Little penguin,-38.5,141.5,11,0.0014
-Little penguin,-34.5,138.5,37,0.0046
-Little penguin,-34.5,137.5,5,0.0006
-Little penguin,-36.5,139.5,2,0.0002
-Little penguin,-34.5,118.5,1,0.0001
-Little penguin,-35.5,117.5,1,0.0001
-Little penguin,-33.5,122.5,6,0.0007
-Little penguin,-33.5,119.5,1,0.0001
-Little penguin,-41.5,149.5,1,0.0001
-Little penguin,-42.5,146.5,1,0.0001
-Little penguin,-37.5,140.5,1,0.0001
-Little penguin,-35.5,139.5,1,0.0001
-Little penguin,-41.5,147.5,1,0.0001
-Little penguin,-32.5,137.5,1,0.0001
-Little penguin,-37.5,150.5,25,0.0031
-Little penguin,-38.5,148.5,6,0.0007
-Little penguin,-37.5,147.5,4,0.0005
-Little penguin,-39.5,145.5,4,0.0005
-Little penguin,-31.5,130.5,3,0.0004
-Little penguin,-34.5,123.5,2,0.0002
-Little penguin,-33.5,135.5,1,0.0001
-Little penguin,-31.5,129.5,2,0.0002
-Little penguin,-40.5,146.5,2,0.0002
-Little penguin,-33.5,115.5,3,0.0004
-Little penguin,-34.5,115.5,1,0.0001
-Little penguin,-39.5,144.5,1,0.0001
+species,name,lat,lon,count,share,share_txt,rank,rank_txt,top_txt,where_txt
+Koala,Koala ★,-38.5,146.5,435,0.0019,0.2%,34,#34 of 118 squares,top cell: 0%,"38.5°S, 146.5°E"
+Koala,Koala ★,-34.5,146.5,6263,0.0275,2.8%,12,#12 of 118 squares,top cell: 3%,"34.5°S, 146.5°E"
+Koala,Koala ★,-29.5,152.5,2881,0.0127,1.3%,16,#16 of 118 squares,top cell: 1%,"29.5°S, 152.5°E"
+Koala,Koala ★,-31.5,152.5,24621,0.1081,10.8%,2,#2 of 118 squares,top cell: 11%,"31.5°S, 152.5°E"
+Koala,Koala ★,-29.5,153.5,4337,0.019,1.9%,14,#14 of 118 squares,top cell: 2%,"29.5°S, 153.5°E"
+Koala,Koala ★,-33.5,151.5,1984,0.0087,0.9%,19,#19 of 118 squares,top cell: 1%,"33.5°S, 151.5°E"
+Koala,Koala ★,-36.5,146.5,100,0.0004,under 0.1%,53,#53 of 118 squares,top cell: 0%,"36.5°S, 146.5°E"
+Koala,Koala ★,-27.5,153.5,14469,0.0635,6.3%,6,#6 of 118 squares,top cell: 6%,"27.5°S, 153.5°E"
+Koala,Koala ★,-28.5,153.5,19663,0.0863,8.6%,3,#3 of 118 squares,top cell: 9%,"28.5°S, 153.5°E"
+Koala,Koala ★,-35.5,137.5,226,0.001,0.1%,43,#43 of 118 squares,top cell: 0%,"35.5°S, 137.5°E"
+Koala,Koala ★,-37.5,147.5,270,0.0012,0.1%,41,#41 of 118 squares,top cell: 0%,"37.5°S, 147.5°E"
+Koala,Koala ★,-36.5,149.5,12808,0.0562,5.6%,7,#7 of 118 squares,top cell: 6%,"36.5°S, 149.5°E"
+Koala,Koala ★,-35.5,148.5,11,0.0,under 0.1%,71,#71 of 118 squares,top cell: 0%,"35.5°S, 148.5°E"
+Koala,Koala ★,-30.5,151.5,15158,0.0666,6.7%,5,#5 of 118 squares,top cell: 7%,"30.5°S, 151.5°E"
+Koala,Koala ★,-35.5,145.5,396,0.0017,0.2%,36,#36 of 118 squares,top cell: 0%,"35.5°S, 145.5°E"
+Koala,Koala ★,-19.5,146.5,304,0.0013,0.1%,39,#39 of 118 squares,top cell: 0%,"19.5°S, 146.5°E"
+Koala,Koala ★,-32.5,152.5,15761,0.0692,6.9%,4,#4 of 118 squares,top cell: 7%,"32.5°S, 152.5°E"
+Koala,Koala ★,-35.5,149.5,1418,0.0062,0.6%,21,#21 of 118 squares,top cell: 1%,"35.5°S, 149.5°E"
+Koala,Koala ★,-36.5,150.5,134,0.0006,under 0.1%,48,#48 of 118 squares,top cell: 0%,"36.5°S, 150.5°E"
+Koala,Koala ★,-38.5,141.5,252,0.0011,0.1%,42,#42 of 118 squares,top cell: 0%,"38.5°S, 141.5°E"
+Koala,Koala ★,-38.5,145.5,602,0.0026,0.3%,30,#30 of 118 squares,top cell: 0%,"38.5°S, 145.5°E"
+Koala,Koala ★,-33.5,150.5,12414,0.0545,5.5%,8,#8 of 118 squares,top cell: 5%,"33.5°S, 150.5°E"
+Koala,Koala ★,-30.5,152.5,5386,0.0236,2.4%,13,#13 of 118 squares,top cell: 2%,"30.5°S, 152.5°E"
+Koala,Koala ★,-34.5,150.5,42335,0.1859,18.6%,1,#1 of 118 squares,top cell: 19%,"34.5°S, 150.5°E"
+Koala,Koala ★,-37.5,149.5,117,0.0005,under 0.1%,50,#50 of 118 squares,top cell: 0%,"37.5°S, 149.5°E"
+Koala,Koala ★,-35.5,144.5,80,0.0004,under 0.1%,54,#54 of 118 squares,top cell: 0%,"35.5°S, 144.5°E"
+Koala,Koala ★,-36.5,140.5,9,0.0,under 0.1%,72,#72 of 118 squares,top cell: 0%,"36.5°S, 140.5°E"
+Koala,Koala ★,-26.5,152.5,287,0.0013,0.1%,40,#40 of 118 squares,top cell: 0%,"26.5°S, 152.5°E"
+Koala,Koala ★,-37.5,144.5,547,0.0024,0.2%,31,#31 of 118 squares,top cell: 0%,"37.5°S, 144.5°E"
+Koala,Koala ★,-38.5,144.5,68,0.0003,under 0.1%,56,#56 of 118 squares,top cell: 0%,"38.5°S, 144.5°E"
+Koala,Koala ★,-38.5,143.5,687,0.003,0.3%,27,#27 of 118 squares,top cell: 0%,"38.5°S, 143.5°E"
+Koala,Koala ★,-30.5,153.5,2263,0.0099,1.0%,17,#17 of 118 squares,top cell: 1%,"30.5°S, 153.5°E"
+Koala,Koala ★,-34.5,138.5,1950,0.0086,0.9%,20,#20 of 118 squares,top cell: 1%,"34.5°S, 138.5°E"
+Koala,Koala ★,-35.5,138.5,904,0.004,0.4%,25,#25 of 118 squares,top cell: 0%,"35.5°S, 138.5°E"
+Koala,Koala ★,-27.5,152.5,2044,0.009,0.9%,18,#18 of 118 squares,top cell: 1%,"27.5°S, 152.5°E"
+Koala,Koala ★,-20.5,147.5,1,0.0,under 0.1%,73,#73 of 118 squares,top cell: 0%,"20.5°S, 147.5°E"
+Koala,Koala ★,-28.5,152.5,7691,0.0338,3.4%,10,#10 of 118 squares,top cell: 3%,"28.5°S, 152.5°E"
+Koala,Koala ★,-38.5,142.5,427,0.0019,0.2%,35,#35 of 118 squares,top cell: 0%,"38.5°S, 142.5°E"
+Koala,Koala ★,-15.5,145.5,1,0.0,under 0.1%,74,#74 of 118 squares,top cell: 0%,"15.5°S, 145.5°E"
+Koala,Koala ★,-27.5,151.5,827,0.0036,0.4%,26,#26 of 118 squares,top cell: 0%,"27.5°S, 151.5°E"
+Koala,Koala ★,-34.5,135.5,150,0.0007,under 0.1%,47,#47 of 118 squares,top cell: 0%,"34.5°S, 135.5°E"
+Koala,Koala ★,-21.5,148.5,35,0.0002,under 0.1%,59,#59 of 118 squares,top cell: 0%,"21.5°S, 148.5°E"
+Koala,Koala ★,-33.5,149.5,1080,0.0047,0.5%,24,#24 of 118 squares,top cell: 0%,"33.5°S, 149.5°E"
+Koala,Koala ★,-22.5,149.5,10,0.0,under 0.1%,75,#75 of 118 squares,top cell: 0%,"22.5°S, 149.5°E"
+Koala,Koala ★,-17.5,145.5,7,0.0,under 0.1%,76,#76 of 118 squares,top cell: 0%,"17.5°S, 145.5°E"
+Koala,Koala ★,-34.5,139.5,6,0.0,under 0.1%,77,#77 of 118 squares,top cell: 0%,"34.5°S, 139.5°E"
+Koala,Koala ★,-35.5,136.5,112,0.0005,under 0.1%,51,#51 of 118 squares,top cell: 0%,"35.5°S, 136.5°E"
+Koala,Koala ★,-32.5,148.5,8,0.0,under 0.1%,78,#78 of 118 squares,top cell: 0%,"32.5°S, 148.5°E"
+Koala,Koala ★,-31.5,115.5,1,0.0,under 0.1%,79,#79 of 118 squares,top cell: 0%,"31.5°S, 115.5°E"
+Koala,Koala ★,-28.5,151.5,58,0.0003,under 0.1%,57,#57 of 118 squares,top cell: 0%,"28.5°S, 151.5°E"
+Koala,Koala ★,-16.5,145.5,1,0.0,under 0.1%,80,#80 of 118 squares,top cell: 0%,"16.5°S, 145.5°E"
+Koala,Koala ★,-26.5,153.5,28,0.0001,under 0.1%,63,#63 of 118 squares,top cell: 0%,"26.5°S, 153.5°E"
+Koala,Koala ★,-25.5,152.5,12,0.0001,under 0.1%,64,#64 of 118 squares,top cell: 0%,"25.5°S, 152.5°E"
+Koala,Koala ★,-21.5,149.5,6,0.0,under 0.1%,81,#81 of 118 squares,top cell: 0%,"21.5°S, 149.5°E"
+Koala,Koala ★,-26.5,151.5,670,0.0029,0.3%,29,#29 of 118 squares,top cell: 0%,"26.5°S, 151.5°E"
+Koala,Koala ★,-34.5,140.5,11,0.0,under 0.1%,82,#82 of 118 squares,top cell: 0%,"34.5°S, 140.5°E"
+Koala,Koala ★,-36.5,137.5,9,0.0,under 0.1%,83,#83 of 118 squares,top cell: 0%,"36.5°S, 137.5°E"
+Koala,Koala ★,-38.5,140.5,14,0.0001,under 0.1%,65,#65 of 118 squares,top cell: 0%,"38.5°S, 140.5°E"
+Koala,Koala ★,-33.5,138.5,2,0.0,under 0.1%,84,#84 of 118 squares,top cell: 0%,"33.5°S, 138.5°E"
+Koala,Koala ★,-37.5,140.5,22,0.0001,under 0.1%,66,#66 of 118 squares,top cell: 0%,"37.5°S, 140.5°E"
+Koala,Koala ★,-18.5,143.5,7,0.0,under 0.1%,85,#85 of 118 squares,top cell: 0%,"18.5°S, 143.5°E"
+Koala,Koala ★,-30.5,150.5,314,0.0014,0.1%,37,#37 of 118 squares,top cell: 0%,"30.5°S, 150.5°E"
+Koala,Koala ★,-24.5,135.5,5,0.0,under 0.1%,86,#86 of 118 squares,top cell: 0%,"24.5°S, 135.5°E"
+Koala,Koala ★,-37.5,145.5,189,0.0008,under 0.1%,46,#46 of 118 squares,top cell: 0%,"37.5°S, 145.5°E"
+Koala,Koala ★,-29.5,150.5,679,0.003,0.3%,28,#28 of 118 squares,top cell: 0%,"29.5°S, 150.5°E"
+Koala,Koala ★,-29.5,149.5,21,0.0001,under 0.1%,67,#67 of 118 squares,top cell: 0%,"29.5°S, 149.5°E"
+Koala,Koala ★,-37.5,141.5,40,0.0002,under 0.1%,60,#60 of 118 squares,top cell: 0%,"37.5°S, 141.5°E"
+Koala,Koala ★,-32.5,151.5,8458,0.0371,3.7%,9,#9 of 118 squares,top cell: 4%,"32.5°S, 151.5°E"
+Koala,Koala ★,-28.5,150.5,3,0.0,under 0.1%,87,#87 of 118 squares,top cell: 0%,"28.5°S, 150.5°E"
+Koala,Koala ★,-31.5,150.5,3605,0.0158,1.6%,15,#15 of 118 squares,top cell: 2%,"31.5°S, 150.5°E"
+Koala,Koala ★,-34.5,151.5,216,0.0009,under 0.1%,44,#44 of 118 squares,top cell: 0%,"34.5°S, 151.5°E"
+Koala,Koala ★,-32.5,149.5,1336,0.0059,0.6%,22,#22 of 118 squares,top cell: 1%,"32.5°S, 149.5°E"
+Koala,Koala ★,-31.5,151.5,7158,0.0314,3.1%,11,#11 of 118 squares,top cell: 3%,"31.5°S, 151.5°E"
+Koala,Koala ★,-32.5,150.5,533,0.0023,0.2%,33,#33 of 118 squares,top cell: 0%,"32.5°S, 150.5°E"
+Koala,Koala ★,-35.5,150.5,1107,0.0049,0.5%,23,#23 of 118 squares,top cell: 0%,"35.5°S, 150.5°E"
+Koala,Koala ★,-34.5,149.5,136,0.0006,under 0.1%,49,#49 of 118 squares,top cell: 0%,"34.5°S, 149.5°E"
+Koala,Koala ★,-30.5,149.5,79,0.0003,under 0.1%,58,#58 of 118 squares,top cell: 0%,"30.5°S, 149.5°E"
+Koala,Koala ★,-28.5,149.5,7,0.0,under 0.1%,88,#88 of 118 squares,top cell: 0%,"28.5°S, 149.5°E"
+Koala,Koala ★,-31.5,149.5,209,0.0009,under 0.1%,45,#45 of 118 squares,top cell: 0%,"31.5°S, 149.5°E"
+Koala,Koala ★,-29.5,151.5,541,0.0024,0.2%,32,#32 of 118 squares,top cell: 0%,"29.5°S, 151.5°E"
+Koala,Koala ★,-34.5,148.5,6,0.0,under 0.1%,89,#89 of 118 squares,top cell: 0%,"34.5°S, 148.5°E"
+Koala,Koala ★,-35.5,146.5,1,0.0,under 0.1%,90,#90 of 118 squares,top cell: 0%,"35.5°S, 146.5°E"
+Koala,Koala ★,-34.5,145.5,2,0.0,under 0.1%,91,#91 of 118 squares,top cell: 0%,"34.5°S, 145.5°E"
+Koala,Koala ★,-31.5,148.5,18,0.0001,under 0.1%,68,#68 of 118 squares,top cell: 0%,"31.5°S, 148.5°E"
+Koala,Koala ★,-37.5,143.5,322,0.0014,0.1%,38,#38 of 118 squares,top cell: 0%,"37.5°S, 143.5°E"
+Koala,Koala ★,-37.5,148.5,90,0.0004,under 0.1%,55,#55 of 118 squares,top cell: 0%,"37.5°S, 148.5°E"
+Koala,Koala ★,-36.5,148.5,37,0.0002,under 0.1%,61,#61 of 118 squares,top cell: 0%,"36.5°S, 148.5°E"
+Koala,Koala ★,-32.5,147.5,2,0.0,under 0.1%,92,#92 of 118 squares,top cell: 0%,"32.5°S, 147.5°E"
+Koala,Koala ★,-30.5,148.5,1,0.0,under 0.1%,93,#93 of 118 squares,top cell: 0%,"30.5°S, 148.5°E"
+Koala,Koala ★,-33.5,152.5,1,0.0,under 0.1%,94,#94 of 118 squares,top cell: 0%,"33.5°S, 152.5°E"
+Koala,Koala ★,-35.5,147.5,1,0.0,under 0.1%,95,#95 of 118 squares,top cell: 0%,"35.5°S, 147.5°E"
+Koala,Koala ★,-36.5,145.5,111,0.0005,under 0.1%,52,#52 of 118 squares,top cell: 0%,"36.5°S, 145.5°E"
+Koala,Koala ★,-36.5,136.5,3,0.0,under 0.1%,96,#96 of 118 squares,top cell: 0%,"36.5°S, 136.5°E"
+Koala,Koala ★,-37.5,142.5,54,0.0002,under 0.1%,62,#62 of 118 squares,top cell: 0%,"37.5°S, 142.5°E"
+Koala,Koala ★,-20.5,149.5,1,0.0,under 0.1%,97,#97 of 118 squares,top cell: 0%,"20.5°S, 149.5°E"
+Koala,Koala ★,-25.5,151.5,19,0.0001,under 0.1%,69,#69 of 118 squares,top cell: 0%,"25.5°S, 151.5°E"
+Koala,Koala ★,-37.5,146.5,2,0.0,under 0.1%,98,#98 of 118 squares,top cell: 0%,"37.5°S, 146.5°E"
+Koala,Koala ★,-31.5,146.5,1,0.0,under 0.1%,99,#99 of 118 squares,top cell: 0%,"31.5°S, 146.5°E"
+Koala,Koala ★,-24.5,150.5,3,0.0,under 0.1%,100,#100 of 118 squares,top cell: 0%,"24.5°S, 150.5°E"
+Koala,Koala ★,-26.5,150.5,5,0.0,under 0.1%,101,#101 of 118 squares,top cell: 0%,"26.5°S, 150.5°E"
+Koala,Koala ★,-18.5,145.5,2,0.0,under 0.1%,102,#102 of 118 squares,top cell: 0%,"18.5°S, 145.5°E"
+Koala,Koala ★,-24.5,151.5,1,0.0,under 0.1%,103,#103 of 118 squares,top cell: 0%,"24.5°S, 151.5°E"
+Koala,Koala ★,-38.5,147.5,20,0.0001,under 0.1%,70,#70 of 118 squares,top cell: 0%,"38.5°S, 147.5°E"
+Koala,Koala ★,-26.5,148.5,2,0.0,under 0.1%,104,#104 of 118 squares,top cell: 0%,"26.5°S, 148.5°E"
+Koala,Koala ★,-25.5,147.5,3,0.0,under 0.1%,105,#105 of 118 squares,top cell: 0%,"25.5°S, 147.5°E"
+Koala,Koala ★,-35.5,139.5,3,0.0,under 0.1%,106,#106 of 118 squares,top cell: 0%,"35.5°S, 139.5°E"
+Koala,Koala ★,-26.5,149.5,2,0.0,under 0.1%,107,#107 of 118 squares,top cell: 0%,"26.5°S, 149.5°E"
+Koala,Koala ★,-22.5,147.5,2,0.0,under 0.1%,108,#108 of 118 squares,top cell: 0%,"22.5°S, 147.5°E"
+Koala,Koala ★,-25.5,150.5,2,0.0,under 0.1%,109,#109 of 118 squares,top cell: 0%,"25.5°S, 150.5°E"
+Koala,Koala ★,-18.5,144.5,1,0.0,under 0.1%,110,#110 of 118 squares,top cell: 0%,"18.5°S, 144.5°E"
+Koala,Koala ★,-27.5,149.5,2,0.0,under 0.1%,111,#111 of 118 squares,top cell: 0%,"27.5°S, 149.5°E"
+Koala,Koala ★,-23.5,148.5,1,0.0,under 0.1%,112,#112 of 118 squares,top cell: 0%,"23.5°S, 148.5°E"
+Koala,Koala ★,-39.5,146.5,1,0.0,under 0.1%,113,#113 of 118 squares,top cell: 0%,"39.5°S, 146.5°E"
+Koala,Koala ★,-25.5,149.5,1,0.0,under 0.1%,114,#114 of 118 squares,top cell: 0%,"25.5°S, 149.5°E"
+Koala,Koala ★,-18.5,146.5,1,0.0,under 0.1%,115,#115 of 118 squares,top cell: 0%,"18.5°S, 146.5°E"
+Koala,Koala ★,-36.5,144.5,1,0.0,under 0.1%,116,#116 of 118 squares,top cell: 0%,"36.5°S, 144.5°E"
+Koala,Koala ★,-20.5,148.5,1,0.0,under 0.1%,117,#117 of 118 squares,top cell: 0%,"20.5°S, 148.5°E"
+Koala,Koala ★,-22.5,148.5,1,0.0,under 0.1%,118,#118 of 118 squares,top cell: 0%,"22.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,153.5,1084,0.0142,1.4%,19,#19 of 208 squares,top cell: 1%,"27.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,152.5,496,0.0065,0.7%,30,#30 of 208 squares,top cell: 1%,"27.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,149.5,6020,0.0791,7.9%,3,#3 of 208 squares,top cell: 8%,"35.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,146.5,1198,0.0157,1.6%,15,#15 of 208 squares,top cell: 2%,"36.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,150.5,570,0.0075,0.8%,28,#28 of 208 squares,top cell: 1%,"36.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,142.5,3,0.0,under 0.1%,149,#149 of 208 squares,top cell: 0%,"32.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,148.5,1153,0.0151,1.5%,16,#16 of 208 squares,top cell: 2%,"34.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,152.5,1309,0.0172,1.7%,14,#14 of 208 squares,top cell: 2%,"31.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,150.5,10379,0.1364,13.6%,1,#1 of 208 squares,top cell: 14%,"33.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,148.5,781,0.0103,1.0%,25,#25 of 208 squares,top cell: 1%,"35.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,153.5,1098,0.0144,1.4%,18,#18 of 208 squares,top cell: 1%,"29.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,149.5,1954,0.0257,2.6%,10,#10 of 208 squares,top cell: 3%,"36.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,150.5,3676,0.0483,4.8%,6,#6 of 208 squares,top cell: 5%,"34.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,149.5,2213,0.0291,2.9%,8,#8 of 208 squares,top cell: 3%,"34.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,152.5,642,0.0084,0.8%,26,#26 of 208 squares,top cell: 1%,"29.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,146.5,258,0.0034,0.3%,40,#40 of 208 squares,top cell: 0%,"34.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,150.5,5103,0.067,6.7%,4,#4 of 208 squares,top cell: 7%,"35.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,148.5,461,0.0061,0.6%,31,#31 of 208 squares,top cell: 1%,"32.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,147.5,970,0.0127,1.3%,20,#20 of 208 squares,top cell: 1%,"35.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,146.5,200,0.0026,0.3%,47,#47 of 208 squares,top cell: 0%,"35.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,147.5,98,0.0013,0.1%,58,#58 of 208 squares,top cell: 0%,"36.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,141.5,55,0.0007,under 0.1%,70,#70 of 208 squares,top cell: 0%,"38.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,151.5,615,0.0081,0.8%,27,#27 of 208 squares,top cell: 1%,"33.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,150.5,24,0.0003,under 0.1%,86,#86 of 208 squares,top cell: 0%,"37.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,152.5,74,0.001,0.1%,65,#65 of 208 squares,top cell: 0%,"24.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,148.5,88,0.0012,0.1%,60,#60 of 208 squares,top cell: 0%,"25.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,138.5,2,0.0,under 0.1%,150,#150 of 208 squares,top cell: 0%,"34.5°S, 138.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,142.5,2,0.0,under 0.1%,151,#151 of 208 squares,top cell: 0%,"31.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,152.5,295,0.0039,0.4%,37,#37 of 208 squares,top cell: 0%,"25.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,149.5,233,0.0031,0.3%,43,#43 of 208 squares,top cell: 0%,"37.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,147.5,16,0.0002,under 0.1%,91,#91 of 208 squares,top cell: 0%,"29.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,145.5,2492,0.0327,3.3%,7,#7 of 208 squares,top cell: 3%,"37.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,147.5,10,0.0001,under 0.1%,104,#104 of 208 squares,top cell: 0%,"30.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,148.5,969,0.0127,1.3%,21,#21 of 208 squares,top cell: 1%,"36.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,145.5,42,0.0006,under 0.1%,74,#74 of 208 squares,top cell: 0%,"34.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,148.5,130,0.0017,0.2%,53,#53 of 208 squares,top cell: 0%,"31.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,144.5,113,0.0015,0.1%,54,#54 of 208 squares,top cell: 0%,"35.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,148.5,16,0.0002,under 0.1%,92,#92 of 208 squares,top cell: 0%,"20.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,148.5,5,0.0001,under 0.1%,105,#105 of 208 squares,top cell: 0%,"29.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,144.5,909,0.0119,1.2%,24,#24 of 208 squares,top cell: 1%,"38.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,145.5,9,0.0001,under 0.1%,106,#106 of 208 squares,top cell: 0%,"30.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,151.5,51,0.0007,under 0.1%,71,#71 of 208 squares,top cell: 0%,"24.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,142.5,2,0.0,under 0.1%,152,#152 of 208 squares,top cell: 0%,"25.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-19.5,146.5,28,0.0004,under 0.1%,79,#79 of 208 squares,top cell: 0%,"19.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,145.5,4,0.0001,under 0.1%,107,#107 of 208 squares,top cell: 0%,"27.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-13.5,142.5,2,0.0,under 0.1%,153,#153 of 208 squares,top cell: 0%,"13.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,144.5,1786,0.0235,2.4%,11,#11 of 208 squares,top cell: 2%,"37.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,143.5,166,0.0022,0.2%,50,#50 of 208 squares,top cell: 0%,"38.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,152.5,136,0.0018,0.2%,51,#51 of 208 squares,top cell: 0%,"28.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,153.5,1494,0.0196,2.0%,13,#13 of 208 squares,top cell: 2%,"30.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,144.5,277,0.0036,0.4%,38,#38 of 208 squares,top cell: 0%,"36.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,149.5,1711,0.0225,2.2%,12,#12 of 208 squares,top cell: 2%,"33.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,152.5,410,0.0054,0.5%,33,#33 of 208 squares,top cell: 1%,"30.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,151.5,2201,0.0289,2.9%,9,#9 of 208 squares,top cell: 3%,"32.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,145.5,93,0.0012,0.1%,61,#61 of 208 squares,top cell: 0%,"36.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-18.5,142.5,1,0.0,under 0.1%,154,#154 of 208 squares,top cell: 0%,"18.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,152.5,195,0.0026,0.3%,48,#48 of 208 squares,top cell: 0%,"26.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,151.5,1136,0.0149,1.5%,17,#17 of 208 squares,top cell: 1%,"30.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,153.5,266,0.0035,0.4%,39,#39 of 208 squares,top cell: 0%,"26.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,151.5,28,0.0004,under 0.1%,80,#80 of 208 squares,top cell: 0%,"23.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,149.5,33,0.0004,under 0.1%,81,#81 of 208 squares,top cell: 0%,"20.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,142.5,308,0.004,0.4%,36,#36 of 208 squares,top cell: 0%,"37.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,138.5,6,0.0001,under 0.1%,108,#108 of 208 squares,top cell: 0%,"35.5°S, 138.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,149.5,138,0.0018,0.2%,52,#52 of 208 squares,top cell: 0%,"31.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,149.5,919,0.0121,1.2%,22,#22 of 208 squares,top cell: 1%,"32.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,151.5,7,0.0001,under 0.1%,109,#109 of 208 squares,top cell: 0%,"26.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,150.5,8938,0.1174,11.7%,2,#2 of 208 squares,top cell: 12%,"30.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,149.5,4069,0.0535,5.3%,5,#5 of 208 squares,top cell: 5%,"30.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,151.5,87,0.0011,0.1%,62,#62 of 208 squares,top cell: 0%,"27.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,148.5,20,0.0003,under 0.1%,87,#87 of 208 squares,top cell: 0%,"24.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,150.5,430,0.0056,0.6%,32,#32 of 208 squares,top cell: 1%,"32.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,150.5,3,0.0,under 0.1%,155,#155 of 208 squares,top cell: 0%,"25.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,151.5,210,0.0028,0.3%,44,#44 of 208 squares,top cell: 0%,"28.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,146.5,12,0.0002,under 0.1%,93,#93 of 208 squares,top cell: 0%,"37.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,148.5,408,0.0054,0.5%,34,#34 of 208 squares,top cell: 1%,"33.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,147.5,2,0.0,under 0.1%,156,#156 of 208 squares,top cell: 0%,"27.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,151.5,363,0.0048,0.5%,35,#35 of 208 squares,top cell: 0%,"29.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-42.5,148.5,98,0.0013,0.1%,59,#59 of 208 squares,top cell: 0%,"42.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,143.5,208,0.0027,0.3%,46,#46 of 208 squares,top cell: 0%,"37.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,138.5,4,0.0001,under 0.1%,110,#110 of 208 squares,top cell: 0%,"33.5°S, 138.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,140.5,19,0.0002,under 0.1%,94,#94 of 208 squares,top cell: 0%,"34.5°S, 140.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,153.5,71,0.0009,under 0.1%,67,#67 of 208 squares,top cell: 0%,"31.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,150.5,106,0.0014,0.1%,56,#56 of 208 squares,top cell: 0%,"23.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,145.5,530,0.007,0.7%,29,#29 of 208 squares,top cell: 1%,"38.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,146.5,1,0.0,under 0.1%,157,#157 of 208 squares,top cell: 0%,"27.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,145.5,111,0.0015,0.1%,55,#55 of 208 squares,top cell: 0%,"35.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-18.5,144.5,27,0.0004,under 0.1%,82,#82 of 208 squares,top cell: 0%,"18.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,148.5,8,0.0001,under 0.1%,111,#111 of 208 squares,top cell: 0%,"23.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,147.5,3,0.0,under 0.1%,158,#158 of 208 squares,top cell: 0%,"24.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,152.5,258,0.0034,0.3%,41,#41 of 208 squares,top cell: 0%,"32.5°S, 152.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-18.5,146.5,1,0.0,under 0.1%,159,#159 of 208 squares,top cell: 0%,"18.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,140.5,35,0.0005,under 0.1%,77,#77 of 208 squares,top cell: 0%,"37.5°S, 140.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,139.5,3,0.0,under 0.1%,160,#160 of 208 squares,top cell: 0%,"37.5°S, 139.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,137.5,2,0.0,under 0.1%,161,#161 of 208 squares,top cell: 0%,"35.5°S, 137.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,140.5,14,0.0002,under 0.1%,95,#95 of 208 squares,top cell: 0%,"38.5°S, 140.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,140.5,2,0.0,under 0.1%,162,#162 of 208 squares,top cell: 0%,"35.5°S, 140.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,140.5,3,0.0,under 0.1%,163,#163 of 208 squares,top cell: 0%,"36.5°S, 140.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,139.5,1,0.0,under 0.1%,164,#164 of 208 squares,top cell: 0%,"33.5°S, 139.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,147.5,46,0.0006,under 0.1%,75,#75 of 208 squares,top cell: 0%,"31.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,150.5,922,0.0121,1.2%,23,#23 of 208 squares,top cell: 1%,"31.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,147.5,12,0.0002,under 0.1%,96,#96 of 208 squares,top cell: 0%,"32.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,142.5,53,0.0007,under 0.1%,72,#72 of 208 squares,top cell: 0%,"34.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,150.5,214,0.0028,0.3%,45,#45 of 208 squares,top cell: 0%,"29.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,149.5,27,0.0004,under 0.1%,83,#83 of 208 squares,top cell: 0%,"29.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,151.5,79,0.001,0.1%,66,#66 of 208 squares,top cell: 0%,"31.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,148.5,37,0.0005,under 0.1%,78,#78 of 208 squares,top cell: 0%,"30.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,153.5,197,0.0026,0.3%,49,#49 of 208 squares,top cell: 0%,"28.5°S, 153.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,147.5,83,0.0011,0.1%,63,#63 of 208 squares,top cell: 0%,"34.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,144.5,3,0.0,under 0.1%,165,#165 of 208 squares,top cell: 0%,"32.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,147.5,49,0.0006,under 0.1%,76,#76 of 208 squares,top cell: 0%,"33.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,145.5,9,0.0001,under 0.1%,112,#112 of 208 squares,top cell: 0%,"33.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,146.5,11,0.0001,under 0.1%,113,#113 of 208 squares,top cell: 0%,"33.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,150.5,19,0.0002,under 0.1%,97,#97 of 208 squares,top cell: 0%,"28.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,151.5,11,0.0001,under 0.1%,114,#114 of 208 squares,top cell: 0%,"34.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,144.5,20,0.0003,under 0.1%,88,#88 of 208 squares,top cell: 0%,"34.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,141.5,2,0.0,under 0.1%,166,#166 of 208 squares,top cell: 0%,"32.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,146.5,3,0.0,under 0.1%,167,#167 of 208 squares,top cell: 0%,"29.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,145.5,4,0.0001,under 0.1%,115,#115 of 208 squares,top cell: 0%,"31.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,146.5,3,0.0,under 0.1%,168,#168 of 208 squares,top cell: 0%,"31.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,141.5,10,0.0001,under 0.1%,116,#116 of 208 squares,top cell: 0%,"34.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,143.5,6,0.0001,under 0.1%,117,#117 of 208 squares,top cell: 0%,"35.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,144.5,2,0.0,under 0.1%,169,#169 of 208 squares,top cell: 0%,"33.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,146.5,6,0.0001,under 0.1%,118,#118 of 208 squares,top cell: 0%,"30.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,143.5,1,0.0,under 0.1%,170,#170 of 208 squares,top cell: 0%,"29.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,141.5,15,0.0002,under 0.1%,98,#98 of 208 squares,top cell: 0%,"31.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,141.5,3,0.0,under 0.1%,171,#171 of 208 squares,top cell: 0%,"33.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,143.5,24,0.0003,under 0.1%,89,#89 of 208 squares,top cell: 0%,"34.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,148.5,4,0.0001,under 0.1%,119,#119 of 208 squares,top cell: 0%,"28.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,143.5,1,0.0,under 0.1%,172,#172 of 208 squares,top cell: 0%,"33.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,143.5,4,0.0001,under 0.1%,120,#120 of 208 squares,top cell: 0%,"31.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,145.5,4,0.0001,under 0.1%,121,#121 of 208 squares,top cell: 0%,"32.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,148.5,58,0.0008,under 0.1%,69,#69 of 208 squares,top cell: 0%,"37.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,144.5,6,0.0001,under 0.1%,122,#122 of 208 squares,top cell: 0%,"31.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-29.5,145.5,1,0.0,under 0.1%,173,#173 of 208 squares,top cell: 0%,"29.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-30.5,142.5,1,0.0,under 0.1%,174,#174 of 208 squares,top cell: 0%,"30.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,147.5,11,0.0001,under 0.1%,123,#123 of 208 squares,top cell: 0%,"38.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,147.5,106,0.0014,0.1%,57,#57 of 208 squares,top cell: 0%,"37.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,149.5,17,0.0002,under 0.1%,99,#99 of 208 squares,top cell: 0%,"22.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,142.5,14,0.0002,under 0.1%,100,#100 of 208 squares,top cell: 0%,"36.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,149.5,28,0.0004,under 0.1%,84,#84 of 208 squares,top cell: 0%,"27.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,148.5,8,0.0001,under 0.1%,124,#124 of 208 squares,top cell: 0%,"22.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,146.5,241,0.0032,0.3%,42,#42 of 208 squares,top cell: 0%,"38.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,145.5,1,0.0,under 0.1%,175,#175 of 208 squares,top cell: 0%,"24.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,146.5,2,0.0,under 0.1%,176,#176 of 208 squares,top cell: 0%,"21.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,148.5,7,0.0001,under 0.1%,125,#125 of 208 squares,top cell: 0%,"21.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,143.5,34,0.0004,under 0.1%,85,#85 of 208 squares,top cell: 0%,"36.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,149.5,14,0.0002,under 0.1%,101,#101 of 208 squares,top cell: 0%,"26.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-16.5,145.5,50,0.0007,under 0.1%,73,#73 of 208 squares,top cell: 0%,"16.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,150.5,11,0.0001,under 0.1%,126,#126 of 208 squares,top cell: 0%,"24.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,147.5,5,0.0001,under 0.1%,127,#127 of 208 squares,top cell: 0%,"23.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-41.5,146.5,80,0.0011,0.1%,64,#64 of 208 squares,top cell: 0%,"41.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-40.5,148.5,3,0.0,under 0.1%,177,#177 of 208 squares,top cell: 0%,"40.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,148.5,10,0.0001,under 0.1%,128,#128 of 208 squares,top cell: 0%,"27.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-38.5,142.5,66,0.0009,under 0.1%,68,#68 of 208 squares,top cell: 0%,"38.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,148.5,14,0.0002,under 0.1%,102,#102 of 208 squares,top cell: 0%,"26.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,151.5,1,0.0,under 0.1%,178,#178 of 208 squares,top cell: 0%,"25.5°S, 151.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,146.5,4,0.0001,under 0.1%,129,#129 of 208 squares,top cell: 0%,"20.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,146.5,4,0.0001,under 0.1%,130,#130 of 208 squares,top cell: 0%,"24.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,149.5,12,0.0002,under 0.1%,103,#103 of 208 squares,top cell: 0%,"23.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-34.5,139.5,9,0.0001,under 0.1%,131,#131 of 208 squares,top cell: 0%,"34.5°S, 139.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-37.5,141.5,25,0.0003,under 0.1%,90,#90 of 208 squares,top cell: 0%,"37.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,150.5,10,0.0001,under 0.1%,132,#132 of 208 squares,top cell: 0%,"27.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-19.5,145.5,6,0.0001,under 0.1%,133,#133 of 208 squares,top cell: 0%,"19.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,149.5,5,0.0001,under 0.1%,134,#134 of 208 squares,top cell: 0%,"21.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,146.5,4,0.0001,under 0.1%,135,#135 of 208 squares,top cell: 0%,"25.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,149.5,7,0.0001,under 0.1%,136,#136 of 208 squares,top cell: 0%,"25.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-17.5,145.5,9,0.0001,under 0.1%,137,#137 of 208 squares,top cell: 0%,"17.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,145.5,2,0.0,under 0.1%,179,#179 of 208 squares,top cell: 0%,"20.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,145.5,1,0.0,under 0.1%,180,#180 of 208 squares,top cell: 0%,"22.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-19.5,147.5,6,0.0001,under 0.1%,138,#138 of 208 squares,top cell: 0%,"19.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-25.5,147.5,3,0.0,under 0.1%,181,#181 of 208 squares,top cell: 0%,"25.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-28.5,145.5,10,0.0001,under 0.1%,139,#139 of 208 squares,top cell: 0%,"28.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,147.5,2,0.0,under 0.1%,182,#182 of 208 squares,top cell: 0%,"21.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-33.5,137.5,1,0.0,under 0.1%,183,#183 of 208 squares,top cell: 0%,"33.5°S, 137.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,138.5,6,0.0001,under 0.1%,140,#140 of 208 squares,top cell: 0%,"32.5°S, 138.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,147.5,3,0.0,under 0.1%,184,#184 of 208 squares,top cell: 0%,"20.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,143.5,3,0.0,under 0.1%,185,#185 of 208 squares,top cell: 0%,"27.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,146.5,8,0.0001,under 0.1%,141,#141 of 208 squares,top cell: 0%,"26.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-39.5,146.5,4,0.0001,under 0.1%,142,#142 of 208 squares,top cell: 0%,"39.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,150.5,9,0.0001,under 0.1%,143,#143 of 208 squares,top cell: 0%,"26.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-26.5,147.5,3,0.0,under 0.1%,186,#186 of 208 squares,top cell: 0%,"26.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,143.5,5,0.0001,under 0.1%,144,#144 of 208 squares,top cell: 0%,"22.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-36.5,141.5,9,0.0001,under 0.1%,145,#145 of 208 squares,top cell: 0%,"36.5°S, 141.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,146.5,5,0.0001,under 0.1%,146,#146 of 208 squares,top cell: 0%,"23.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-41.5,147.5,2,0.0,under 0.1%,187,#187 of 208 squares,top cell: 0%,"41.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,144.5,10,0.0001,under 0.1%,147,#147 of 208 squares,top cell: 0%,"23.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-31.5,138.5,3,0.0,under 0.1%,188,#188 of 208 squares,top cell: 0%,"31.5°S, 138.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-24.5,149.5,1,0.0,under 0.1%,189,#189 of 208 squares,top cell: 0%,"24.5°S, 149.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,147.5,6,0.0001,under 0.1%,148,#148 of 208 squares,top cell: 0%,"22.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-19.5,148.5,1,0.0,under 0.1%,190,#190 of 208 squares,top cell: 0%,"19.5°S, 148.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-19.5,144.5,2,0.0,under 0.1%,191,#191 of 208 squares,top cell: 0%,"19.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,145.5,3,0.0,under 0.1%,192,#192 of 208 squares,top cell: 0%,"23.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,146.5,2,0.0,under 0.1%,193,#193 of 208 squares,top cell: 0%,"22.5°S, 146.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-17.5,144.5,2,0.0,under 0.1%,194,#194 of 208 squares,top cell: 0%,"17.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,143.5,2,0.0,under 0.1%,195,#195 of 208 squares,top cell: 0%,"20.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-42.5,147.5,2,0.0,under 0.1%,196,#196 of 208 squares,top cell: 0%,"42.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-32.5,137.5,1,0.0,under 0.1%,197,#197 of 208 squares,top cell: 0%,"32.5°S, 137.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-20.5,144.5,2,0.0,under 0.1%,198,#198 of 208 squares,top cell: 0%,"20.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-22.5,144.5,1,0.0,under 0.1%,199,#199 of 208 squares,top cell: 0%,"22.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-18.5,145.5,2,0.0,under 0.1%,200,#200 of 208 squares,top cell: 0%,"18.5°S, 145.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-18.5,143.5,1,0.0,under 0.1%,201,#201 of 208 squares,top cell: 0%,"18.5°S, 143.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-40.5,144.5,1,0.0,under 0.1%,202,#202 of 208 squares,top cell: 0%,"40.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-43.5,147.5,1,0.0,under 0.1%,203,#203 of 208 squares,top cell: 0%,"43.5°S, 147.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-35.5,139.5,2,0.0,under 0.1%,204,#204 of 208 squares,top cell: 0%,"35.5°S, 139.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-27.5,142.5,1,0.0,under 0.1%,205,#205 of 208 squares,top cell: 0%,"27.5°S, 142.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,150.5,1,0.0,under 0.1%,206,#206 of 208 squares,top cell: 0%,"21.5°S, 150.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-21.5,144.5,1,0.0,under 0.1%,207,#207 of 208 squares,top cell: 0%,"21.5°S, 144.5°E"
+Eastern grey kangaroo,Eastern grey kangaroo ★,-23.5,141.5,1,0.0,under 0.1%,208,#208 of 208 squares,top cell: 0%,"23.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,142.5,7,0.0007,under 0.1%,34,#34 of 67 squares,top cell: 0%,"12.5°S, 142.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,141.5,23,0.0023,0.2%,15,#15 of 67 squares,top cell: 0%,"12.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,131.5,4975,0.497,49.7%,1,#1 of 67 squares,top cell: 50%,"12.5°S, 131.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,145.5,1173,0.1172,11.7%,2,#2 of 67 squares,top cell: 12%,"16.5°S, 145.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,132.5,504,0.0503,5.0%,6,#6 of 67 squares,top cell: 5%,"12.5°S, 132.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,130.5,570,0.0569,5.7%,5,#5 of 67 squares,top cell: 6%,"12.5°S, 130.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,125.5,26,0.0026,0.3%,14,#14 of 67 squares,top cell: 0%,"14.5°S, 125.5°E"
+Saltwater crocodile,Saltwater crocodile,-20.5,148.5,72,0.0072,0.7%,8,#8 of 67 squares,top cell: 1%,"20.5°S, 148.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,137.5,18,0.0018,0.2%,19,#19 of 67 squares,top cell: 0%,"16.5°S, 137.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,129.5,9,0.0009,under 0.1%,28,#28 of 67 squares,top cell: 0%,"15.5°S, 129.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,134.5,11,0.0011,0.1%,25,#25 of 67 squares,top cell: 0%,"14.5°S, 134.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,141.5,1,0.0001,under 0.1%,55,#55 of 67 squares,top cell: 0%,"15.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-28.5,153.5,1,0.0001,under 0.1%,56,#56 of 67 squares,top cell: 0%,"28.5°S, 153.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,145.5,20,0.002,0.2%,17,#17 of 67 squares,top cell: 0%,"17.5°S, 145.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,146.5,2,0.0002,under 0.1%,47,#47 of 67 squares,top cell: 0%,"16.5°S, 146.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,128.5,16,0.0016,0.2%,21,#21 of 67 squares,top cell: 0%,"15.5°S, 128.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,143.5,17,0.0017,0.2%,20,#20 of 67 squares,top cell: 0%,"12.5°S, 143.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,146.5,14,0.0014,0.1%,23,#23 of 67 squares,top cell: 0%,"17.5°S, 146.5°E"
+Saltwater crocodile,Saltwater crocodile,-13.5,136.5,10,0.001,0.1%,27,#27 of 67 squares,top cell: 0%,"13.5°S, 136.5°E"
+Saltwater crocodile,Saltwater crocodile,-13.5,131.5,49,0.0049,0.5%,10,#10 of 67 squares,top cell: 0%,"13.5°S, 131.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,135.5,1,0.0001,under 0.1%,57,#57 of 67 squares,top cell: 0%,"14.5°S, 135.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,122.5,5,0.0005,under 0.1%,39,#39 of 67 squares,top cell: 0%,"17.5°S, 122.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,132.5,19,0.0019,0.2%,18,#18 of 67 squares,top cell: 0%,"14.5°S, 132.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,124.5,4,0.0004,under 0.1%,41,#41 of 67 squares,top cell: 0%,"16.5°S, 124.5°E"
+Saltwater crocodile,Saltwater crocodile,-18.5,146.5,23,0.0023,0.2%,16,#16 of 67 squares,top cell: 0%,"18.5°S, 146.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,144.5,7,0.0007,under 0.1%,35,#35 of 67 squares,top cell: 0%,"14.5°S, 144.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,131.5,38,0.0038,0.4%,12,#12 of 67 squares,top cell: 0%,"14.5°S, 131.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,140.5,9,0.0009,under 0.1%,29,#29 of 67 squares,top cell: 0%,"17.5°S, 140.5°E"
+Saltwater crocodile,Saltwater crocodile,-11.5,142.5,3,0.0003,under 0.1%,44,#44 of 67 squares,top cell: 0%,"11.5°S, 142.5°E"
+Saltwater crocodile,Saltwater crocodile,-22.5,149.5,1,0.0001,under 0.1%,58,#58 of 67 squares,top cell: 0%,"22.5°S, 149.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,123.5,8,0.0008,under 0.1%,31,#31 of 67 squares,top cell: 0%,"16.5°S, 123.5°E"
+Saltwater crocodile,Saltwater crocodile,-19.5,146.5,16,0.0016,0.2%,22,#22 of 67 squares,top cell: 0%,"19.5°S, 146.5°E"
+Saltwater crocodile,Saltwater crocodile,-13.5,130.5,683,0.0682,6.8%,4,#4 of 67 squares,top cell: 7%,"13.5°S, 130.5°E"
+Saltwater crocodile,Saltwater crocodile,-13.5,132.5,11,0.0011,0.1%,26,#26 of 67 squares,top cell: 0%,"13.5°S, 132.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,125.5,33,0.0033,0.3%,13,#13 of 67 squares,top cell: 0%,"15.5°S, 125.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,122.5,8,0.0008,under 0.1%,32,#32 of 67 squares,top cell: 0%,"16.5°S, 122.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,130.5,6,0.0006,under 0.1%,37,#37 of 67 squares,top cell: 0%,"15.5°S, 130.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,145.5,14,0.0014,0.1%,24,#24 of 67 squares,top cell: 0%,"15.5°S, 145.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,127.5,4,0.0004,under 0.1%,42,#42 of 67 squares,top cell: 0%,"14.5°S, 127.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,124.5,5,0.0005,under 0.1%,40,#40 of 67 squares,top cell: 0%,"15.5°S, 124.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,141.5,1,0.0001,under 0.1%,59,#59 of 67 squares,top cell: 0%,"17.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,133.5,2,0.0002,under 0.1%,48,#48 of 67 squares,top cell: 0%,"12.5°S, 133.5°E"
+Saltwater crocodile,Saltwater crocodile,-11.5,130.5,3,0.0003,under 0.1%,45,#45 of 67 squares,top cell: 0%,"11.5°S, 130.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,136.5,6,0.0006,under 0.1%,38,#38 of 67 squares,top cell: 0%,"16.5°S, 136.5°E"
+Saltwater crocodile,Saltwater crocodile,-11.5,132.5,64,0.0064,0.6%,9,#9 of 67 squares,top cell: 1%,"11.5°S, 132.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,128.5,4,0.0004,under 0.1%,43,#43 of 67 squares,top cell: 0%,"14.5°S, 128.5°E"
+Saltwater crocodile,Saltwater crocodile,-10.5,142.5,9,0.0009,under 0.1%,30,#30 of 67 squares,top cell: 0%,"10.5°S, 142.5°E"
+Saltwater crocodile,Saltwater crocodile,-9.5,142.5,1,0.0001,under 0.1%,60,#60 of 67 squares,top cell: 0%,"9.5°S, 142.5°E"
+Saltwater crocodile,Saltwater crocodile,-13.5,127.5,8,0.0008,under 0.1%,33,#33 of 67 squares,top cell: 0%,"13.5°S, 127.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,123.5,1,0.0001,under 0.1%,61,#61 of 67 squares,top cell: 0%,"15.5°S, 123.5°E"
+Saltwater crocodile,Saltwater crocodile,-11.5,141.5,2,0.0002,under 0.1%,49,#49 of 67 squares,top cell: 0%,"11.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,141.5,1,0.0001,under 0.1%,62,#62 of 67 squares,top cell: 0%,"14.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-16.5,141.5,1,0.0001,under 0.1%,63,#63 of 67 squares,top cell: 0%,"16.5°S, 141.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,126.5,3,0.0003,under 0.1%,46,#46 of 67 squares,top cell: 0%,"14.5°S, 126.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,136.5,7,0.0007,under 0.1%,36,#36 of 67 squares,top cell: 0%,"15.5°S, 136.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,131.5,2,0.0002,under 0.1%,50,#50 of 67 squares,top cell: 0%,"15.5°S, 131.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,136.5,45,0.0045,0.4%,11,#11 of 67 squares,top cell: 0%,"12.5°S, 136.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,143.5,1,0.0001,under 0.1%,64,#64 of 67 squares,top cell: 0%,"14.5°S, 143.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,139.5,2,0.0002,under 0.1%,51,#51 of 67 squares,top cell: 0%,"17.5°S, 139.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,145.5,2,0.0002,under 0.1%,52,#52 of 67 squares,top cell: 0%,"14.5°S, 145.5°E"
+Saltwater crocodile,Saltwater crocodile,-15.5,144.5,2,0.0002,under 0.1%,53,#53 of 67 squares,top cell: 0%,"15.5°S, 144.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,131.5,1,0.0001,under 0.1%,65,#65 of 67 squares,top cell: 0%,"17.5°S, 131.5°E"
+Saltwater crocodile,Saltwater crocodile,-14.5,129.5,1,0.0001,under 0.1%,66,#66 of 67 squares,top cell: 0%,"14.5°S, 129.5°E"
+Saltwater crocodile,Saltwater crocodile,-17.5,123.5,2,0.0002,under 0.1%,54,#54 of 67 squares,top cell: 0%,"17.5°S, 123.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,134.5,1142,0.1141,11.4%,3,#3 of 67 squares,top cell: 11%,"12.5°S, 134.5°E"
+Saltwater crocodile,Saltwater crocodile,-19.5,134.5,1,0.0001,under 0.1%,67,#67 of 67 squares,top cell: 0%,"19.5°S, 134.5°E"
+Saltwater crocodile,Saltwater crocodile,-12.5,135.5,280,0.028,2.8%,7,#7 of 67 squares,top cell: 3%,"12.5°S, 135.5°E"
+Platypus,Platypus ★,-27.5,153.5,29,0.0049,0.5%,40,#40 of 104 squares,top cell: 0%,"27.5°S, 153.5°E"
+Platypus,Platypus ★,-35.5,149.5,350,0.0592,5.9%,4,#4 of 104 squares,top cell: 6%,"35.5°S, 149.5°E"
+Platypus,Platypus ★,-21.5,148.5,191,0.0323,3.2%,12,#12 of 104 squares,top cell: 3%,"21.5°S, 148.5°E"
+Platypus,Platypus ★,-36.5,149.5,265,0.0448,4.5%,7,#7 of 104 squares,top cell: 4%,"36.5°S, 149.5°E"
+Platypus,Platypus ★,-34.5,150.5,179,0.0303,3.0%,13,#13 of 104 squares,top cell: 3%,"34.5°S, 150.5°E"
+Platypus,Platypus ★,-35.5,148.5,232,0.0392,3.9%,8,#8 of 104 squares,top cell: 4%,"35.5°S, 148.5°E"
+Platypus,Platypus ★,-16.5,145.5,19,0.0032,0.3%,45,#45 of 104 squares,top cell: 0%,"16.5°S, 145.5°E"
+Platypus,Platypus ★,-33.5,149.5,112,0.0189,1.9%,16,#16 of 104 squares,top cell: 2%,"33.5°S, 149.5°E"
+Platypus,Platypus ★,-36.5,148.5,157,0.0265,2.6%,14,#14 of 104 squares,top cell: 3%,"36.5°S, 148.5°E"
+Platypus,Platypus ★,-34.5,149.5,35,0.0059,0.6%,33,#33 of 104 squares,top cell: 1%,"34.5°S, 149.5°E"
+Platypus,Platypus ★,-36.5,146.5,77,0.013,1.3%,21,#21 of 104 squares,top cell: 1%,"36.5°S, 146.5°E"
+Platypus,Platypus ★,-17.5,145.5,490,0.0828,8.3%,1,#1 of 104 squares,top cell: 8%,"17.5°S, 145.5°E"
+Platypus,Platypus ★,-25.5,148.5,36,0.0061,0.6%,32,#32 of 104 squares,top cell: 1%,"25.5°S, 148.5°E"
+Platypus,Platypus ★,-41.5,145.5,95,0.0161,1.6%,17,#17 of 104 squares,top cell: 2%,"41.5°S, 145.5°E"
+Platypus,Platypus ★,-35.5,147.5,7,0.0012,0.1%,63,#63 of 104 squares,top cell: 0%,"35.5°S, 147.5°E"
+Platypus,Platypus ★,-34.5,148.5,14,0.0024,0.2%,52,#52 of 104 squares,top cell: 0%,"34.5°S, 148.5°E"
+Platypus,Platypus ★,-36.5,145.5,41,0.0069,0.7%,31,#31 of 104 squares,top cell: 1%,"36.5°S, 145.5°E"
+Platypus,Platypus ★,-38.5,144.5,74,0.0125,1.2%,23,#23 of 104 squares,top cell: 1%,"38.5°S, 144.5°E"
+Platypus,Platypus ★,-37.5,144.5,80,0.0135,1.4%,20,#20 of 104 squares,top cell: 1%,"37.5°S, 144.5°E"
+Platypus,Platypus ★,-42.5,147.5,198,0.0335,3.4%,11,#11 of 104 squares,top cell: 3%,"42.5°S, 147.5°E"
+Platypus,Platypus ★,-26.5,152.5,465,0.0786,7.9%,2,#2 of 104 squares,top cell: 8%,"26.5°S, 152.5°E"
+Platypus,Platypus ★,-41.5,146.5,294,0.0497,5.0%,5,#5 of 104 squares,top cell: 5%,"41.5°S, 146.5°E"
+Platypus,Platypus ★,-38.5,146.5,45,0.0076,0.8%,30,#30 of 104 squares,top cell: 1%,"38.5°S, 146.5°E"
+Platypus,Platypus ★,-19.5,135.5,1,0.0002,under 0.1%,86,#86 of 104 squares,top cell: 0%,"19.5°S, 135.5°E"
+Platypus,Platypus ★,-27.5,152.5,227,0.0384,3.8%,9,#9 of 104 squares,top cell: 4%,"27.5°S, 152.5°E"
+Platypus,Platypus ★,-37.5,145.5,358,0.0605,6.0%,3,#3 of 104 squares,top cell: 6%,"37.5°S, 145.5°E"
+Platypus,Platypus ★,-20.5,148.5,2,0.0003,under 0.1%,80,#80 of 104 squares,top cell: 0%,"20.5°S, 148.5°E"
+Platypus,Platypus ★,-35.5,136.5,18,0.003,0.3%,48,#48 of 104 squares,top cell: 0%,"35.5°S, 136.5°E"
+Platypus,Platypus ★,-42.5,146.5,89,0.015,1.5%,19,#19 of 104 squares,top cell: 2%,"42.5°S, 146.5°E"
+Platypus,Platypus ★,-42.5,145.5,9,0.0015,0.1%,59,#59 of 104 squares,top cell: 0%,"42.5°S, 145.5°E"
+Platypus,Platypus ★,-38.5,143.5,91,0.0154,1.5%,18,#18 of 104 squares,top cell: 2%,"38.5°S, 143.5°E"
+Platypus,Platypus ★,-29.5,152.5,31,0.0052,0.5%,37,#37 of 104 squares,top cell: 1%,"29.5°S, 152.5°E"
+Platypus,Platypus ★,-28.5,152.5,140,0.0237,2.4%,15,#15 of 104 squares,top cell: 2%,"28.5°S, 152.5°E"
+Platypus,Platypus ★,-35.5,144.5,4,0.0007,under 0.1%,73,#73 of 104 squares,top cell: 0%,"35.5°S, 144.5°E"
+Platypus,Platypus ★,-33.5,150.5,208,0.0352,3.5%,10,#10 of 104 squares,top cell: 4%,"33.5°S, 150.5°E"
+Platypus,Platypus ★,-33.5,151.5,35,0.0059,0.6%,34,#34 of 104 squares,top cell: 1%,"33.5°S, 151.5°E"
+Platypus,Platypus ★,-32.5,151.5,52,0.0088,0.9%,28,#28 of 104 squares,top cell: 1%,"32.5°S, 151.5°E"
+Platypus,Platypus ★,-28.5,153.5,291,0.0492,4.9%,6,#6 of 104 squares,top cell: 5%,"28.5°S, 153.5°E"
+Platypus,Platypus ★,-31.5,151.5,60,0.0101,1.0%,26,#26 of 104 squares,top cell: 1%,"31.5°S, 151.5°E"
+Platypus,Platypus ★,-31.5,152.5,60,0.0101,1.0%,27,#27 of 104 squares,top cell: 1%,"31.5°S, 152.5°E"
+Platypus,Platypus ★,-30.5,151.5,30,0.0051,0.5%,38,#38 of 104 squares,top cell: 1%,"30.5°S, 151.5°E"
+Platypus,Platypus ★,-35.5,150.5,7,0.0012,0.1%,64,#64 of 104 squares,top cell: 0%,"35.5°S, 150.5°E"
+Platypus,Platypus ★,-29.5,150.5,19,0.0032,0.3%,46,#46 of 104 squares,top cell: 0%,"29.5°S, 150.5°E"
+Platypus,Platypus ★,-34.5,151.5,7,0.0012,0.1%,65,#65 of 104 squares,top cell: 0%,"34.5°S, 151.5°E"
+Platypus,Platypus ★,-32.5,150.5,10,0.0017,0.2%,58,#58 of 104 squares,top cell: 0%,"32.5°S, 150.5°E"
+Platypus,Platypus ★,-29.5,151.5,46,0.0078,0.8%,29,#29 of 104 squares,top cell: 1%,"29.5°S, 151.5°E"
+Platypus,Platypus ★,-33.5,148.5,15,0.0025,0.2%,51,#51 of 104 squares,top cell: 0%,"33.5°S, 148.5°E"
+Platypus,Platypus ★,-30.5,152.5,63,0.0106,1.1%,24,#24 of 104 squares,top cell: 1%,"30.5°S, 152.5°E"
+Platypus,Platypus ★,-28.5,151.5,7,0.0012,0.1%,66,#66 of 104 squares,top cell: 0%,"28.5°S, 151.5°E"
+Platypus,Platypus ★,-32.5,149.5,26,0.0044,0.4%,42,#42 of 104 squares,top cell: 0%,"32.5°S, 149.5°E"
+Platypus,Platypus ★,-30.5,147.5,1,0.0002,under 0.1%,87,#87 of 104 squares,top cell: 0%,"30.5°S, 147.5°E"
+Platypus,Platypus ★,-30.5,150.5,4,0.0007,under 0.1%,74,#74 of 104 squares,top cell: 0%,"30.5°S, 150.5°E"
+Platypus,Platypus ★,-32.5,148.5,6,0.001,0.1%,68,#68 of 104 squares,top cell: 0%,"32.5°S, 148.5°E"
+Platypus,Platypus ★,-37.5,149.5,3,0.0005,under 0.1%,76,#76 of 104 squares,top cell: 0%,"37.5°S, 149.5°E"
+Platypus,Platypus ★,-32.5,152.5,3,0.0005,under 0.1%,77,#77 of 104 squares,top cell: 0%,"32.5°S, 152.5°E"
+Platypus,Platypus ★,-34.5,146.5,5,0.0008,under 0.1%,70,#70 of 104 squares,top cell: 0%,"34.5°S, 146.5°E"
+Platypus,Platypus ★,-30.5,153.5,28,0.0047,0.5%,41,#41 of 104 squares,top cell: 0%,"30.5°S, 153.5°E"
+Platypus,Platypus ★,-36.5,147.5,22,0.0037,0.4%,43,#43 of 104 squares,top cell: 0%,"36.5°S, 147.5°E"
+Platypus,Platypus ★,-23.5,150.5,2,0.0003,under 0.1%,81,#81 of 104 squares,top cell: 0%,"23.5°S, 150.5°E"
+Platypus,Platypus ★,-24.5,152.5,34,0.0057,0.6%,35,#35 of 104 squares,top cell: 1%,"24.5°S, 152.5°E"
+Platypus,Platypus ★,-37.5,143.5,16,0.0027,0.3%,49,#49 of 104 squares,top cell: 0%,"37.5°S, 143.5°E"
+Platypus,Platypus ★,-36.5,144.5,13,0.0022,0.2%,54,#54 of 104 squares,top cell: 0%,"36.5°S, 144.5°E"
+Platypus,Platypus ★,-18.5,145.5,16,0.0027,0.3%,50,#50 of 104 squares,top cell: 0%,"18.5°S, 145.5°E"
+Platypus,Platypus ★,-37.5,146.5,12,0.002,0.2%,55,#55 of 104 squares,top cell: 0%,"37.5°S, 146.5°E"
+Platypus,Platypus ★,-40.5,145.5,30,0.0051,0.5%,39,#39 of 104 squares,top cell: 1%,"40.5°S, 145.5°E"
+Platypus,Platypus ★,-43.5,147.5,61,0.0103,1.0%,25,#25 of 104 squares,top cell: 1%,"43.5°S, 147.5°E"
+Platypus,Platypus ★,-24.5,150.5,5,0.0008,under 0.1%,71,#71 of 104 squares,top cell: 0%,"24.5°S, 150.5°E"
+Platypus,Platypus ★,-25.5,149.5,2,0.0003,under 0.1%,82,#82 of 104 squares,top cell: 0%,"25.5°S, 149.5°E"
+Platypus,Platypus ★,-43.5,146.5,33,0.0056,0.6%,36,#36 of 104 squares,top cell: 1%,"43.5°S, 146.5°E"
+Platypus,Platypus ★,-36.5,143.5,11,0.0019,0.2%,57,#57 of 104 squares,top cell: 0%,"36.5°S, 143.5°E"
+Platypus,Platypus ★,-41.5,147.5,75,0.0127,1.3%,22,#22 of 104 squares,top cell: 1%,"41.5°S, 147.5°E"
+Platypus,Platypus ★,-26.5,151.5,3,0.0005,under 0.1%,78,#78 of 104 squares,top cell: 0%,"26.5°S, 151.5°E"
+Platypus,Platypus ★,-37.5,142.5,21,0.0035,0.4%,44,#44 of 104 squares,top cell: 0%,"37.5°S, 142.5°E"
+Platypus,Platypus ★,-37.5,141.5,9,0.0015,0.1%,60,#60 of 104 squares,top cell: 0%,"37.5°S, 141.5°E"
+Platypus,Platypus ★,-37.5,147.5,9,0.0015,0.1%,61,#61 of 104 squares,top cell: 0%,"37.5°S, 147.5°E"
+Platypus,Platypus ★,-38.5,145.5,5,0.0008,under 0.1%,72,#72 of 104 squares,top cell: 0%,"38.5°S, 145.5°E"
+Platypus,Platypus ★,-25.5,152.5,4,0.0007,under 0.1%,75,#75 of 104 squares,top cell: 0%,"25.5°S, 152.5°E"
+Platypus,Platypus ★,-35.5,138.5,1,0.0002,under 0.1%,88,#88 of 104 squares,top cell: 0%,"35.5°S, 138.5°E"
+Platypus,Platypus ★,-37.5,148.5,14,0.0024,0.2%,53,#53 of 104 squares,top cell: 0%,"37.5°S, 148.5°E"
+Platypus,Platypus ★,-26.5,153.5,12,0.002,0.2%,56,#56 of 104 squares,top cell: 0%,"26.5°S, 153.5°E"
+Platypus,Platypus ★,-21.5,149.5,7,0.0012,0.1%,67,#67 of 104 squares,top cell: 0%,"21.5°S, 149.5°E"
+Platypus,Platypus ★,-38.5,142.5,19,0.0032,0.3%,47,#47 of 104 squares,top cell: 0%,"38.5°S, 142.5°E"
+Platypus,Platypus ★,-27.5,151.5,1,0.0002,under 0.1%,89,#89 of 104 squares,top cell: 0%,"27.5°S, 151.5°E"
+Platypus,Platypus ★,-25.5,151.5,6,0.001,0.1%,69,#69 of 104 squares,top cell: 0%,"25.5°S, 151.5°E"
+Platypus,Platypus ★,-23.5,148.5,1,0.0002,under 0.1%,90,#90 of 104 squares,top cell: 0%,"23.5°S, 148.5°E"
+Platypus,Platypus ★,-24.5,151.5,2,0.0003,under 0.1%,83,#83 of 104 squares,top cell: 0%,"24.5°S, 151.5°E"
+Platypus,Platypus ★,-41.5,148.5,9,0.0015,0.1%,62,#62 of 104 squares,top cell: 0%,"41.5°S, 148.5°E"
+Platypus,Platypus ★,-39.5,144.5,1,0.0002,under 0.1%,91,#91 of 104 squares,top cell: 0%,"39.5°S, 144.5°E"
+Platypus,Platypus ★,-40.5,147.5,2,0.0003,under 0.1%,84,#84 of 104 squares,top cell: 0%,"40.5°S, 147.5°E"
+Platypus,Platypus ★,-35.5,143.5,1,0.0002,under 0.1%,92,#92 of 104 squares,top cell: 0%,"35.5°S, 143.5°E"
+Platypus,Platypus ★,-35.5,146.5,1,0.0002,under 0.1%,93,#93 of 104 squares,top cell: 0%,"35.5°S, 146.5°E"
+Platypus,Platypus ★,-39.5,143.5,2,0.0003,under 0.1%,85,#85 of 104 squares,top cell: 0%,"39.5°S, 143.5°E"
+Platypus,Platypus ★,-23.5,149.5,1,0.0002,under 0.1%,94,#94 of 104 squares,top cell: 0%,"23.5°S, 149.5°E"
+Platypus,Platypus ★,-35.5,145.5,1,0.0002,under 0.1%,95,#95 of 104 squares,top cell: 0%,"35.5°S, 145.5°E"
+Platypus,Platypus ★,-18.5,146.5,3,0.0005,under 0.1%,79,#79 of 104 squares,top cell: 0%,"18.5°S, 146.5°E"
+Platypus,Platypus ★,-25.5,150.5,1,0.0002,under 0.1%,96,#96 of 104 squares,top cell: 0%,"25.5°S, 150.5°E"
+Platypus,Platypus ★,-28.5,148.5,1,0.0002,under 0.1%,97,#97 of 104 squares,top cell: 0%,"28.5°S, 148.5°E"
+Platypus,Platypus ★,-34.5,138.5,1,0.0002,under 0.1%,98,#98 of 104 squares,top cell: 0%,"34.5°S, 138.5°E"
+Platypus,Platypus ★,-19.5,146.5,1,0.0002,under 0.1%,99,#99 of 104 squares,top cell: 0%,"19.5°S, 146.5°E"
+Platypus,Platypus ★,-25.5,147.5,1,0.0002,under 0.1%,100,#100 of 104 squares,top cell: 0%,"25.5°S, 147.5°E"
+Platypus,Platypus ★,-24.5,148.5,1,0.0002,under 0.1%,101,#101 of 104 squares,top cell: 0%,"24.5°S, 148.5°E"
+Platypus,Platypus ★,-40.5,144.5,1,0.0002,under 0.1%,102,#102 of 104 squares,top cell: 0%,"40.5°S, 144.5°E"
+Platypus,Platypus ★,-38.5,141.5,1,0.0002,under 0.1%,103,#103 of 104 squares,top cell: 0%,"38.5°S, 141.5°E"
+Platypus,Platypus ★,-24.5,147.5,1,0.0002,under 0.1%,104,#104 of 104 squares,top cell: 0%,"24.5°S, 147.5°E"
+Quokka,Quokka ★,-31.5,115.5,625,0.6288,62.9%,1,#1 of 9 squares,top cell: 63%,"31.5°S, 115.5°E"
+Quokka,Quokka ★,-31.5,116.5,2,0.002,0.2%,7,#7 of 9 squares,top cell: 0%,"31.5°S, 116.5°E"
+Quokka,Quokka ★,-32.5,115.5,137,0.1378,13.8%,3,#3 of 9 squares,top cell: 14%,"32.5°S, 115.5°E"
+Quokka,Quokka ★,-34.5,116.5,149,0.1499,15.0%,2,#2 of 9 squares,top cell: 15%,"34.5°S, 116.5°E"
+Quokka,Quokka ★,-35.5,116.5,46,0.0463,4.6%,4,#4 of 9 squares,top cell: 5%,"35.5°S, 116.5°E"
+Quokka,Quokka ★,-34.5,115.5,14,0.0141,1.4%,6,#6 of 9 squares,top cell: 1%,"34.5°S, 115.5°E"
+Quokka,Quokka ★,-34.5,118.5,18,0.0181,1.8%,5,#5 of 9 squares,top cell: 2%,"34.5°S, 118.5°E"
+Quokka,Quokka ★,-34.5,117.5,1,0.001,0.1%,9,#9 of 9 squares,top cell: 0%,"34.5°S, 117.5°E"
+Quokka,Quokka ★,-32.5,116.5,2,0.002,0.2%,8,#8 of 9 squares,top cell: 0%,"32.5°S, 116.5°E"
+Tasmanian devil,Tasmanian devil ★,-41.5,148.5,9,0.0185,1.8%,10,#10 of 17 squares,top cell: 2%,"41.5°S, 148.5°E"
+Tasmanian devil,Tasmanian devil ★,-41.5,145.5,100,0.2053,20.5%,1,#1 of 17 squares,top cell: 21%,"41.5°S, 145.5°E"
+Tasmanian devil,Tasmanian devil ★,-41.5,147.5,23,0.0472,4.7%,7,#7 of 17 squares,top cell: 5%,"41.5°S, 147.5°E"
+Tasmanian devil,Tasmanian devil ★,-42.5,146.5,30,0.0616,6.2%,6,#6 of 17 squares,top cell: 6%,"42.5°S, 146.5°E"
+Tasmanian devil,Tasmanian devil ★,-43.5,147.5,43,0.0883,8.8%,4,#4 of 17 squares,top cell: 9%,"43.5°S, 147.5°E"
+Tasmanian devil,Tasmanian devil ★,-31.5,151.5,1,0.0021,0.2%,16,#16 of 17 squares,top cell: 0%,"31.5°S, 151.5°E"
+Tasmanian devil,Tasmanian devil ★,-42.5,147.5,96,0.1971,19.7%,2,#2 of 17 squares,top cell: 20%,"42.5°S, 147.5°E"
+Tasmanian devil,Tasmanian devil ★,-43.5,146.5,15,0.0308,3.1%,8,#8 of 17 squares,top cell: 3%,"43.5°S, 146.5°E"
+Tasmanian devil,Tasmanian devil ★,-42.5,148.5,43,0.0883,8.8%,5,#5 of 17 squares,top cell: 9%,"42.5°S, 148.5°E"
+Tasmanian devil,Tasmanian devil ★,-41.5,146.5,92,0.1889,18.9%,3,#3 of 17 squares,top cell: 19%,"41.5°S, 146.5°E"
+Tasmanian devil,Tasmanian devil ★,-42.5,145.5,13,0.0267,2.7%,9,#9 of 17 squares,top cell: 3%,"42.5°S, 145.5°E"
+Tasmanian devil,Tasmanian devil ★,-40.5,147.5,3,0.0062,0.6%,13,#13 of 17 squares,top cell: 1%,"40.5°S, 147.5°E"
+Tasmanian devil,Tasmanian devil ★,-41.5,144.5,6,0.0123,1.2%,12,#12 of 17 squares,top cell: 1%,"41.5°S, 144.5°E"
+Tasmanian devil,Tasmanian devil ★,-40.5,148.5,2,0.0041,0.4%,14,#14 of 17 squares,top cell: 0%,"40.5°S, 148.5°E"
+Tasmanian devil,Tasmanian devil ★,-40.5,144.5,8,0.0164,1.6%,11,#11 of 17 squares,top cell: 2%,"40.5°S, 144.5°E"
+Tasmanian devil,Tasmanian devil ★,-40.5,145.5,2,0.0041,0.4%,15,#15 of 17 squares,top cell: 0%,"40.5°S, 145.5°E"
+Tasmanian devil,Tasmanian devil ★,-43.5,145.5,1,0.0021,0.2%,17,#17 of 17 squares,top cell: 0%,"43.5°S, 145.5°E"
+Little penguin,Little penguin,-38.5,145.5,1576,0.1959,19.6%,2,#2 of 78 squares,top cell: 20%,"38.5°S, 145.5°E"
+Little penguin,Little penguin,-35.5,137.5,2674,0.3323,33.2%,1,#1 of 78 squares,top cell: 33%,"35.5°S, 137.5°E"
+Little penguin,Little penguin,-41.5,148.5,170,0.0211,2.1%,11,#11 of 78 squares,top cell: 2%,"41.5°S, 148.5°E"
+Little penguin,Little penguin,-41.5,146.5,318,0.0395,4.0%,6,#6 of 78 squares,top cell: 4%,"41.5°S, 146.5°E"
+Little penguin,Little penguin,-42.5,147.5,51,0.0063,0.6%,20,#20 of 78 squares,top cell: 1%,"42.5°S, 147.5°E"
+Little penguin,Little penguin,-27.5,153.5,1,0.0001,under 0.1%,61,#61 of 78 squares,top cell: 0%,"27.5°S, 153.5°E"
+Little penguin,Little penguin,-43.5,147.5,355,0.0441,4.4%,3,#3 of 78 squares,top cell: 4%,"43.5°S, 147.5°E"
+Little penguin,Little penguin,-35.5,150.5,122,0.0152,1.5%,14,#14 of 78 squares,top cell: 2%,"35.5°S, 150.5°E"
+Little penguin,Little penguin,-40.5,145.5,172,0.0214,2.1%,10,#10 of 78 squares,top cell: 2%,"40.5°S, 145.5°E"
+Little penguin,Little penguin,-35.5,138.5,333,0.0414,4.1%,4,#4 of 78 squares,top cell: 4%,"35.5°S, 138.5°E"
+Little penguin,Little penguin,-34.5,136.5,32,0.004,0.4%,25,#25 of 78 squares,top cell: 0%,"34.5°S, 136.5°E"
+Little penguin,Little penguin,-34.5,135.5,32,0.004,0.4%,26,#26 of 78 squares,top cell: 0%,"34.5°S, 135.5°E"
+Little penguin,Little penguin,-33.5,134.5,7,0.0009,under 0.1%,42,#42 of 78 squares,top cell: 0%,"33.5°S, 134.5°E"
+Little penguin,Little penguin,-35.5,136.5,16,0.002,0.2%,35,#35 of 78 squares,top cell: 0%,"35.5°S, 136.5°E"
+Little penguin,Little penguin,-31.5,131.5,2,0.0002,under 0.1%,54,#54 of 78 squares,top cell: 0%,"31.5°S, 131.5°E"
+Little penguin,Little penguin,-32.5,115.5,106,0.0132,1.3%,15,#15 of 78 squares,top cell: 1%,"32.5°S, 115.5°E"
+Little penguin,Little penguin,-31.5,115.5,1,0.0001,under 0.1%,62,#62 of 78 squares,top cell: 0%,"31.5°S, 115.5°E"
+Little penguin,Little penguin,-32.5,152.5,97,0.0121,1.2%,17,#17 of 78 squares,top cell: 1%,"32.5°S, 152.5°E"
+Little penguin,Little penguin,-42.5,148.5,26,0.0032,0.3%,30,#30 of 78 squares,top cell: 0%,"42.5°S, 148.5°E"
+Little penguin,Little penguin,-43.5,146.5,6,0.0007,under 0.1%,43,#43 of 78 squares,top cell: 0%,"43.5°S, 146.5°E"
+Little penguin,Little penguin,-41.5,145.5,194,0.0241,2.4%,9,#9 of 78 squares,top cell: 2%,"41.5°S, 145.5°E"
+Little penguin,Little penguin,-38.5,144.5,221,0.0275,2.8%,7,#7 of 78 squares,top cell: 3%,"38.5°S, 144.5°E"
+Little penguin,Little penguin,-40.5,148.5,28,0.0035,0.4%,28,#28 of 78 squares,top cell: 0%,"40.5°S, 148.5°E"
+Little penguin,Little penguin,-38.5,142.5,104,0.0129,1.3%,16,#16 of 78 squares,top cell: 1%,"38.5°S, 142.5°E"
+Little penguin,Little penguin,-37.5,149.5,50,0.0062,0.6%,21,#21 of 78 squares,top cell: 1%,"37.5°S, 149.5°E"
+Little penguin,Little penguin,-40.5,147.5,29,0.0036,0.4%,27,#27 of 78 squares,top cell: 0%,"40.5°S, 147.5°E"
+Little penguin,Little penguin,-39.5,147.5,21,0.0026,0.3%,32,#32 of 78 squares,top cell: 0%,"39.5°S, 147.5°E"
+Little penguin,Little penguin,-32.5,126.5,4,0.0005,under 0.1%,47,#47 of 78 squares,top cell: 0%,"32.5°S, 126.5°E"
+Little penguin,Little penguin,-40.5,144.5,34,0.0042,0.4%,24,#24 of 78 squares,top cell: 0%,"40.5°S, 144.5°E"
+Little penguin,Little penguin,-34.5,119.5,96,0.0119,1.2%,18,#18 of 78 squares,top cell: 1%,"34.5°S, 119.5°E"
+Little penguin,Little penguin,-40.5,143.5,15,0.0019,0.2%,36,#36 of 78 squares,top cell: 0%,"40.5°S, 143.5°E"
+Little penguin,Little penguin,-38.5,146.5,18,0.0022,0.2%,33,#33 of 78 squares,top cell: 0%,"38.5°S, 146.5°E"
+Little penguin,Little penguin,-37.5,145.5,4,0.0005,under 0.1%,48,#48 of 78 squares,top cell: 0%,"37.5°S, 145.5°E"
+Little penguin,Little penguin,-43.5,148.5,144,0.0179,1.8%,12,#12 of 78 squares,top cell: 2%,"43.5°S, 148.5°E"
+Little penguin,Little penguin,-37.5,144.5,319,0.0396,4.0%,5,#5 of 78 squares,top cell: 4%,"37.5°S, 144.5°E"
+Little penguin,Little penguin,-33.5,151.5,220,0.0273,2.7%,8,#8 of 78 squares,top cell: 3%,"33.5°S, 151.5°E"
+Little penguin,Little penguin,-32.5,151.5,13,0.0016,0.2%,37,#37 of 78 squares,top cell: 0%,"32.5°S, 151.5°E"
+Little penguin,Little penguin,-36.5,150.5,125,0.0155,1.6%,13,#13 of 78 squares,top cell: 2%,"36.5°S, 150.5°E"
+Little penguin,Little penguin,-34.5,150.5,44,0.0055,0.5%,22,#22 of 78 squares,top cell: 1%,"34.5°S, 150.5°E"
+Little penguin,Little penguin,-34.5,151.5,18,0.0022,0.2%,34,#34 of 78 squares,top cell: 0%,"34.5°S, 151.5°E"
+Little penguin,Little penguin,-37.5,139.5,1,0.0001,under 0.1%,63,#63 of 78 squares,top cell: 0%,"37.5°S, 139.5°E"
+Little penguin,Little penguin,-38.5,143.5,56,0.007,0.7%,19,#19 of 78 squares,top cell: 1%,"38.5°S, 143.5°E"
+Little penguin,Little penguin,-42.5,145.5,2,0.0002,under 0.1%,55,#55 of 78 squares,top cell: 0%,"42.5°S, 145.5°E"
+Little penguin,Little penguin,-39.5,143.5,4,0.0005,under 0.1%,49,#49 of 78 squares,top cell: 0%,"39.5°S, 143.5°E"
+Little penguin,Little penguin,-36.5,136.5,1,0.0001,under 0.1%,64,#64 of 78 squares,top cell: 0%,"36.5°S, 136.5°E"
+Little penguin,Little penguin,-31.5,152.5,9,0.0011,0.1%,40,#40 of 78 squares,top cell: 0%,"31.5°S, 152.5°E"
+Little penguin,Little penguin,-36.5,149.5,12,0.0015,0.1%,38,#38 of 78 squares,top cell: 0%,"36.5°S, 149.5°E"
+Little penguin,Little penguin,-30.5,153.5,1,0.0001,under 0.1%,65,#65 of 78 squares,top cell: 0%,"30.5°S, 153.5°E"
+Little penguin,Little penguin,-37.5,148.5,2,0.0002,under 0.1%,56,#56 of 78 squares,top cell: 0%,"37.5°S, 148.5°E"
+Little penguin,Little penguin,-39.5,146.5,27,0.0034,0.3%,29,#29 of 78 squares,top cell: 0%,"39.5°S, 146.5°E"
+Little penguin,Little penguin,-33.5,121.5,1,0.0001,under 0.1%,66,#66 of 78 squares,top cell: 0%,"33.5°S, 121.5°E"
+Little penguin,Little penguin,-32.5,133.5,8,0.001,0.1%,41,#41 of 78 squares,top cell: 0%,"32.5°S, 133.5°E"
+Little penguin,Little penguin,-38.5,141.5,11,0.0014,0.1%,39,#39 of 78 squares,top cell: 0%,"38.5°S, 141.5°E"
+Little penguin,Little penguin,-34.5,138.5,37,0.0046,0.5%,23,#23 of 78 squares,top cell: 0%,"34.5°S, 138.5°E"
+Little penguin,Little penguin,-34.5,137.5,5,0.0006,under 0.1%,46,#46 of 78 squares,top cell: 0%,"34.5°S, 137.5°E"
+Little penguin,Little penguin,-36.5,139.5,2,0.0002,under 0.1%,57,#57 of 78 squares,top cell: 0%,"36.5°S, 139.5°E"
+Little penguin,Little penguin,-34.5,118.5,1,0.0001,under 0.1%,67,#67 of 78 squares,top cell: 0%,"34.5°S, 118.5°E"
+Little penguin,Little penguin,-35.5,117.5,1,0.0001,under 0.1%,68,#68 of 78 squares,top cell: 0%,"35.5°S, 117.5°E"
+Little penguin,Little penguin,-33.5,122.5,6,0.0007,under 0.1%,44,#44 of 78 squares,top cell: 0%,"33.5°S, 122.5°E"
+Little penguin,Little penguin,-33.5,119.5,1,0.0001,under 0.1%,69,#69 of 78 squares,top cell: 0%,"33.5°S, 119.5°E"
+Little penguin,Little penguin,-41.5,149.5,1,0.0001,under 0.1%,70,#70 of 78 squares,top cell: 0%,"41.5°S, 149.5°E"
+Little penguin,Little penguin,-42.5,146.5,1,0.0001,under 0.1%,71,#71 of 78 squares,top cell: 0%,"42.5°S, 146.5°E"
+Little penguin,Little penguin,-37.5,140.5,1,0.0001,under 0.1%,72,#72 of 78 squares,top cell: 0%,"37.5°S, 140.5°E"
+Little penguin,Little penguin,-35.5,139.5,1,0.0001,under 0.1%,73,#73 of 78 squares,top cell: 0%,"35.5°S, 139.5°E"
+Little penguin,Little penguin,-41.5,147.5,1,0.0001,under 0.1%,74,#74 of 78 squares,top cell: 0%,"41.5°S, 147.5°E"
+Little penguin,Little penguin,-32.5,137.5,1,0.0001,under 0.1%,75,#75 of 78 squares,top cell: 0%,"32.5°S, 137.5°E"
+Little penguin,Little penguin,-37.5,150.5,25,0.0031,0.3%,31,#31 of 78 squares,top cell: 0%,"37.5°S, 150.5°E"
+Little penguin,Little penguin,-38.5,148.5,6,0.0007,under 0.1%,45,#45 of 78 squares,top cell: 0%,"38.5°S, 148.5°E"
+Little penguin,Little penguin,-37.5,147.5,4,0.0005,under 0.1%,50,#50 of 78 squares,top cell: 0%,"37.5°S, 147.5°E"
+Little penguin,Little penguin,-39.5,145.5,4,0.0005,under 0.1%,51,#51 of 78 squares,top cell: 0%,"39.5°S, 145.5°E"
+Little penguin,Little penguin,-31.5,130.5,3,0.0004,under 0.1%,52,#52 of 78 squares,top cell: 0%,"31.5°S, 130.5°E"
+Little penguin,Little penguin,-34.5,123.5,2,0.0002,under 0.1%,58,#58 of 78 squares,top cell: 0%,"34.5°S, 123.5°E"
+Little penguin,Little penguin,-33.5,135.5,1,0.0001,under 0.1%,76,#76 of 78 squares,top cell: 0%,"33.5°S, 135.5°E"
+Little penguin,Little penguin,-31.5,129.5,2,0.0002,under 0.1%,59,#59 of 78 squares,top cell: 0%,"31.5°S, 129.5°E"
+Little penguin,Little penguin,-40.5,146.5,2,0.0002,under 0.1%,60,#60 of 78 squares,top cell: 0%,"40.5°S, 146.5°E"
+Little penguin,Little penguin,-33.5,115.5,3,0.0004,under 0.1%,53,#53 of 78 squares,top cell: 0%,"33.5°S, 115.5°E"
+Little penguin,Little penguin,-34.5,115.5,1,0.0001,under 0.1%,77,#77 of 78 squares,top cell: 0%,"34.5°S, 115.5°E"
+Little penguin,Little penguin,-39.5,144.5,1,0.0001,under 0.1%,78,#78 of 78 squares,top cell: 0%,"39.5°S, 144.5°E"
