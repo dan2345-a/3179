@@ -5,24 +5,13 @@
         {
             "width" : 420,
             "height" : 380 ,
-            "view" : {"fill" : "#DCEAF3"},
             "projection": {
                 "type": "conicEqualArea",
-                "parallels" : [-18, -36],
+                "parallels" : [0, -36],
                 "rotate" : [-132, 0]
             },
             "layer": [
-                {
-                    "data" : {
-                        "graticule" : { "extent": [[113, -44], [154, -10]], "step": [10, 10]}
-                    },
-                    "mark" : {
-                        "type": "geoshape",
-                        "fill": null,
-                        "stroke": "#C2D6E4",
-                        "strokeWidth": 0.7
-                    }
-                },
+                
                 {
                     "data" : {
                         "url" : "data/aus_states.topo.json",
@@ -41,7 +30,7 @@
                                 ]
                             }
                         },
-                        {"calculate": "'Click tosee its parks on the right'" , "as" : "hint"}
+                        {"calculate": "'Click to see its parks on the right'" , "as" : "hint"}
                     ],
                     "params": [
                         {
@@ -112,21 +101,6 @@
                          "latitude" : {"field": "lat", "type": "quantitative"},
                          "text" : {"field": "label"}
 
-                    }
-                },
-                {
-                    "data" :{
-                        "values" : [
-                            {"lon" : 114, "lat": -20, "t": "20°S"},
-                            {"lon" : 114, "lat": -30, "t": "30°S"},
-                            {"lon" : 114, "lat": -40, "t": "40°S"}
-                        ]
-                    },
-                    "mark" : {"type": "text", "fontSize": 9.5, "color": "#7E9BAE" },
-                    "encoding": {
-                        "longitude" : {"field": "lon", "type": "quantitative"},
-                         "latitude" : {"field": "lat", "type": "quantitative"},
-                         "text" : {"field": "label"}
                     }
                 }
             ]
