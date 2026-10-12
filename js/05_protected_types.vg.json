@@ -1,0 +1,134 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Pictogram of protected land by type",
+    "width" : 340,
+    "height" : 260, 
+    "layer" : [
+        {
+            "data" : {"url": "data/protected_trees.csv"},
+            "mark" : {
+                "type": "point",
+                "shape": "M0,-1 L0.5,-0.3 L0.28,-0.3 L0.72,0.38 L0.16,0.38 L0.16,1 L-0.16,1 L-0.16,0.38 L-0.72,0.38 L-0.28,-0.3 L-0.5,-0.3 Z",
+                "filled": true,
+                "size": 235,
+                "opacity": 1
+            },
+            "encoding" : {
+                "x" : {
+                    "field": "i", "type": "quantitative", "axis" : null, "scale" : {"domain": [-0.6, 24.5]}
+                },
+                "y" : {
+                    "field" : "label",
+                    "type": "nominal",
+                    "sort" : [
+                        "Indigenous Protected Area", "National Park", "Nature Reserve",
+                        "Conservation Park", "Regional Reserve", "Nature Refuge",
+                         "New reserves (in progress)", "Other types"
+                    ],
+                    "title" : null, 
+                    "axis" : {
+                        "domain" : false,
+                        "ticks": false,
+                        "labelLimit": 170, 
+                        "labelFontSize": 11.5,
+                        "labelPadding": 8
+                    }
+                },
+                "color" : {
+                    "condition": {
+                        "test" : "datum.label == 'National Park'",
+                        "value" : "#0B7480"
+                    },
+                    "value": "#7FCACC"
+                },
+                "tooltip": [
+                    {
+                        "field" : "label",
+                        "type": "nominal",
+                        "title": "Type of protected area "
+                    },
+                    {
+                     "field" : "area_txt",
+                        "type": "nominal",
+                        "title": "Land protected"
+                    },
+                    {
+                         "field" : "share",
+                        "type": "quantitative",
+                        "title": "Share of all protected land",
+                        "format" : ".0%"
+                    },
+                    {
+                         "field" : "n",
+                        "type": "quantitative",
+                        "title": "Number of Areas",
+                        "format": ","
+                    }
+                ]
+            }
+        },
+        {
+            "data": {"url": "data/protected_by_type.csv"},
+            "mark": {
+                "type": "text",
+                "align" : "left",
+                "dx" : 4,
+                "fontSize": 11,
+                "fontWeight": "bold"
+            },
+            "encoding": {
+                "x" : {"field": "trees", "type": "quantitative"},
+                "y": {"field": "label",
+                "type": "nominal", 
+                "sort" : [
+                    "Indigenous Protected Area", "National Park", "Nature Reserve",
+            "Conservation Park", "Regional Reserve", "Nature Refuge",
+            "New reserves (in progress)", "Other types"
+                ],
+                "title": null,
+                 "axis" : {
+                    "domain": false,
+                    "ticks": false,
+                    "labelLimit": 170, 
+                    "labelFontSize": 11.5,
+                    "labelPadding": 8
+                 }
+            },
+            "text" : {"field": "area_mha", "type": "quantitative", "format" : ".0f"},
+            "color" : {
+                "condition" : {
+                    "test" : "datum.label == 'National Park'",
+                    "value": "#0B7480"
+                },
+                "value" : "#557079"
+            }
+            }
+        },
+        {
+            "data" : { "values" : [{"t": "= 4 million hectares"}]},
+            "mark" : {
+                "type": "point",
+                "shape" : "M0,-1 L0.5,-0.3 L0.28,-0.3 L0.72,0.38 L0.16,0.38 L0.16,1 L-0.16,1 L-0.16,0.38 L-0.72,0.38 L-0.28,-0.3 L-0.5,-0.3 Z",
+                "filled": true,
+                "size": 235,
+                "color": "#7FCACC"
+            },
+            "encoding": {"x" : { "value" : 8}, "y" : {"value": 284}}
+        },
+        {
+            "data" : { "values" : [{"t": "= 4 million hectares"}]},
+            "mark" : {
+                "type": "text",
+                "align": "left",
+                "dx" : 9,
+                "fontSize": 11,
+                "color": "#7FCACC"
+            },
+            "encoding": {"x" : { "value" : 8}, "y" : {"value": 284}, "text": {"field": "t"}
+        }
+    }
+    ],
+    "config": {
+         "view": {"stroke": null}
+    }
+}
