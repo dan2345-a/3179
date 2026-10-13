@@ -1,0 +1,130 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Dot map: each dot is one recorded sightings (2021-2025). Choose an animal, zoom in according to the map center",
+    "width": 470,
+    "height": 420, 
+    "params": [
+        {
+            "name": "Animal_selection",
+            "value": "Koala",
+            "bind" : {
+                "input": "select",
+                "options" : [
+                    "Koala", "Eastern grey kangaroo", "Platypus", "Saltwater crocodile","Quokka", "Tasmanian devil", "Little penguin"
+                ],
+                "name" : "Animal: "
+            }
+        },
+        {
+            "name": "zoom_level",
+            "value" : 640,
+            "bind" : {
+                "input": "range",
+                "min": 640,
+                "max": 4000,
+                "step": 20,
+                "name": "Zoom:"
+
+                
+            }
+        },
+        {
+            "name": "center_to",
+            "value" : [2, -27],
+            "bind" : {
+                "input": "select",
+                "options": [
+                    [2, -27],
+                     [19.2, -33.9],
+                     [13, -37.8],
+                     [21, -27.5],
+                    [-16.1, -32],
+                     [-1.2, -12.5],
+                     [14.8, -42]
+                ],
+                "labels": [
+                "All of Australia", "Sydney", "Melbourne", "Brisbane", "Perth" , "Darwin", "Tasmania"
+                ],
+                "name": "Map center:"
+            }
+        
+        }
+        
+    ],
+    "projection": {
+        "type" : "conicEqualArea",
+        "parallels": [-18, -36],
+        "rotate": [-132, 0],
+        "center": {"expr" : "center_to"},
+        "scale" : {"expr" : "zoom_level"}
+    },
+    "layer": [
+        {
+            "data" : {
+                "url": "data/aus_states.topo.json",
+                "format" : { "type": "topojson", "feature": "states"}
+            },
+            "mark" :{
+                "type": "geoshape",
+                "fill": "#E1ECEC",
+                "stroke" : "#ffffff",
+                "strokeWidth" : 1,
+                "clip" : true
+            }
+        },
+        {
+            "data" : {"url" : "data/sighting_points.csv"},
+            "transform": [
+                {"filter": "datum.species == Animal_selection"},
+                {
+                    "lookup": "species",
+                    "from" : {
+                        "data" : {"url" : "data/species.csv"},
+                        "key" : "species",
+                        "fields": ["only_au"]
+                    }
+                }
+                
+            ],
+            "mark" : {
+                "type": "circle",
+                "size": 22,
+                "color" : "#161a98",
+                "opacity": 0.45,
+                "clip": true
+            },
+            "encoding": {
+                "longitude" : {"field": "lon" , "type" : "quantitative"},
+                "latitude" : { "field": "lat" , "type" : "quantitative"},
+                "tooltip" : [
+                    {"field": "species" , "type": "nominal", "title": "Animal"},
+                    {"field": "year" , "type": "ordinal", "title": "Year recorded"},
+                    {"field": "only_au" , "type": "nominal", "title": "Found only in Australia"}
+                ]
+                
+                
+            }
+        },
+        {
+                    "data" : {"url" : "data/state_labels.csv"},
+                    "transform": [
+                        {"calculate": "split(datum.label, ' ')[0]" , "as": "state"}
+                    ],
+                    "mark" : {
+                        "type": "text",
+                        "fontSize": 11,
+                        "fontWeight": "bold",
+                        "color": "#10262C"
+                    },
+                    "encoding": {
+                        "longitude" : {"field": "lon", "type": "quantitative"},
+                         "latitude" : {"field": "lat", "type": "quantitative"},
+                         "text" : {"field": "state"}
+
+                    }
+                }
+    ],
+    "config": {
+        "view": {"stroke": null}
+    }
+}

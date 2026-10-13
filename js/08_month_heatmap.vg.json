@@ -1,0 +1,73 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Waffle map of share of each animals's sightings in each month",
+    "width" : 830,
+    "height": 300,
+    "data" : {"url": "data/sightings_month.csv"},
+    "encoding": {
+        "x": {
+            "field" : "mon",
+            "type": "ordinal",
+            "sort" : [
+                "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+                "Nov", "Dec"
+            ],
+            "title" : null,
+            "axis" : {
+                "labelAngle" : 0,
+                "orient": "top",
+                "domain": false,
+                "ticks": false
+            }
+
+        },
+        "y": {
+            "field" : "name",
+            "type" : "nominal",
+            "sort": [
+                "Koala ★", "Eastern grey kangaroo ★", "Platypus ★",
+        "Saltwater crocodile", "Quokka ★", "Tasmanian devil ★",
+        "Little penguin", "Humpback whale"
+            ],
+            "title" : null,
+            "axis" : { "domain": false, "ticks": false, "labelLimit" : 180}
+        }
+    },
+    "layer": [
+        {
+            "mark" : {
+                "type": "rect",
+                "cornerRadius": 3,
+                "stroke": "#ffffff",
+                "strokeWidth": 2
+            },
+            "encoding": {
+                "color" : {
+                    "field" : "share",
+                    "type": "quantitative",
+                    "title": "Share of the year's sightings",
+                    "scale" : {
+                        "range" : ["#FFF0EC", "#FFC2B5", "#FF8A73", "#E5533D", "#9E2A1B"]
+                    },
+                    "legend" : {
+                        "format": ".0%",
+                        "orient": "bottom",
+                        "gradientLength": 220,
+                        "titleLimit":260
+                    }
+                },
+                "tooltip" : [
+                    {"field": "species" , "type" : "nominal", "title" : "Animal"},
+                    {"field": "month_name" , "type" : "nominal", "title" : "Month"},
+                    {"field": "share" , "type" : "quantitative", "title" : "Share of its yearly sightings", "format" : ".1%"},
+                    {"field": "count" , "type" : "quantitative", "title" : "Records", "format" : ","},
+                    {"field": "peak" , "type" : "nominal", "title" : "Busiest Month"}
+
+                ]
+            }
+        }
+    ],
+    "config": {
+        "view" : {"stroke" : null}
+    }
+}

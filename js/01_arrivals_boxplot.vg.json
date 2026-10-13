@@ -1,0 +1,60 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Box plot of international visitors arriving in Australia each month.",
+    "width": 400,
+    "height": 260,
+    "data": {"url": "data/box_stats.csv"},
+    "encoding": {
+        "x" : {
+            "field" : "mon",
+            "type" : "ordinal",
+            "sort": [
+                "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+        "Nov", "Dec"
+
+            ],
+
+            "title" : null,
+            "axis" : {
+                "labelAngle" : 0,
+                "orient" : "top",
+                "domain": false,
+                "ticks": false
+
+            }
+        } 
+       
+    },
+    "layer": [
+        {
+            "mark" : { "type" : "rule", "color" : "#6A97BD"},
+            "encoding": {
+                "y": {
+            "field" : "low",
+            "type" : "quantitative",
+            "title" : "Visitors arriving around in the month",
+            "axis" : {"domain" : false, "ticks" : false, "format" : "~s", "tickCount": 5}
+        },
+        "y2" : {"field": "high"}
+            }
+        },
+        {
+            "mark" : { "type" : "bar", "size" : 22,  "color" : "#6A97BD"},
+            "encoding": {
+                "y": {
+            "field" : "q1",
+            "type" : "quantitative" },
+        "y2" : {"field": "q3"},
+        "tooltip": [
+            {"field": "month_name" , "type": "nominal" , "title" : "Month"},
+            {"field": "median" , "type": "quantitative" , "title" : "Typical year" , "format": ","},
+            {"field": "low_txt" , "type": "nominal" , "title" : "Lowest year"},
+            {"field": "high_txt" , "type": "nominal" , "title" : "Highest Year"}
+        ]
+            }
+        }
+    ],
+    "config": {
+        "view": {"stroke": null}
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Small multiples of gridded density maps : sharing of each animal sightings in each square",
+    "data" : { "url" : "data/sighting_grid.csv"},
+    "facet" : {
+        "field" : "name",
+        "type": "nominal",
+        "sort" : [
+            "Koala ★", "Eastern grey kangaroo ★", "Platypus ★",
+    "Saltwater crocodile", "Quokka ★", "Tasmanian devil ★", "Little penguin"
+        ],
+        "title" : null,
+        "header" : {
+            "labelFontSize" : 13,
+            "labelFontWeight" : "bold",
+            "labelColor" : "#102626",
+            "labelAnchor" : "start"
+        }
+    },
+    "columns": 4,
+    "spec" : {
+        "width" : 225, 
+        "height" : 190,
+        "projection": {
+            "type" : "conicEqualArea",
+            "parallels" : [-18,-36],
+            "rotate" : [-132, 0]
+        },
+        "layer": [
+            {
+                "data" : {
+                    "url": "data/aus_states.topo.json",
+                    "format" : {"type" : "topojson", "feature" : "states"}
+
+                },
+                "mark" : {
+                    "type": "geoshape",
+                    "fill" : "#E1ECEC",
+                    "stroke" : "#ffffff",
+                    "strokeWidth" : 1
+                }
+            },
+            {
+                "mark" : { "type" : "square", "size" :50 , "opacity": 0.95},
+                "encoding": {
+                    "longitude" : {"field": "lon", "type" : "quantitative"},
+                    "latitude" : {"field": "lat", "type" : "quantitative"},
+                    "color" : {
+                        "field" : "share", 
+                        "type": "quantitative",
+                        "title": "Share of the animals's sightings",
+                        "scale" : {
+                            "type": "sqrt",
+                            "range" : ["#FFF0EC", "#FFC2B5", "#FF8A73", "#E5533D", "#9E2A1B"]
+                        },
+                        "legend" : {
+                            "format" : ".0%",
+                            "orient": "bottom",
+                            "gradientLength" : 200,
+                            "titleLimit": 260
+                        }
+                    },
+                    "tooltip" : [
+                        {"field": "species" , "type" : "nominal" , "title": "Animal"},
+                        {"field": "share_txt" , "type" : "nominal" , "title": "Share of sightings here"},
+                        {"field": "count" , "type" : "quantitative" , "title": "Records in this square"},
+                        {"field": "rank_txt" , "type" : "nominal" , "title": "Hotspot rank"},
+                        {"field": "where_txt" , "type" : "nominal" , "title": "Square centre"}
+                    ]
+                }
+            }
+
+        ]
+    },
+    "config": {
+        "view": {"stroke" : null}
+    }
+}
