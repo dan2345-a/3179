@@ -1,0 +1,111 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Propotional symbol maps",
+    "params": [
+        {
+            "name": "Month_selection",
+            "value": "7",
+            "bind" : {
+                "input": "range",
+                "min": 1,
+                "max" : 12,
+                "step": 1,
+                "name" : "Month (1= Jan): "
+            }
+        }
+        
+        
+    ],
+
+    "vconcat": [
+        {
+            "width" : 520,
+            "height" : 440 ,
+            "projection": {
+                "type": "conicEqualArea",
+                "parallels" : [-18, -36],
+                "rotate" : [-132, 0]
+            },
+            "layer": [
+                
+                {
+                    "data" : {
+                        "url" : "data/aus_states.topo.json",
+                        "format" : { "type": "topojson", "feature": "states"}
+                    },
+                    "mark" : {
+                        "type" : "geoshape",
+                        "fill" : "#E1ECEC",
+                        "stroke" : "#ffffff",
+                        "strokeWidth": 1
+                        
+                    }
+                },
+                {
+                    "data": {"url": "data/whale_month_grid.csv"},
+                    "transform" : [{"filter": "datum.month == Month_selection"}],
+                    "mark" : {"type": "circle" , "color" :"#1B4965", "opacity": 0.6},
+                    "encoding": {
+                        "longitude" : {"field": "lon" , "type": "quantitative"},
+                        "latitude" : {"field": "lat" , "type": "quantitative"},
+                        "size" : {
+                            "field" : "count",
+                            "type": "quantitative",
+                            "title": "Sightings in square",
+                            "scale" : {"domain" : [0,2200], "range" : [20,900]},
+                            "legend" : { "orient": "none" , "legendX" : 8 , "legendY": 402 , "direction": "horizontal", "values": [ 100, 500, 1000, 2000]}
+                        },
+                        "tooltip": [
+                            {"field": "month_name" , "type": "nominal", "title": "Month"},
+                            {"field": "count" , "type": "quantitative", "title": "Whale sightings in this area"},
+                            {"field": "where_txt" , "type": "nominal", "title": "Area center"}
+
+                        ]
+                    }
+                }
+
+            ]
+                    
+        },
+        {
+            "width": 520,
+            "height": 70,
+            "data" : {"url": "data/whale_months.csv"},
+        
+                    "mark" : { "type": "bar"},
+                    "encoding": {
+                        "x" : {
+                            "field" : "mon",
+                            "type" : "ordinal",
+                            "sort" : ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
+                            "title" : null,
+                            "axis" : {"labelAngle": 0}
+                        },
+                        "y": {
+                            "field" : "total",
+                            "type": "quantitative",
+                            "title" : null,
+                            "axis" : null
+                        },
+                        "color":{
+                            "condition" : { "test" : "datum.month == Month_selection", "value" : "#1B4965"},
+                            "value" : "#C9D9E6"
+                        },
+                        "tooltip" : [
+                            {"field": "month_name" , "type": "nominal", "title": "Month"},
+                            {"field": "total" , "type": "quantitative", "title": "Whale sightings between 2015-2025"}
+                        ]
+                    
+                    
+                    }
+                }
+            
+            
+        
+
+],
+
+    "config": {
+        "view": {"stroke": null}
+    }
+}

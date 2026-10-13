@@ -1,0 +1,73 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Waffle chart: sightings of every 1000 animals, how many come from phone apps, government, or other agencies",
+    "data" : { "url" : "data/record_sources.csv"},
+    "facet" : {
+        "field" : "label",
+        "type": "nominal",
+        "sort" : {"field" : "app_pct" , "op": "max", "order" : "descending"},
+        "title" : null,
+        "header" : {
+            "labelFontSize" : 13,
+            "labelFontWeight" : "bold",
+            "labelColor" : "#102626",
+            "labelAnchor" : "start",
+            "labelPadding" : 4
+        }
+    },
+    "columns": 4,
+    "spacing" : {"row" : 14, "column" : 26},
+    "spec" : {
+        "width" : 150, 
+        "height" : 190,
+        "mark" : { "type" :"rect" , "cornerRadius": 2},
+        "encoding": {
+            "x": {
+            "field" : "col",
+            "type": "ordinal",
+            
+            "scale" : {"paddingInner": 0.18},
+            "axis" : null
+
+        },
+        "y": {
+            "field" : "row",
+            "type" : "ordinal",
+            
+            "scale" : {"paddingInner": 0.18},
+            "axis" : null
+        },
+        "color" : {
+                            "field" : "source",
+                            "type": "nominal",
+                            "title" : "Who recorded the sighting",
+                            "scale": {
+                        
+                                "domain" : ["Public, via apps", "NSW government (BioNet)",
+            "Other agencies & groups"],
+                                "range" :  ["#E5533D", "#557079", "#C9D6D8"]
+                            },
+                            "legend" : {
+                                "orient": "top",
+                                
+                                "direction": "horizontal",
+                                "titleLimit":200,
+                                "labelLimit":200,
+                                "symbolType": "square"
+                            }
+                        },
+                        "tooltip": [
+                            {"field": "species" , "type": "nominal", "title": "Animal"},
+                            {"field": "source" , "type": "nominal", "title": "Recorded by"},
+                            {"field": "pct_txt" , "type": "nominal", "title": "Share of its records"},
+                            {"field": "records" , "type": "quantitative", "title": "Number of records" , "format" : ","}
+
+                        ]
+
+
+        }
+    },
+    "config": {
+        "view": {"stroke" : null}
+    }
+}
