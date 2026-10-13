@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "Slope chart of the number of recorded sightings of each animal in 2015-2025",
+    "width": 400,
+    "height": 260,
+    "data" : {"url": "data/slope.csv"},
+    "encoding": {
+        "x": {
+            "field" : "year",
+            "type": "ordinal",
+           "scale" : {"padding": 0.4},
+            "title" : null,
+            "axis" : {
+                "labelAngle" : 0,
+                "orient": "top",
+                "domain": false,
+                "ticks": false,
+                "labelFontSize": 14 ,
+                "labelFontWeight": "bold"
+            }
+
+        },
+        "y": {
+            "field" : "count",
+            "type": "quantitative",
+           "scale" : {"type": "log"},
+            "title" : "Recorded sightings (log)",
+            "axis" : {
+                "format": "~s", "values": [10,100,1000,10000,100000]
+            }
+
+        },
+        "detail" : {"field": "species"}
+    },
+    "layer": [
+        {
+            "mark" : {
+                "type": "line",
+                
+                "strokeWidth": 2.5
+            },
+            "encoding": {
+                "color" : {
+                    "condition" : {
+                        "param": "Species_hover",
+                        "empty": false,
+                        "value" : "#E5533D"
+                    },
+                    "value": "#8FA3A8"
+                }
+                
+            }
+        },
+        {
+            "mark" : {"type": "circle" , "size": 80},
+            "params": [
+                {
+                    "name": "Species_hover",
+                    "select": {"type": "point", "fields": ["species"], "on": "pointerover", "clear":"pointerout"}
+                }
+            ],
+                    "encoding": {
+                        "color" : {
+                    "condition" : {
+                        "param": "Species_hover",
+                        "empty": false,
+                        "value" : "#E5533D"
+                    },
+                    "value": "#9FB2B6"
+                },
+                        "tooltip": [
+                            {"field": "species" , "type": "nominal", "title": "Animal"},
+                            {"field": "year" , "type": "nominal", "title": "Year"},
+                            {"field": "count" , "type": "quantitative", "title": "Recorded sightings" , "format": ","},
+                            {"field": "growth_txt" , "type": "nominal", "title": "Growth, 2015-2025" }
+
+                        ]
+        } 
+    }
+    ],
+    "config": {
+        "view": {"stroke": null}
+    }
+}
