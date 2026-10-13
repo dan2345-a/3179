@@ -1,0 +1,102 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "gantt chart of the best months to see each animal",
+    "width": 400,
+    "height": 260,
+
+    "layer": [
+        {
+            "data": {"url": "data/busy_months.csv"},
+            "mark" : { "type" : "rect", "color" : "#E3EDF5", "opacity": 0.9},
+            "encoding": {
+                "x": {
+            "field" : "month",
+            "type" : "quantitative"
+        },
+        "x2" : {"field": "month_end"},
+        "tooltip" : [
+            {
+                "field": "month_name",
+                "type": "nominal",
+                "title": "Busy tourist month"
+            },
+            {
+                "field": "avg_visitors",
+                "type": "quantitative",
+                "title": "Average visitors(2023-2025)",
+                "format":","
+            }
+        ]
+
+
+            }
+
+        },
+        {
+            "data": {"url": "data/seasons.csv"},
+            "mark" : { "type" : "bar", "color" : "#1d317e", "cornerRadius": 5, "height": {"band" : 0.5}},
+            "encoding": {
+                "y": {
+            "field" : "name",
+            "type" : "nominal",
+    
+            "sort": [
+            "Koala ★", "Eastern grey kangaroo ★", "Platypus ★",
+            "Saltwater crocodile", "Quokka ★", "Tasmanian devil ★",
+            "Little penguin", "Humpback whale"
+          ],
+          "title" : null,
+          "axis" : {"domain": false, "ticks": false, "labelLimit": 180}
+        },
+        "x" :{
+            "field": "start",
+            "type": "quantitative",
+            "title": null,
+            "scale": {"domain" : [1,13], "nice": false},
+            "axis": {
+                "values" : [1,2,3,4,5,6,7,8,9,10,11,12],
+                "orient": "top",
+                "grid": true,
+                "labelExpr": "['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'][datum.value - 1]",
+                "labelAlign" : "left",
+                "labelOffset": 2,
+                "labelOverlap": false,
+                "labelFontSize" : 11
+            }
+        },
+        "x2" : {"field" : "end"},
+        
+        "tooltip" : [
+            {
+                "field": "species",
+                "type": "nominal",
+                "title": "Animal"
+            },
+            {
+                "field": "months_txt",
+                "type": "nominal",
+                "title": "Best Months"
+            },
+            {
+                "field": "peak_txt",
+                "type": "nominal",
+                "title": "Peak Months"
+            },
+            {
+                "field": "only_au",
+                "type": "nominal",
+                "title": "Found only in Australia"
+            }
+        ]
+
+
+            }
+
+        }
+
+        
+    ],
+    "config": {
+        "view": {"stroke": null}
+    }
+}
