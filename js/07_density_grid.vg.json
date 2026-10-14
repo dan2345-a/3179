@@ -1,31 +1,26 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Small multiples of gridded density maps : sharing of each animal sightings in each square",
-    "data" : { "url" : "data/sighting_grid.csv"},
-    "facet" : {
-        "field" : "name",
-        "type": "nominal",
-        "sort" : [
-            "Koala ★", "Eastern grey kangaroo ★", "Platypus ★",
-    "Saltwater crocodile", "Quokka ★", "Tasmanian devil ★", "Little penguin"
-        ],
-        "title" : null,
-        "header" : {
-            "labelFontSize" : 13,
-            "labelFontWeight" : "bold",
-            "labelColor" : "#102626",
-            "labelAnchor" : "start"
+   
+    
+    "width": 560,
+    "height": 470,
+    "params": [
+        {
+            "name": "Hotspot_animal",
+            "value" : "Koala",
+            "bind" : {
+                "input": "select",
+                "options": ["Koala", "Eastern grey kangaroo", "Platypus", "Saltwater crocodile", "Quokka", "Tasmanian devil", "Little penguin"],
+                "name" : "Animal: "
         }
+    }
+    ],
+    "projection": {
+        "type": "conicEqualArea",
+        "parallels" : [-18, -36],
+        "rotate": [-132, 0]
     },
-    "columns": 4,
-    "spec" : {
-        "width" : 225, 
-        "height" : 190,
-        "projection": {
-            "type" : "conicEqualArea",
-            "parallels" : [-18,-36],
-            "rotate" : [-132, 0]
-        },
         "layer": [
             {
                 "data" : {
@@ -41,7 +36,21 @@
                 }
             },
             {
-                "mark" : { "type" : "square", "size" :50 , "opacity": 0.95},
+                "data" : {"url" : "data/land_cells.csv"},
+                "mark" : {"type" : "square", "size" : 150, "color" : "#D3DEE0", "stroke": "#ffffff" , "strokeWidth" : 0.6},
+                "encoding": {
+                    "longitude" : {"field": "lon", "type" : "quantitative"},
+                    "latitude" : {"field": "lat", "type" : "quantitative"},
+                    "tooltip" : 
+                        {"value": "No sightings of the animals in this square" }
+                    
+
+                }
+            },
+            {
+                "data" : {"url" : "data/sighting_grid.csv"},
+                "transform": [{"filter": "datum.species == Hotspot_animal"}],
+                "mark" : { "type" : "square", "size" : 150 , "stroke": "#ffffff", "strokeWidth": 0.6},
                 "encoding": {
                     "longitude" : {"field": "lon", "type" : "quantitative"},
                     "latitude" : {"field": "lat", "type" : "quantitative"},
@@ -70,9 +79,11 @@
                 }
             }
 
-        ]
-    },
+        ],
+    
     "config": {
         "view": {"stroke" : null}
     }
+
+
 }

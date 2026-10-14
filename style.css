@@ -71,7 +71,7 @@ Header
 .hero {
     background-color: #09262e;
     color: #F4F9F9;
-    padding: 56px 0 36px;
+    padding: 20px 0 10px;
 }
 
 .kicker {
@@ -85,42 +85,45 @@ Header
 
 .dek {
     max-width: 46ch;          /* this would make 10 words per line */
-    margin: 0 0 32px;
-    color: #D7ECEE;
+    margin: 10 0 32px;
+    color: #3f6f73;
     font-size: 20px;
 }
 
 .dek strong {
-    color: #FFFFFF;
+    color: #285544;
 }
 
 .kpis {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
-    margin-bottom: 28px;
+    margin: 10px;
 }
 
 .kpi {
     flex: 1 1 200px;          /* grow to fill the row, but never narrower than 200px */
-    padding: 16px 18px;
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    border-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.07);
+    padding-top: 16px 18px;
+    
+}
+
+.questions {
+    margin : 10 0;
+    padding-left: 30px;
+    line-height: 2;
 }
 
 .kpi-num {
-    display: block;
-    color: #FFFFFF;
+    color: #102626;
     font-family: 'DM Serif Display', Georgia, serif;
-    font-size: 38px;
+    font-size: 40px;
     line-height: 1.1;
 }
 
 .kpi-lab {
     display: block;
     margin-top: 6px;
-    color: #CBE3E6;
+    color: #557079;
     font-size: 14px;
     line-height: 1.4;
 }
@@ -171,6 +174,11 @@ keeping the website in the containers
     padding: 0 24px;
 }
 
+.intro{
+    border-bottom: 1px solid #1B4965;
+    margin-bottom: 40px;
+}
+
 
 .row {
     margin: 0 -12px;
@@ -186,6 +194,7 @@ keeping the website in the containers
 .row .card {
     height: 100%;
     margin-bottom: 0;
+    border: none;
 }
 
 .align-center {
@@ -201,6 +210,7 @@ The sections , text and card of the visualisation
 */
 .section{
     padding: 56px 0 8px;
+    border-top: 1px solid #1B4965;
 }
 
 .section-head{
@@ -227,7 +237,7 @@ The sections , text and card of the visualisation
 .card {
     margin: 0 0 24px;
     padding: 20px 22px 14px;
-    border: 1px solid #DCE8E9;
+    border: none;
     border-radius: 5px;
     background-color: #FFFFFF;
     
@@ -299,7 +309,7 @@ Colour coded text
 }
 
 .key-coral {
-    background-color: #218493;
+    background-color: #1F3A8A;
 }
 
 .key-coral-dark {
@@ -311,13 +321,7 @@ Colour coded text
     background-color: #E3EDF5;
 }
 
-.key-diamond {
-    width: 10px;
-    height: 10px;
-    border-radius: 1px;
-    background-color: #218493;
-    transform: rotate(45deg);
-}
+
 
 /*
 Fact cards 
@@ -383,7 +387,12 @@ footer
 }
 
 .site-foot a {
-    color: #FFB4A6;
+    color: #59b1c4;
+}
+
+.site-foot p,
+.sources {
+    max-width: 55ch;
 }
 
 .foot-grid .col {
