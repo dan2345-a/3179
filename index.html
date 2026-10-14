@@ -79,14 +79,14 @@
     </div>
 
     <div class ="pure-g row">
-    <div class="pure-u-1 pure-u-md-1-2 col">
+    <div class="pure-u-1 pure-u-md-7-12 col">
     <h3>When do tourists visit Australia?</h3>
     <p class=""how>Each box shows one month. December is the busiest month almost every year.</p>
     <div class="vis" id="vis01"></div>
     
     </div>
 
-    <div class="pure-u-1 pure-u-md-1-2 col">
+    <div class="pure-u-1 pure-u-md-5-12 col">
     <h3>Where do visitors come from?</h3>
     <p class="how">The top 10 countries of 2025, ranked each year, plus <b class="ocean">Malaysia</b>. <span class="tip">Hover a line</span> to follow another country.</p>
     <div class="vis" id="vis02"></div>
@@ -147,29 +147,50 @@
     </div>
 
     <div class ="pure-g row">
-    <div class="pure-u-1 pure-u-md-13-24 col"><figure class="card">
+    <div class="pure-u-1 pure-u-md-7-12 col"><figure class="card">
     <h3>Every dot is a real sighting</h3>
     <p class="how">Use the <span class="tip">Animal</span> menu below the map. Use <span class="tip">Zoom</span> and <span class="tip">Map centre</span> to look closer. Black dots are major cities.</p>
     <div class="vis" id="vis06"></div>
     
     </figure></div>
 
-    <div class="pure-u-1 pure-u-md-11-24 col"><div class="story-col">
+    <div class="pure-u-1 pure-u-md-5-12 col"><div class="story-col">
     <div class="fact"><p><b>Koalas</b> live only in eastern and south-eastern Australia, among the eucalyptus forests of Queensland, New South Wales, Victoria and South Australia.</p></div>
     <div class="fact"></span><p><b>Quokkas</b> are mostly found on Rottnest Island, a short ferry ride from Perth.</p></div>
     <div class="fact"></span><p><b>Tasmanian devils</b> now live in the wild only on the island of Tasmania.</p></div>
     <div class="fact"></span><p><b>Saltwater crocodiles</b> also live in Malaysia, in Sarawak's rivers. In Australia they live in the tropical north. River cruises in Kakadu are a safe way to see them.</p></div>
     <div class="fact"></span><p><b>Little penguins</b> nest along the southern coast. Several colonies can be watched as they come ashore at dusk.</p></div>
-    <p class="note">Sightings show where <em>people</em> saw the animals. Places near cities appear more often than remote ones.</p>
-    </div></div>
     
-    <figure class="card">
+    </div></div>
+
+    <div class ="pure-g row align-center">
+    
+    
+    <div class="pure-u-1 pure-u-md-7-12 col"><figure class="card">
     <h3>Hotspots at a glance</h3>    
     <p class="how">Each square is about 100 km wide. Darker squares hold more of that animal's sightings. The ring marks each animal's top hotspot.</p>
-        <div class="vis vis-wide" id="vis07"></div>
+        <div class="vis" id="vis07"></div> </figure>
+        </div>
+
+
+    <div class="pure-u-1 pure-u-md-5-12 col">
+        <div class="story-col">
+    <div class="fact"><p><b>Quokkas</b> are the most packed together, as 63% of the sightings are from Perth and Rottnest Island. </p></div>
+    <div class="fact"></span><p><b>Saltwater crocodiles</b> are mostly around Darwin, with half of all sightings in one square.</p></div>
+    <div class="fact"></span><p><b>Little penguins</b> mostly on Kangaroo Island and Tasmanian Devils around Cradle Mountain</p></div>
+    <div class="fact"></span><p><b>Koalas</b> and kangaroos are spread around along the east coast. and their top squares are just south and west of Sydney.</p></div>
+    <div class="fact"></span><p><b>Platypuses</b> are the most spread out, as they look for quiet creaks.</p></div>
+    
+    </div>
+    </div>
+
     
     
-    </figure>
+   
+    </div>
+
+
+    
     </section>
 
     <!--    Finished Section 3 here -->
@@ -225,14 +246,14 @@
     </div>
 
     <div class ="pure-g row">
-    <div class="pure-u-1 pure-u-md-13-24 col"><figure class="card">
+    <div class="pure-u-1 pure-u-md-7-12 col"><figure class="card">
     <h3>The humpback highway</h3>
     <p class="how">Drag the <span class="tip">Month</span> slider below the chart to move through the year. Bigger circles mean more sightings in that area.</p>
     <div class="vis" id="vis10"></div>
     
     </figure></div>
 
-    <div class="pure-u-1 pure-u-md-11-24 col"><div class="story-col">
+    <div class="pure-u-1 pure-u-md-5-12 col"><div class="story-col">
     <div class="fact"></span><p><b>Heading north (around May-August).</b> Whales travel up the east and west coasts towards the warm waters of Queensland and the Kimberley.</p></div>
     <div class="fact"></span><p><b>Heading south (around September-November).</b> Mothers and calves swim slowly back, often resting in sheltered bays such as Hervey Bay.</p></div>
     <div class="fact"><p><b>Travel tip:</b> whale season (June-October) falls in the quieter months for international visitors. Compare it with the blue bands in section 4.</p></div>
@@ -317,15 +338,26 @@
     <strong>Published: </strong> 25 October 2026.
     Built with <a href="https://vega.github.io/vega-lite/">Vega-Lite</a>
 
-    <div class="pure-u-1  col"><div>
-<h4>Data sources</h4>
-<ul class="sources">
-<li>GBIF.org GBIF Occurrence Downloads(eight featured animals, including records from the Atlas of Living Australia). <a href="https://www.gbif.org">gbif.org</a> · <a href="https://www.ala.org.au">ala.org.au</a> </li>
-<li>Department of Climate Change, Energy, the Environment and Water (DCCEEW) (2025). Collaborative Australian Protected Areas Database (CAPAD) 2024. <a href="https://www.dcceew.gov.au/environment/land/nrs/science/capad/2024">dcceew.gov.au</a></li>
-<li>Australian Bureau of Statistics Overseas Arrivals and Departures, Australia, July 2026  <a href="https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release">abs.gov.au</a> </li>
-<li>Geoscience Australia. Area of Australia - States and Territories. <a href="https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories">ga.gov.au</a></li>
-</ul>
-</div></div>
+<div class="pure-u-1  col">
+
+        <div class="pure-u-1 pure-u-md-5-12">
+    <h4>Data sources</h4>
+    <ul class="sources">
+    <li>GBIF.org GBIF Occurrence Downloads(eight featured animals, including records from the Atlas of Living Australia). <a href="https://www.gbif.org">gbif.org</a> · <a href="https://www.ala.org.au">ala.org.au</a> </li>
+    <li>Department of Climate Change, Energy, the Environment and Water (DCCEEW) (2025). Collaborative Australian Protected Areas Database (CAPAD) 2024. <a href="https://www.dcceew.gov.au/environment/land/nrs/science/capad/2024">dcceew.gov.au</a></li>
+    <li>Australian Bureau of Statistics Overseas Arrivals and Departures, Australia, July 2026  <a href="https://www.abs.gov.au/statistics/industry/tourism-and-transport/overseas-arrivals-and-departures-australia/latest-release">abs.gov.au</a> </li>
+    <li>Geoscience Australia. Area of Australia - States and Territories. <a href="https://www.ga.gov.au/scientific-topics/national-location-information/dimensions/area-of-australia-states-and-territories">ga.gov.au</a></li>
+    </ul>
+    </div>
+
+    <div class="pure-u-1 pure-u-md-7-12">
+    <p>
+        Use of AI: Claude was used to help with grammar, problems, create illustrative figures. The author
+        picked the charts, layout , colour and explanation.
+    </p>
+    </div>
+    
+</div>
 
     </footer>
 

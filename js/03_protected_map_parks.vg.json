@@ -1,6 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "Choropleth of the share of each state's land that is protected",
+    "spacing": 160,
     "hconcat": [
         {
             "width" : 420,
