@@ -69,7 +69,7 @@
                     "value": "#9FB2B6"
                 },
                         "tooltip": [
-                            {"field": "species" , "type": "nominal", "title": "Animal"},
+                            {"field": "species" , "type": "nominal", "title": "Animals"},
                             {"field": "year" , "type": "nominal", "title": "Year"},
                             {"field": "count" , "type": "quantitative", "title": "Recorded sightings" , "format": ","},
                             {"field": "growth_txt" , "type": "nominal", "title": "Growth, 2015-2025" }

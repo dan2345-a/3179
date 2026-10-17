@@ -34,13 +34,13 @@ h1 {
 }
 
 h2 {
-    font-size: 35px;
-    line-height: 1.15;
+    font-size: 60px;
+    line-height: 1.1;
     margin: 0 0 8px;
 }
 
 h3 {
-    font-size: 23px;
+    font-size: 28px;
     line-height: 1.25;
     margin: 0 0 4px;
 }
@@ -104,13 +104,15 @@ Header
 .kpi {
     flex: 1 1 200px;          /* grow to fill the row, but never narrower than 200px */
     padding-top: 16px 18px;
+    text-align: center;
     
 }
 
 .questions {
     margin : 10 0;
-    padding-left: 30px;
+    padding-left: 0;
     line-height: 2;
+    list-style-position: inside;
 }
 
 .kpi-num {
@@ -177,6 +179,12 @@ keeping the website in the containers
 .intro{
     border-bottom: 1px solid #1B4965;
     margin-bottom: 40px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.intro .col{
+    margin-bottom: 0;
 }
 
 
@@ -209,14 +217,33 @@ keeping the website in the containers
 The sections , text and card of the visualisation
 */
 .section{
-    padding: 56px 0 8px;
+    padding-top: 32px;
     border-top: 1px solid #1B4965;
 }
 
 .section-head{
-    display: flex;
-    gap:16px;
-    margin-bottom: 24px;
+    
+    margin-bottom: 12px;
+    
+}
+
+.head-stat{
+   padding-left: 16px;
+   border-left: 4px solid #0E9AA7;
+
+
+}
+
+.stat-num{
+    display: block;
+    color: #10262C;
+    font-size: 44px;
+    line-height: 1.1;
+}
+
+.stat-lab{
+    display: block;
+    color: #557079;
 }
 
 .num{
@@ -228,15 +255,16 @@ The sections , text and card of the visualisation
 }
 
 .lede{
-    max-width: 52ch;
+    max-width: 44ch;
     margin:0;
     color:  #2C4A52;
-    font-size: 18px;
+    font-size: 30px;
+    line-height: 1.45;
 }
 
 .card {
     margin: 0 0 24px;
-    padding: 20px 22px 14px;
+    padding: 20px 0 14px;
     border: none;
     border-radius: 5px;
     background-color: #FFFFFF;
@@ -247,7 +275,7 @@ The sections , text and card of the visualisation
     max-width: 58ch;
     margin: 0 0 12px;
     color: #557079;
-    font-size: 14.5px;
+    font-size: 16.5px;
     line-height: 1.45;
 }
 
@@ -371,7 +399,7 @@ Fact cards
 /* the main message of a section gets a coral edge */
 .takeaway {
     margin-bottom: 24px;
-    border-left: 5px solid #1d2b7e;
+    
 }
 
 /*
