@@ -39,7 +39,7 @@
             }
         },
         {
-            "mark" : { "type" : "bar", "size" : 22,  "color" : "#6A97BD"},
+            "mark" : { "type" : "bar", "size" : 22,  "color" : "#C6DAEA"},
             "encoding": {
                 "y": {
             "field" : "q1",
@@ -49,8 +49,15 @@
             {"field": "month_name" , "type": "nominal" , "title" : "Month"},
             {"field": "median" , "type": "quantitative" , "title" : "Typical year" , "format": ","},
             {"field": "low_txt" , "type": "nominal" , "title" : "Lowest year"},
-            {"field": "high_txt" , "type": "nominal" , "title" : "Highest Year"}
+            {"field": "high_txt" , "type": "nominal" , "title" : "Highest Year"},
+            {"field": "median" , "type": "quantitative" , "title" : "Median"}
         ]
+            }
+        },
+        {
+            "mark" : { "type": "tick", "color" : "#1B4965" , "size" : 22 , "thickness": 2 , "opacity": 1},
+            "encoding" : {
+                "y" : { "field": "median" ,"type" : "quantitative"}
             }
         }
     ],
