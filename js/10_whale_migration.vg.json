@@ -22,8 +22,6 @@
             "width" : 520,
             "height" : 440 ,
             "projection": {
-                "type": "conicEqualArea",
-                "parallels" : [-18, -36],
                 "rotate" : [-132, 0]
             },
             "layer": [

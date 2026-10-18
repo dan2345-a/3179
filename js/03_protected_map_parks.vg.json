@@ -7,9 +7,7 @@
             "width" : 420,
             "height" : 380 ,
             "projection": {
-                "type": "conicEqualArea",
-                "parallels" : [0, -36],
-                "rotate" : [-132, 0]
+            "rotate": [-132, 0]
             },
             "layer": [
                 

@@ -52,8 +52,6 @@
         
     ],
     "projection": {
-        "type" : "conicEqualArea",
-        "parallels": [-18, -36],
         "rotate": [-132, 0],
         "center": {"expr" : "center_to"},
         "scale" : {"expr" : "zoom_level"}
