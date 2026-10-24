@@ -61,7 +61,7 @@
                     {
                          "field" : "n",
                         "type": "quantitative",
-                        "title": "Number of Areas",
+                        "title": "Number of areas",
                         "format": ","
                     }
                 ]

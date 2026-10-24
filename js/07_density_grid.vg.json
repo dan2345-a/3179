@@ -54,7 +54,7 @@
                     "color" : {
                         "field" : "share", 
                         "type": "quantitative",
-                        "title": "Share of the animals's sightings",
+                        "title": "Share of the animal's sightings",
                         "scale" : {
                             "type": "sqrt",
                             "range" : ["#F6F0F9", "#DCC6E8", "#B48DCF", "#8557AA", "#542876"]

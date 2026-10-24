@@ -82,7 +82,7 @@
                             {"field" : "prot_txt", "type": "nominal" , "title" : "Land protected"},
                             {"field" : "n_national_parks", "type": "quantitative" , "title" : "National parks"},
                             {"field" : "n_areas", "type": "quantitative" , "title" : "All protected areas", "format": ","},
-                            {"field" : "visitors_last_year", "type": "quantitative" , "title" : "Visitor staying here (2025)", "format" :","},
+                            {"field" : "visitors_last_year", "type": "quantitative" , "title" : "Visitors staying here (2025)", "format" :","},
                             {"field" : "hint", "type": "nominal" , "title" : "Tip"}
                         ]
                     }

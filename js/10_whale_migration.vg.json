@@ -56,7 +56,7 @@
                         "tooltip": [
                             {"field": "month_name" , "type": "nominal", "title": "Month"},
                             {"field": "count" , "type": "quantitative", "title": "Whale sightings in this area"},
-                            {"field": "where_txt" , "type": "nominal", "title": "Area center"}
+                            {"field": "where_txt" , "type": "nominal", "title": "Area centre"}
 
                         ]
                     }

@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Box plot of international visitors arriving in Australia each month.",
+    "description": "Box plot of international visitors arriving each month.",
     "width": 400,
     "height": 260,
     "data": {"url": "data/box_stats.csv"},
@@ -49,7 +49,7 @@
             {"field": "month_name" , "type": "nominal" , "title" : "Month"},
             {"field": "median" , "type": "quantitative" , "title" : "Typical year" , "format": ","},
             {"field": "low_txt" , "type": "nominal" , "title" : "Lowest year"},
-            {"field": "high_txt" , "type": "nominal" , "title" : "Highest Year"},
+            {"field": "high_txt" , "type": "nominal" , "title" : "Highest year"},
             {"field": "median" , "type": "quantitative" , "title" : "Median"}
         ]
             }

@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "Slope chart of the number of recorded sightings of each animal in 2015-2025",
+    "description": "Slope chart of the number of recorded sightings of each animal in 2015-2024",
     "width": 400,
     "height": 260,
     "data" : {"url": "data/slope.csv"},
@@ -72,7 +72,7 @@
                             {"field": "species" , "type": "nominal", "title": "Animals"},
                             {"field": "year" , "type": "nominal", "title": "Year"},
                             {"field": "count" , "type": "quantitative", "title": "Recorded sightings" , "format": ","},
-                            {"field": "growth_txt" , "type": "nominal", "title": "Growth, 2015-2025" }
+                            {"field": "growth_txt" , "type": "nominal", "title": "Growth, 2015-2024" }
 
                         ]
         } 

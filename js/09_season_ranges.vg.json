@@ -23,7 +23,7 @@
             {
                 "field": "avg_visitors",
                 "type": "quantitative",
-                "title": "Average visitors(2023-2025)",
+                "title": "Average visitors (2023-2025) ",
                 "format":","
             }
         ]
@@ -75,12 +75,12 @@
             {
                 "field": "months_txt",
                 "type": "nominal",
-                "title": "Best Months"
+                "title": "Best months"
             },
             {
                 "field": "peak_txt",
                 "type": "nominal",
-                "title": "Peak Months"
+                "title": "Peak months"
             },
             {
                 "field": "only_au",

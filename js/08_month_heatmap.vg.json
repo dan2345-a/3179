@@ -61,7 +61,7 @@
                     {"field": "month_name" , "type" : "nominal", "title" : "Month"},
                     {"field": "share" , "type" : "quantitative", "title" : "Share of its yearly sightings", "format" : ".1%"},
                     {"field": "count" , "type" : "quantitative", "title" : "Records", "format" : ","},
-                    {"field": "peak" , "type" : "nominal", "title" : "Busiest Month"}
+                    {"field": "peak" , "type" : "nominal", "title" : "Busiest month"}
 
                 ]
             }
