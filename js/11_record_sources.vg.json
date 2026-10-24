@@ -45,7 +45,7 @@
                         
                                 "domain" : ["Public, via apps", "NSW government (BioNet)",
             "Other agencies & groups"],
-                                "range" :  ["#E5533D", "#557079", "#C9D6D8"]
+                                "range" :  ["#E2A31A", "#4F5D6B", "#D8DDE2"]
                             },
                             "legend" : {
                                 "orient": "top",

@@ -68,6 +68,16 @@ figcaption {
 Header
 */
 
+.intro {
+    align-items: flex-start;
+    padding-bottom: 32px;
+}
+.intro .dek {
+    margin: 0;
+    padding-top: 10px;
+    padding-right: 40px;
+}
+
 .hero {
     background-color: #09262e;
     color: #F4F9F9;
@@ -102,9 +112,9 @@ Header
 }
 
 .kpi {
-    flex: 1 1 200px;          /* grow to fill the row, but never narrower than 200px */
+    flex:  200px;          /* grow to fill the row, but never narrower than 200px */
     padding-top: 16px 18px;
-    text-align: center;
+    text-align: left;
     
 }
 
@@ -165,6 +175,32 @@ Header
     text-align: center;
 }
 
+.planner {
+    padding: 12px 16px 6px;
+    border-radius: 14px;
+    background-color: #F4F8F9;
+
+}
+
+.planner-tag
+{
+    margin: 0 0 4px;
+    color: #557079;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.plan-row {
+    gap : 10px;
+    align-items: center;
+    border-top: 1px solid #DCE8E9;
+    color: #021419;
+    text-decoration: none;
+    padding: 8px 0;
+    display: flex;
+}
 /*
 keeping the website in the containers
 
@@ -212,6 +248,8 @@ keeping the website in the containers
 .align-center .card {
     height: auto;
 }
+
+
 
 /*
 The sections , text and card of the visualisation
@@ -315,7 +353,7 @@ Colour coded text
 }
 
 .ocean {
-    color:  #218493;           
+    color:  #1B3A5C;           
 }
 
 /* small coloured squares used as a legend inside the text */
@@ -337,11 +375,11 @@ Colour coded text
 }
 
 .key-coral {
-    background-color: #1F3A8A;
+    background-color: #B23A6B;
 }
 
 .key-coral-dark {
-    background-color:  #218493;
+    background-color:  #E2A31A;
 }
 
 .key-blue {

@@ -60,14 +60,17 @@
             "encoding": {
                 "detail" : {"field" : "country"},
                 "color": {
-                    "condition": [
-                        {"test" : "datum.country == 'Malaysia' ", "value": "#1B4965"},
-                        {"param" : "Country_hover", "empty": false , "value" : "#6A97BD" }
-                    ],
-                    "value" : "#C9D6D8"
+                    "field" : "country","type" : "nominal",
+                    "scale" : {
+
+                    "domain": ["Malaysia","New Zealand","China","United Kingdom","USA","India","Singapore","Japan","South Korea","Hong Kong","Indonesia"],
+                    "range":  ["#1B3A5C","#E15759","#F28E2B","#C9A227","#59A14F","#499894","#B07AA1","#FF9DA7","#9C755F","#79A8D6","#8A8A3D"]
+                        
+                    },
+                    "legend" : null
                 },
                 "strokeWidth" : {
-                    "condition" : { "test" : "datum.country == 'Malaysia' " , "value" : 4},
+                    "condition" : { "test" : "datum.country == 'Malaysia' " , "value" : 4.5},
                     "value" : 2
                 }
             }

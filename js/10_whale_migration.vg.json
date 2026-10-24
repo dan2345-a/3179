@@ -4,7 +4,7 @@
     "params": [
         {
             "name": "Month_selection",
-            "value": "7",
+            "value": "8",
             "bind" : {
                 "input": "range",
                 "min": 1,
@@ -42,7 +42,7 @@
                 {
                     "data": {"url": "data/whale_month_grid.csv"},
                     "transform" : [{"filter": "datum.month == Month_selection"}],
-                    "mark" : {"type": "circle" , "color" :"#1B4965", "opacity": 0.6},
+                    "mark" : {"type": "circle" , "color" :"#1F78B4", "opacity": 0.6},
                     "encoding": {
                         "longitude" : {"field": "lon" , "type": "quantitative"},
                         "latitude" : {"field": "lat" , "type": "quantitative"},
@@ -86,7 +86,7 @@
                             "axis" : null
                         },
                         "color":{
-                            "condition" : { "test" : "datum.month == Month_selection", "value" : "#1B4965"},
+                            "condition" : { "test" : "datum.month == Month_selection", "value" : "#1F78B4"},
                             "value" : "#C9D9E6"
                         },
                         "tooltip" : [

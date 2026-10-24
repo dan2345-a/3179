@@ -44,9 +44,9 @@
                     "condition" : {
                         "param": "Species_hover",
                         "empty": false,
-                        "value" : "#E5533D"
+                        "value" : "#C62F3B"
                     },
-                    "value": "#8FA3A8"
+                    "value": "#A9B4BA"
                 }
                 
             }

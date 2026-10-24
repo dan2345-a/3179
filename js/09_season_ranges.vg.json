@@ -34,7 +34,7 @@
         },
         {
             "data": {"url": "data/seasons.csv"},
-            "mark" : { "type" : "bar", "color" : "#1d317e", "cornerRadius": 5, "height": {"band" : 0.5}},
+            "mark" : { "type" : "bar", "color" : "#B23A6B", "cornerRadius": 5, "height": {"band" : 0.5}},
             "encoding": {
                 "y": {
             "field" : "name",

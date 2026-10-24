@@ -57,7 +57,7 @@
                         "title": "Share of the animals's sightings",
                         "scale" : {
                             "type": "sqrt",
-                            "range" : ["#FFF0EC", "#FFC2B5", "#FF8A73", "#E5533D", "#9E2A1B"]
+                            "range" : ["#F6F0F9", "#DCC6E8", "#B48DCF", "#8557AA", "#542876"]
                         },
                         "legend" : {
                             "format" : ".0%",

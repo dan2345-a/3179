@@ -87,8 +87,8 @@
             "mark" : {
                 "type": "circle",
                 "size": 22,
-                "color" : "#161a98",
-                "opacity": 0.45,
+                "color" : "#2E7D4F",
+                "opacity": 0.5,
                 "clip": true
             },
             "encoding": {
